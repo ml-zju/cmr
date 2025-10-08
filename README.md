@@ -20,16 +20,22 @@ To our knowledge, this is the **first LLM-based agentic system for chemical safe
 
 ---
 
-## ⚙️ Installation
-
-### 1. Clone the repository
-```bash
+⚙️ Installation
+1. Clone the repository
 git clone https://github.com/ml-zju/cmr.git
 cd cmr
 
-### 2. Create the Conda environment
+2. Create the Conda environment
 conda env create -f environment.yml
 
-### 3. Activate the environment
+3. Activate the environment
 conda activate cmr
+
+🚀 Run the Application
+1. Launch CMR-Agent
+streamlit run app.py
+
+2. Access the web interface
+
+After running the command above, open the URL displayed in your terminal (usually http://localhost:8501) in your browser.
 
