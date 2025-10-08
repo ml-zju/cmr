@@ -1,0 +1,31 @@
+name: cmr
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cpuonly
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - ipython
+  - scikit-learn
+  - pip
+  - pip:
+    - rdkit
+    - lightning
+    - pytorch-lightning
+    - torchmetrics
+    - openai==0.28.0
+    - xarray
+    - pandas-flavor
+    - descriptastorus
+    - astartes
+    - flask
