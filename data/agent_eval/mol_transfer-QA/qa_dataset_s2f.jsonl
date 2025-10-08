@@ -1,0 +1,200 @@
+{"input": "What is the formula of the molecule C=CC(=C(OOSC1=CC=C(C)C=C1)C(=CC)C[N+](=O)[O-])[N+](=O)[O-] ?", "output": "C15H16N2O6S"}
+{"input": "Considering the SMILES code NC1=NC(C2=C3C=C(F)C=NC3=NN2)=NC=C1F, can you determine the corresponding molecular formula?", "output": "C10H6F2N6"}
+{"input": "Can you give the molecular molecular formula of CCN1N=C(C)C(CN2CCC(OC3=CC=C(C(=O)N4CCCC4)C=C3)CC2)=C1C ?", "output": "C24H34N4O2"}
+{"input": "Can you give the molecular molecular formula of COC1=CC(N)=CC(NCC(C)CO)=C1 ?", "output": "C11H18N2O2"}
+{"input": "Can you give the molecular molecular formula of C=C(C)C1CCC2(CNC3(CN(CC)CC)CC3)CCC3C(CCC4C3(C)CCC3C(C)(C)C(C5=CC=C(C(=O)O)C=C5C(C)C)=CCC34C)C12 ?", "output": "C47H72N2O2"}
+{"input": "Please provide the molecular formula for COC1=CC=C(C2=CC=CC2=C([O-])N(C(C)C)C(C)C)C=C1 .", "output": "C19H24NO2-"}
+{"input": "I'd like to know the molecular formula of CCCCCCC=CCCCCCCCCCC(=O)OCC(COC1OC(CS(=O)(=O)O)C(O)C(O)C1O)OC(=O)CCCCCCCCCCCCCCCC . Can you tell me?", "output": "C44H82O12S"}
+{"input": "Given the SMILES representation CCC(C)C(NC(=O)C(CCCNC(=N)N)CC(=O)C(CCC(C)=O)NC(=O)C(CC(=O)C(CCCNC(N)N)NC(=O)C(CCCCCCCN1CC(CCCC(=O)CC(CCCCCCCCN2CC(CC(C(=O)CC(CNC(CCC3=CC=CC=C3)C(=O)CC(CC3=CC=CC=C3)C(=O)NC(CC(C)C)C(=O)CC(CCCNC(=N)N)C(=O)NCC(N)=O)CC3=CC=CC=C3)C(=O)C(C)=O)NN2)C(=O)NC(C(C)=O)C(=O)CC(CC2=CC=CC=C2)C(=O)NC(CC2=CC=C(O)C=C2)C(=O)CC(CCCNC(=N)N)C(=O)NC(CC(C)C)C(=O)CCC(=O)NC(CC2=CC=C(O)C=C2)C(=O)CCCNC(=O)CCCCC2CCC3CC(=O)CC23)NN1)CC(C)=O)CC1=CN=CC1)C(N)=O, what would be its molecular formula?", "output": "C179H268N32O30"}
+{"input": "CC1=CC=C(F)C=C1C(C)(N)C1=CC(F)=CC(F)=C1 is the SMILES representation of a molecule. What is its molecular formula?", "output": "C15H14F3N"}
+{"input": "CCC(=O)NC1=CC=C(S(=O)(=O)C2=CC=C(CCNCC(O)C3=CC=CC(Cl)=C3)C=C2)C=C1C(=O)O is the SMILES representation of a molecule. What is its molecular formula?", "output": "C26H27ClN2O6S"}
+{"input": "The SMILES representation C;CC(C)(C)OC(=O)NC1CN(C2=CC=NC(CC(=O)NC3=CC=C(C4=CC5=C(C4)N=CN=C5N4CCOCC4)C=C3)=C2)C1;CC(C)(C)OC(=O)NC1CN(C2=CC=NC(CC(=O)O)=C2)C1;NC1=CC=C(C2=CC3=C(C2)N=CN=C3N2CCOCC2)C=C1 represents a specific molecule. Can you reveal its molecular formula?", "output": "C65H80N14O9"}
+{"input": "Can you tell me the molecular formula of CCCSC12N=CN(C3OC(CO)C(O)C3O)C1=NCN=C2N ?", "output": "C13H21N5O4S"}
+{"input": "CC(C)C(NC(=O)NC1=CC=CC(F)=C1F)C(=O)O is the SMILES representation of a molecule. What is its molecular formula?", "output": "C12H14F2N2O3"}
+{"input": "What is the molecular formula for the molecule denoted by CCNC(=NCC(=O)N1CCCC1)NCCOC1=CC=CC2=C1OC(C)(C)C2 ?", "output": "C21H32N4O3"}
+{"input": "What is the molecular formula for the molecule denoted by O=C(COCC1=CC=CC=C1)NNC(=O)C1=CC(C2=CC=CO2)=NC2=CC=CC=C12 ?", "output": "C23H19N3O4"}
+{"input": "Given the SMILES representation CCCCCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCCCCCCCC(C)CC, what would be its molecular formula?", "output": "C57H110O6"}
+{"input": "What is the molecular formula for the molecule denoted by FC1=CC=CC(OC(F)F)=C1C1(NC2=NC=C(C3=NN=C(C(F)F)O3)C=N2)CC1 ?", "output": "C17H12F5N5O2"}
+{"input": "C=C(C)C(=O)OC(C)(C)CCOC(=O)C1=CC=CC=C1 is the SMILES representation of a molecule. What is its molecular formula?", "output": "C16H20O4"}
+{"input": "What is the formula of the molecule CCNC(C)(CC1=CC=CC(F)=C1)C1=NC(C)=C(C)S1 ?", "output": "C16H21FN2S"}
+{"input": "What is the formula of the molecule CCCNC1=NC=CC=C1C(=O)NCC1=C(C)N(C)N=C1 ?", "output": "C15H21N5O"}
+{"input": "What is the molecular formula of CCNC(=O)N1CCC2=CC=C(NC(=O)C3CCCCN3)C=C21 ?", "output": "C17H24N4O2"}
+{"input": "The SMILES representation CC1=CC(NC(=O)C2=CC=CC=C2)=CC=C1NC(=O)C1=CC=CC(S(C)(=O)=O)=C1 represents a specific molecule. Can you reveal its molecular formula?", "output": "C22H20N2O4S"}
+{"input": "Please provide the molecular formula for COC(=O)C1=CC=CC=C1NC=C(C#N)C1=NC(C2=CC=C(C)C(C)=C2)=CS1 .", "output": "C22H19N3O2S"}
+{"input": "What is the molecular formula for the molecule denoted by COC1=CC=CC(C2=C3CN(C)CCC3=NC3=C2C(N)=C(C(=O)C2=CC=C(Cl)C=C2)S3)=C1 ?", "output": "C25H22ClN3O2S"}
+{"input": "Please write the molecular formula of the molecule CC(C)(C)C(=O)N1CCN(CCC(=O)NC2=CC=C(Br)C=C2)CC1 .", "output": "C18H26BrN3O2"}
+{"input": "Can you give the molecular molecular formula of COCCN(C)CCNC(=O)C1CCCC(N)C1C ?", "output": "C14H29N3O2"}
+{"input": "What is the molecular formula of CC1=CC=C(C2=C(C3=CC=C(C#CC4=CC(C(F)(F)F)=CC(C(F)(F)F)=C4)C=C3)C(=O)C(C3=CC=C(C#CC4=CC(C(F)(F)F)=CC(C(F)(F)F)=C4)C=C3)=C2C2=CC=C(C(C3=CC=C(F)C=C3)(C3=CC=C(C4=C(C5=CC=C(C#CC6=CC(C)=CC(C(F)(F)F)=C6)C=C5)C(=O)C(C5=CC=C(C#CC6=CC(C(F)(F)F)=CC(C(F)(F)F)=C6)C=C5)=C4C4=CC=C(C(F)(F)F)C=C4)C=C3)C(F)(F)F)C=C2)C=C1 ?", "output": "C108H54F28O2"}
+{"input": "Please write the molecular formula of the molecule CC1=CC(N2N=CN=C2C)=C2C=CC=C(OCC3=C(Cl)C=C(F)C=C3C(C)N)C2=N1 .", "output": "C22H21ClFN5O"}
+{"input": "What is the molecular formula for the molecule denoted by CN(C)CC=CC(=O)NCC1=NN(C2=CC=CC=C2)C2=C1CCC2 ?", "output": "C19H24N4O"}
+{"input": "Please provide the molecular formula for O=C1C2CC=CCC2C(=O)N1CC(=O)N(C1=CC=CC(Cl)=C1)C1=NC2=CC=CC=C2S1 .", "output": "C23H18ClN3O3S"}
+{"input": "I'd like to know the molecular formula of CC#CCNCC1=CC=C(OCCCCC)C=C1 . Can you tell me?", "output": "C16H23NO"}
+{"input": "What is the molecular formula of O=C(NNS(=O)(=O)C1=CC=C(C(F)(F)F)C=C1)C1=CC=CO1 ?", "output": "C12H9F3N2O4S"}
+{"input": "What is the molecular formula of COC(=O)CCCC1OC1COCC1=CC=CC=C1 ?", "output": "C15H20O4"}
+{"input": "Please write the molecular formula of the molecule CC1(C(=O)NC2CCC(C(F)(F)F)NC2)CCCO1 .", "output": "C12H19F3N2O2"}
+{"input": "Can you tell me the molecular formula of C=S1(=O)CCC(C(=O)N2CCN(C3=NC=C(C(F)(F)F)C=N3)CC2C2=CC=C(F)S2)CC1;C=S1(=O)CCC(C(=O)N2CCN(C3=NC=C(C)C=N3)CC2C2=CC=C(F)S2)CC1;C=S1(=O)CCC(C(=O)N2CCN(C3=NN=C(C(F)(F)F)S3)CC2C2=CC=C(F)S2)CC1 ?", "output": "C58H67F9N12O6S7"}
+{"input": "Given the SMILES representation CCN(CCO)C1=CC=C2N=CC=CC2=C1N, what would be its molecular formula?", "output": "C13H17N3O"}
+{"input": "The SMILES representation COCCNCC1=CC=C(N2C=C(C(N)=O)C=N2)C(Br)=C1 represents a specific molecule. Can you reveal its molecular formula?", "output": "C14H17BrN4O2"}
+{"input": "Considering the SMILES code CC(=O)C(C)=C(C)NCC1CCCCC1, can you determine the corresponding molecular formula?", "output": "C13H23NO"}
+{"input": "Considering the SMILES code CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(O)C([O-])CSC1=CC=CC=C1, can you determine the corresponding molecular formula?", "output": "C24H37N2O3S-"}
+{"input": "What is the molecular formula for the molecule denoted by CCOCC1=C2N=C(N3CCCC3C3=CC(F)=CN=C3CCN(CC)NC(=O)OC(C)(C)C)C=CN2N=C1 ?", "output": "C27H38FN7O3"}
+{"input": "What is the molecular formula for the molecule denoted by C1=CC=C(C(C2=CC=CC=C2)N2CCN(CCOCCC3=CC=CC4=CC=CC=C34)CC2)C=C1 ?", "output": "C31H34N2O"}
+{"input": "What is the formula of the molecule C=CC(=O)OCC(CC)[Si]([Si](C)(C)OC)([Si](C)(C)OC)[Si](C)(C)OC ?", "output": "C16H38O5Si4"}
+{"input": "The SMILES representation CCCOC1=CC=C(C(=O)NN=CC2=CC=CC(OCC3=CC=CC=C3Cl)=C2)C=C1OC represents a specific molecule. Can you reveal its molecular formula?", "output": "C25H25ClN2O4"}
+{"input": "Can you give the molecular molecular formula of C1=CC=C(N2C3=CC=CC=C3N(C3=CC=C(N4N=C5C=CC(N6C7=CC=CC=C7N(C7=CC=CC=C7)C7=CC=CC=C76)=CC5=N4)C=C3)C3=CC=CC=C32)C=C1 ?", "output": "C48H33N7"}
+{"input": "Can you give the molecular molecular formula of O=C(O)C(C1=CC=CC=C1)N1C(=O)C(=CC2=CC=NC=C2)SC1=S ?", "output": "C17H12N2O3S2"}
+{"input": "What is the molecular formula of CC1NC(=O)C(C)N(C)C(=O)C2CCCN2C(=O)C(NC(=O)C(CC2=CC(F)=CC(F)=C2)NC(=O)CCC2CCCCC2)COC(=O)C2CC(N)CN2C1=O ?", "output": "C38H53F2N7O8"}
+{"input": "Convert the SMILES representation of a molecule CC1=CC=C(C2SC2C)C2=C1N(C1=NC(C3=CC=CC=C3)=NC3=CC=CC=C13)C1=CC=CC=C21 into molecular formula.", "output": "C30H23N3S"}
+{"input": "Can you give the molecular molecular formula of CC1=NN(C2=CC=CC=C2Cl)C(Cl)=C1C=C(C#N)C(=O)N1CCCC1 ?", "output": "C18H16Cl2N4O"}
+{"input": "Considering the SMILES code CC(=O)NC(=S)NC1=CC=CC2=NC=CC=C12, can you determine the corresponding molecular formula?", "output": "C12H11N3OS"}
+{"input": "Given the SMILES representation COC1=CC2=NC=NC(N3CCNC(C4=CC=C(Cl)C=C4Cl)C3)=C2C=C1OC, what would be its molecular formula?", "output": "C20H20Cl2N4O2"}
+{"input": "What is the formula of the molecule C1=CC=C(C2=CC=CC3=NON=C23)C=C1 ?", "output": "C12H8N2O"}
+{"input": "Please write the molecular formula of the molecule C1=CC=C(C2=NC(C3=CC=CC=C3)=NC(N3C4=CC=CC=C4C4=CC(C5=CC=C6C(=C5)C5=CC=CC=C5N6C5=CC=CC=C5)=CC=C43)=N2)C=C1;FC1=C(F)C(F)=C(C2=CC(C3=CC=CC=C3)=CC(N3C4=CC=CC=C4C4=CC(C5=CC=C6C(=C5)C5=CC=CC=C5N6C5=CC=CC=C5)=CC=C43)=C2)C(F)=C1F;N#CC1=CC=CC=C1C1=CC(C2=CC=CC=C2C#N)=CC(N2C3=CC=CC=C3C3=CC(C4=CC=C5C(=C4)C4=CC=CC=C4N5C4=CC=CC=C4)=CC=C32)=C1 .", "output": "C143H86F5N11"}
+{"input": "What is the molecular formula for the molecule denoted by CCOC1=CC=C(NC(=O)CN2N=C(C3=CC=CC=C3)N(C3=CC(C)=CC=C3C)C2=S)C=C1 ?", "output": "C26H26N4O2S"}
+{"input": "What is the molecular formula of CCCCCCCCCCCCCCC(OCC1=CC=CC=C1)C(OCC1=CC=CC=C1)C(COC1OC(COCC2=CC=CC=C2)C(C)C(C)C1C)N=[N+]=[N-];CCCCCCCCCCCCCCC(OCC1=CC=CC=C1)C(OCC1=CC=CC=C1)C(COC1OC(COCC2=CC=CC=C2)C(C)C(C)C1C)NC(=O)CCCCCCCCCC(=O)C(F)(F)F;O=C(O)CCC(=O)C(F)(F)F ?", "output": "C113H166F6N4O15"}
+{"input": "The SMILES representation CC1=NN(CC2=CC=CC=C2)C(C)=C1CNCC(O)CN1CCCC1 represents a specific molecule. Can you reveal its molecular formula?", "output": "C20H30N4O"}
+{"input": "CC(CO)C(C)NCC1=CC=C(O)C(Br)=C1 is the SMILES representation of a molecule. What is its molecular formula?", "output": "C12H18BrNO2"}
+{"input": "Can you tell me the molecular formula of C=CCCNCC1(C(C)(O)C2=CC=C(Br)C=C2)C=CC(C2=CC=CC=C2)=CC1 ?", "output": "C25H28BrNO"}
+{"input": "What is the formula of the molecule CCCCCCCCCCC=CCC(C)CCC ?", "output": "C18H36"}
+{"input": "I'd like to know the molecular formula of CCCCCCC#CC1=CC=C(SC)C=C1 . Can you tell me?", "output": "C15H20S"}
+{"input": "Can you give the molecular molecular formula of CC1=CC=C(C2=C(C)N(C)N=C2C)C=C1N(C)C1=CC=C(C#N)C(Br)=C1;CC1=CC=C(C2=C(C)N(C)N=C2C)C=C1N(C)C1=CC=C(C#N)C(C(F)(F)F)=C1;CCN1N=C(C)C(C2=CC=C(C)C(N(C)C3=CC=C(C#N)C(Br)=C3)=C2)=C1C;CCN1N=C(C)C(C2=CC=C(C)C(N(C)C3=CC=C(C#N)C(C(F)(F)F)=C3)=C2)=C1C ?", "output": "C88H88Br2F6N16"}
+{"input": "Given the SMILES representation CN(CC(=O)OC(C)(C)C)C(=O)C1=CC=C(O)C(Cl)=C1, what would be its molecular formula?", "output": "C14H18ClNO4"}
+{"input": "Can you tell me the molecular formula of CN1N=NC(C2=CC=C(C3=CC=C(N4C=C(COC(=O)C5CCCN5)OC4)C=C3F)C=N2)=N1 ?", "output": "C22H22FN7O3"}
+{"input": "Please provide the molecular formula for N=C(O)CC(N=C(O)C1CCC(O)=N1)C(O)=NC1CSSCC2N=C(O)C(CC3=CNC4=CC=CC=C34)N=C(O)C(CCCCN)N=C(O)C(CO)N=C(O)C(CO)N=C(O)C3CSSCC(C(=N)O)N=C(O)C(CSSCC(N=C1O)C(O)=NC(CC(=N)O)C(O)=N3)N=C(O)C(CCCNC(=N)N)N=C(O)C(CO)N=C(O)C(CC1=CN=CN1)N=C(O)C(CC(=O)O)N=C(O)C(CCCNC(=N)N)N=C2O .", "output": "C79H117N31O26S6"}
+{"input": "Convert the SMILES representation of a molecule CC1(C(=O)O)CCN(C(=O)C2=CC=CC(N3C=CC(C(F)(F)F)=N3)=C2)C1 into molecular formula.", "output": "C17H16F3N3O3"}
+{"input": "Can you tell me the molecular formula of O=C(CCNC(=O)C1=CC=CC=C1Cl)NC1=CC=CC=C1C(=O)NC1CCCC1 ?", "output": "C22H24ClN3O3"}
+{"input": "What is the molecular formula for the molecule denoted by O=C(O)C1CCC(C(=O)O)SS1 ?", "output": "C6H8O4S2"}
+{"input": "I'd like to know the molecular formula of CCCC(CC(=O)C1CC(OCC2=CC=CC=C2)CN1C(=O)C(CC(=O)C1=CC=CC=C1[N+](=O)[O-])C1CCCCC1)C(=O)C(=O)CCC(=O)NC(C(=O)O)C1=CC=CC=C1 . Can you tell me?", "output": "C46H53N3O11"}
+{"input": "I'd like to know the molecular formula of CC1CN(CC2(CC#N)CC2)CC(C)(C)O1 . Can you tell me?", "output": "C13H22N2O"}
+{"input": "Convert the SMILES representation of a molecule CC1=NSC(C)=C1NC(=O)CCN1N=CC2=CC=CC=C21 into molecular formula.", "output": "C15H16N4OS"}
+{"input": "What is the molecular formula for the molecule denoted by CC(=O)NC1=CC=C(NC(=O)C(C)OC(=O)C2CCCO2)C=C1 ?", "output": "C16H20N2O5"}
+{"input": "Please provide the molecular formula for N#CCOC1=CC=C(C=C(Cl)C2=NC(C3=CC=C(F)C=C3)=NO2)C=C1 .", "output": "C18H11ClFN3O2"}
+{"input": "Considering the SMILES code C=C1C2CC(OC(C)=O)C3C4(CCCC(C)(C)C4C=O)COC(=O)C3(C2)C1O, can you determine the corresponding molecular formula?", "output": "C22H30O6"}
+{"input": "I'd like to know the molecular formula of CCOC1=CC(C=NNC(=O)C2=CSC3=CC=CC=C23)=CC=C1O . Can you tell me?", "output": "C18H16N2O3S"}
+{"input": "I'd like to know the molecular formula of CCN(CC)S(=O)(=O)C1=CC=C(F)C(C(=O)NC2=CC=C(OC)C=C2OC)=C1 . Can you tell me?", "output": "C19H23FN2O5S"}
+{"input": "Can you give the molecular molecular formula of CCCCCCCCCCCCCCCCCC=CCCC=CCCC=CC(O)C(COP(=O)([O-])OCC[N+](C)(C)C)NC(=O)CCCCCCCCCCCCCCCCCCCCCCCC ?", "output": "C60H117N2O6P"}
+{"input": "Can you give the molecular molecular formula of COC(=O)C(C)CSC(=O)CC1=CC=CC=C1 ?", "output": "C13H16O3S"}
+{"input": "Convert the SMILES representation of a molecule CC1=CC(C)=CC(C2=C3C=NC4=CC=CC=C4C3=C(C3=CC=C4C=CC=CC4=C3)C3=CC=CC=C23)=C1 into molecular formula.", "output": "C35H25N"}
+{"input": "What is the formula of the molecule CC(Cl)CCCNC(=O)C1=CC2=C(CCCC2)S1 ?", "output": "C14H20ClNOS"}
+{"input": "Can you tell me the molecular formula of CC1(COC2=C(N3CCN(S(=O)(=O)CC4=CNN=C4)CC3)C=NN(C3=CC(F)=CC(F)=C3)C2=O)CC1 ?", "output": "C23H26F2N6O4S"}
+{"input": "What is the molecular formula for the molecule denoted by CCCC1=CN=C(NSC2=CC=C3CCN(C(C)C4=CC(F)=CC(F)=C4)CC3=C2)C=N1 ?", "output": "C24H26F2N4S"}
+{"input": "What is the molecular formula for the molecule denoted by CC1=CC=CC=C1OCCCOC1=CC=C(C=C2C(=N)N3N=C(CC(=O)N4CCCC4)SC3=NC2=O)C=C1 ?", "output": "C28H29N5O4S"}
+{"input": "Given the SMILES representation OC1=C(C2=NCCOC2)C2=CC(CCC3CCOC3)=CC=C2N1C1CCOCC1, what would be its molecular formula?", "output": "C23H30N2O4"}
+{"input": "Convert the SMILES representation of a molecule O=C(OC1=CC=C(Br)C=C1C=NNC(=O)C(OC1=CC=CC=C1)OC1=CC=CC=C1)C1=CC=CC=C1 into molecular formula.", "output": "C28H21BrN2O5"}
+{"input": "Considering the SMILES code NC1=CC2(CN1)C1=CC=NC=C1OC1=CC=C(C3=CC=CN=C3)C=C12, can you determine the corresponding molecular formula?", "output": "C20H16N4O"}
+{"input": "What is the molecular formula of C=CC(=O)OCOC(CCOC1=CC=C2C=C(C3=CC=C(CCCCC)C=C3C(F)(F)F)C(=O)OC2=C1)CCOC1=CC=C2C=C(C3=CC=C(CCCCC)C=C3C(F)(F)F)C(=O)OC2=C1 ?", "output": "C51H50F6O9"}
+{"input": "What is the formula of the molecule CC(C)(C)C1=CC=C(OP(N2C=CC=C2)N2C=CC=C2)C(C2=C(C(C)(C)C)C(C(C)(C)C)=CC=C2OP(N2C=CC=C2)N2C=CC=C2)=C1C(C)(C)C ?", "output": "C44H56N4O2P2"}
+{"input": "Convert the SMILES representation of a molecule NC1=CC=C(SCC2=NOC(C3=CC=CS3)=C2)C(F)=C1 into molecular formula.", "output": "C14H11FN2OS2"}
+{"input": "Convert the SMILES representation of a molecule CC1=NC2=CC(OCC3=NC(C(=O)NCC(C)CN(C)C)=CO3)=CC=C2S1 into molecular formula.", "output": "C19H24N4O3S"}
+{"input": "Considering the SMILES code CC(C)(C)OC(=O)NCC(=O)NCC(=O)NCCNC1=CC=C([N+](=O)[O-])C=C1[N+](=O)[O-], can you determine the corresponding molecular formula?", "output": "C17H24N6O8"}
+{"input": "I'd like to know the molecular formula of CCCNCCC1=NN=C(C2=CC=CC(C)=C2[N+](=O)[O-])O1 . Can you tell me?", "output": "C14H18N4O3"}
+{"input": "Can you tell me the molecular formula of CNCC1CCN(C)C1C1=CC(Br)=C(Br)S1 ?", "output": "C11H16Br2N2S"}
+{"input": "COC1=CC=C(CC2=CC(C3=CC(F)=CC=C3OC)=NC=N2)C=C1O is the SMILES representation of a molecule. What is its molecular formula?", "output": "C19H17FN2O3"}
+{"input": "What is the molecular formula for the molecule denoted by C=CC(C(O)CCC(=CC1=CC=C(O)C=C1Cl)CCC)C(O)COCC1=CC=CC=C1 ?", "output": "C26H33ClO4"}
+{"input": "Can you tell me the molecular formula of C1=CC=C(C2=CC(C3=CC=CC(N4C5=CC=CC=C5C5=C(C6=CC=CC=C64)N(C4=CC=CC=C4)C4=C(C6=CC=CC=C6)C=CC=C54)=C3)=CC(C3=CC=CC=C3)=N2)C=C1 ?", "output": "C55H37N3"}
+{"input": "Given the SMILES representation COCCN1CCN(CCS(=O)(=O)C(F)(F)F)CC1C, what would be its molecular formula?", "output": "C11H21F3N2O3S"}
+{"input": "Can you tell me the molecular formula of CCC(CC)(C(N)CCCS(C)(=O)=O)N(C)C ?", "output": "C12H28N2O2S"}
+{"input": "Convert the SMILES representation of a molecule O=[N+]([O-])C1=CC(C2=NC3=NC4=CC=CC=C4N=C3N2CC2CCCO2)=CC([N+](=O)[O-])=C1 into molecular formula.", "output": "C20H16N6O5"}
+{"input": "What is the molecular formula for the molecule denoted by CCC1=CC=CC2=C1N(C)C(=NC(=O)C1=CC=CC(Cl)=C1)S2 ?", "output": "C17H15ClN2OS"}
+{"input": "Convert the SMILES representation of a molecule NCC1=CC(N)=CC(C(F)(F)F)=C1F into molecular formula.", "output": "C8H8F4N2"}
+{"input": "CCCCCC=CCC=CCCCCCCCCCC(=O)NC(COP(=O)([O-])OCC[N+](C)(C)C)C(O)C=CCCC=CCCCCCCCCCCCC is the SMILES representation of a molecule. What is its molecular formula?", "output": "C46H87N2O6P"}
+{"input": "What is the formula of the molecule N#CC(CO)(CC1=CC=CC=C1)CC1=CC=CC=C1 ?", "output": "C17H17NO"}
+{"input": "Please provide the molecular formula for COC(=O)C1=C(C)OC(CNCCC(C)(C)C(=O)O)=C1 .", "output": "C14H21NO5"}
+{"input": "Considering the SMILES code CC1=CC=C2N=C3CCCCCN3C2=C1, can you determine the corresponding molecular formula?", "output": "C13H16N2"}
+{"input": "I'd like to know the molecular formula of COCC1=NC2=C(N)C=CC=C2N1CC(O)CO . Can you tell me?", "output": "C12H17N3O3"}
+{"input": "I'd like to know the molecular formula of CCNCC1=CN(C2=CC(C)=CC(C)=C2)N=C1 . Can you tell me?", "output": "C14H19N3"}
+{"input": "Please write the molecular formula of the molecule CC(C)(C)C1=CC=C(O)C=C1;CC(C)(C)C1=CC=C(O)C=C1;O=C(O)O .", "output": "C21H30O5"}
+{"input": "Considering the SMILES code CN1CCC(O)(CNC(=O)C2=CC3=CC=CN=C3S2)C1, can you determine the corresponding molecular formula?", "output": "C14H17N3O2S"}
+{"input": "What is the formula of the molecule CCCOC1=CC=C(NC(=O)NC(C2=CC=CC=C2)C2=NNC(C)=N2)C=C1OCCC ?", "output": "C23H29N5O3"}
+{"input": "Convert the SMILES representation of a molecule CN1C=CN=C1C(NC(=O)C1=CC2=C(CCCC2)S1)C1=CC=C(Cl)C=C1 into molecular formula.", "output": "C20H20ClN3OS"}
+{"input": "O=C1NC(=O)C(=CC2=CC=C(I)C=C2)S1 is the SMILES representation of a molecule. What is its molecular formula?", "output": "C10H6INO2S"}
+{"input": "I'd like to know the molecular formula of CC1=CC(C)=CC(NC(=O)C(C)SC2=NC3=CC=CC=C3N2)=C1 . Can you tell me?", "output": "C18H19N3OS"}
+{"input": "Please provide the molecular formula for CC1(CNC2=CC(F)=C(Br)C=C2N)CCCCC1 .", "output": "C14H20BrFN2"}
+{"input": "What is the molecular formula of CCC1OC(N2C=C(SC)C3=CC=CC=C32)C(C)C(C)C1C;CCC1OC(N2C=CC3=CC=CC=C32)C(C)C(C)C1C;CSCl ?", "output": "C38H55ClN2O2S2"}
+{"input": "What is the molecular formula of CC1(C)CN(C(=O)CNC(=O)C2=CC=C(N)C=C2)CCS1 ?", "output": "C15H21N3O2S"}
+{"input": "Please write the molecular formula of the molecule CCC1=CC2=C(C3=CC=CC4=CC=CC=C34)C=CC=C2[CH-]1;[CH2-]CCC;[CH2-]CCC;[Ti+3] .", "output": "C29H35Ti"}
+{"input": "Please provide the molecular formula for COC1=CC(C=CC(=O)C2=CC=C(Cl)C=C2)=CC=C1OC(=O)C1=C(OC)C=CC=C1OC .", "output": "C25H21ClO6"}
+{"input": "Please write the molecular formula of the molecule O=C(NC1=CN=C(CBr)C=N1)C(=NOC1CCCC1)C1=CC=C(S(=O)(=O)C2CC2)C=C1 .", "output": "C21H23BrN4O4S"}
+{"input": "Considering the SMILES code CC(C)(C)OC(=O)C1(CCl)CNCCO1, can you determine the corresponding molecular formula?", "output": "C10H18ClNO3"}
+{"input": "Considering the SMILES code CNS(=O)(=O)C1=CN(C)C(C(=O)N(C)CC(C)C(=O)O)=C1, can you determine the corresponding molecular formula?", "output": "C12H19N3O5S"}
+{"input": "What is the molecular formula of CCC1=NC(C(=O)NCC2CCCC2C(=O)O)=NN1 ?", "output": "C12H18N4O3"}
+{"input": "Given the SMILES representation O=C1NCCN(C(=O)NCC2(CN3C=CC=N3)CC2)C1C1=CC=C(F)C=C1, what would be its molecular formula?", "output": "C19H22FN5O2"}
+{"input": "What is the formula of the molecule CCOCCCN1C(=O)C2=CC=CC=C2C1NC1=CC=CC(C(=O)NCC(C)C)=C1 ?", "output": "C24H31N3O3"}
+{"input": "CC(C)(C)C1CCC(C(=O)C2=CC=C(Br)C=C2)CC1 is the SMILES representation of a molecule. What is its molecular formula?", "output": "C17H23BrO"}
+{"input": "Given the SMILES representation CC(N)COC1=CC=C(C2=CN=C(N)C(C(=O)CC3=CN=CC=C3N3CCOCC3)=N2)C=C1, what would be its molecular formula?", "output": "C24H28N6O3"}
+{"input": "Can you give the molecular molecular formula of C=CC1=C(C=C)C(C)CCC1 ?", "output": "C11H16"}
+{"input": "Given the SMILES representation CCS(=O)(=O)C1=CC=C(N2CCC3CCC(C2)N3C(C)C)C=C1, what would be its molecular formula?", "output": "C18H28N2O2S"}
+{"input": "What is the formula of the molecule CSC1=CC=C(C(=O)CN(C)CC2CCCCO2)C=C1 ?", "output": "C16H23NO2S"}
+{"input": "I'd like to know the molecular formula of COC(=O)NC(C(=O)N1CCCC1C1=NC=C(C2=CC=C3OC(C4=CC=C(C5=CN=C(C6CCCN6C(=O)C(C)NC(=O)OC(C)(C)C)N5)C=C4)=NC3=C2)N1)C(C)C . Can you tell me?", "output": "C42H51N9O7"}
+{"input": "Given the SMILES representation O=C(NC1=CC=CC(C2=C(C3=CC=NC=C3)C=NN2)=C1)C1CC1, what would be its molecular formula?", "output": "C18H16N4O"}
+{"input": "What is the molecular formula for the molecule denoted by CS(=O)(=O)NCCCNC(=O)C1CNCCO1 ?", "output": "C9H19N3O4S"}
+{"input": "What is the formula of the molecule O=C(CN1C=CN=C1)N1C2CCC1CN(C1=NC(OCC34CCCN3CCC4)=NC3=C(F)C(C4=CC(O)=CC5=CC=CC=C45)=CC=C13)C2 ?", "output": "C37H38FN7O3"}
+{"input": "NC(=CC=S)C1=CNC2=NC=CC(N3CCCC4(CCCCN4)C3)=C12 is the SMILES representation of a molecule. What is its molecular formula?", "output": "C19H25N5S"}
+{"input": "Given the SMILES representation CNCCNC(=O)C1=CC=C(C(C)N=[N+]=[N-])C=C1, what would be its molecular formula?", "output": "C12H17N5O"}
+{"input": "Given the SMILES representation COC1=CC(OC)=C2C=NC(NC3=NNC(C)=C3)=CC2=C1, what would be its molecular formula?", "output": "C15H16N4O2"}
+{"input": "O=S(=O)(Cl)C1=CC=C(N2CCNS2(=O)=O)C=C1 is the SMILES representation of a molecule. What is its molecular formula?", "output": "C8H9ClN2O4S2"}
+{"input": "NC(=O)C1CCN(C(=O)C2CCC(C3=CC=CC=C3)CC2)CC1 is the SMILES representation of a molecule. What is its molecular formula?", "output": "C19H26N2O2"}
+{"input": "Please write the molecular formula of the molecule C#CC(O)(C1=CC(Cl)=CC(Cl)=C1)C(F)(F)F .", "output": "C10H5Cl2F3O"}
+{"input": "Can you give the molecular molecular formula of CCC(=O)NC1=CC=C(C(=O)NN=C(C)C2=CC=C3C=CC=CC3=C2)C=C1 ?", "output": "C22H21N3O2"}
+{"input": "I'd like to know the molecular formula of N=C1C2=C(N=CN1CC1=CC(Br)=C(OCC3=CC=CC=C3)C(Br)=C1)N(C1OC(CO)C(O)C1O)C(=O)N2 . Can you tell me?", "output": "C24H23Br2N5O6"}
+{"input": "What is the formula of the molecule CC1CC2CC(C1)CC(C)C(C)C2 ?", "output": "C13H24"}
+{"input": "The SMILES representation CCN1N=CC(C=NNC(=O)C2=CC(C(F)(F)F)=NN2C)=C1F represents a specific molecule. Can you reveal its molecular formula?", "output": "C12H12F4N6O"}
+{"input": "Please write the molecular formula of the molecule CC1=CN=C(C(C)CCC2=C(C)SC(C(C)C)=N2)S1 .", "output": "C15H22N2S2"}
+{"input": "Convert the SMILES representation of a molecule NC(=O)C1=C(N)C2=C(OC3=CC=CN=C3)N=C(NC3CC3)N=C2S1 into molecular formula.", "output": "C15H14N6O2S"}
+{"input": "Please provide the molecular formula for CC1(OCC2=CC=CC=C2Cl)C=CC(NC2=C(C#N)C=NC3=CC(OC4CCOC4)=C(NC(=O)C=C4CCNCC4)C=C23)=CC1F .", "output": "C35H35ClFN5O4"}
+{"input": "Considering the SMILES code CC(C)(C)OC(=O)NCC1CN(C(=O)OC(C)(C)C)CC1CN, can you determine the corresponding molecular formula?", "output": "C16H31N3O4"}
+{"input": "What is the molecular formula of O=C(O)C1=CC(SC2=CC=CC=C2)=C(C(=O)O)C=C1NC1=CC=C(Cl)C=C1 ?", "output": "C20H14ClNO4S"}
+{"input": "Can you tell me the molecular formula of CCNC(=O)C1=CC=CC(NC(=S)NC(=O)C(C)C2=CC=C(CC(C)C)C=C2)=C1 ?", "output": "C23H29N3O2S"}
+{"input": "Can you give the molecular molecular formula of C1=CC=C(C2=CC=C3C=C4C5=C(C=CC4=CC3=C2)CC2=CC=CC=C25)C=C1 ?", "output": "C27H18"}
+{"input": "Can you give the molecular molecular formula of CCOC1=CC=C(NC(=O)CN2CCC(CN3C(C)=NC4=CC=CC=C43)CC2)C=C1 ?", "output": "C24H30N4O2"}
+{"input": "Please write the molecular formula of the molecule CCC1=CC=C(C(C)NC(=O)C2=CC(S(=O)(=O)N3CCOCC3)=CC=C2C)C=C1 .", "output": "C22H28N2O4S"}
+{"input": "Can you give the molecular molecular formula of NCCNCC1=CC=CC(CCS(=O)(=O)[O-])=N1;[Na+] ?", "output": "C10H16N3NaO3S"}
+{"input": "Can you tell me the molecular formula of CCCN(CC1=CC=C(N)C=C1)C(=O)C1=CC=CC(Br)=C1 ?", "output": "C17H19BrN2O"}
+{"input": "Can you give the molecular molecular formula of CC1=CC=C(C2CCOCC2)C(O)=C1 ?", "output": "C12H16O2"}
+{"input": "Please provide the molecular formula for C;C;CC(=CCO)C1=CC=C2C(=C1)C(C)=CCC2(C)C;CC(C=CC1CC1(C)C1=CC=C2C(=C1)C(C)=CCC2(C)C)=CC(=O)O;CC1(C)CCC(=O)C2=CC(Br)=CC=C21;CC1=CCC(C)(C)C2=CC=C(Br)C=C12;CC1=CCC(C)(C)C2=CC=C(C3(C)CC3C=O)C=C12;CC1=CCC(C)(C)C2=CC=C(C3(C)CC3CO)C=C12;CC1=CCC(C)(C)C2=CC=C(C3(C)CC3CO)C=C12;CC1OCOC1C;CC=C(C)C=CC1CC1(C)C1=CC=C2C(=C1)C(C)=CCC2(C)C;CC=C(C)CC;[Na+];[OH-] .", "output": "C155H209Br2NaO10"}
+{"input": "What is the formula of the molecule CN1CC2(C)C=CC12 ?", "output": "C7H11N"}
+{"input": "Please provide the molecular formula for COC1=CC=C(C(=O)NNC(=O)CC2=CC=C(F)C=C2)C=C1Br .", "output": "C16H14BrFN2O3"}
+{"input": "CCCNCC1=CC=CC=C1C(N)=NO is the SMILES representation of a molecule. What is its molecular formula?", "output": "C11H17N3O"}
+{"input": "What is the molecular formula of CCN(CC)CCSC1=CC=C(Cl)C=N1 ?", "output": "C11H17ClN2S"}
+{"input": "Please write the molecular formula of the molecule COCC1=CC=CC(NC(=O)C2=CC=C([N+](=O)[O-])O2)=C1 .", "output": "C13H12N2O5"}
+{"input": "Given the SMILES representation CCN(C)C(=O)CNC1CN2CCC1CC2, what would be its molecular formula?", "output": "C12H23N3O"}
+{"input": "I'd like to know the molecular formula of O=CC1=NC=C(C2=CC(Cl)=CC=C2Cl)C=C1O . Can you tell me?", "output": "C12H7Cl2NO2"}
+{"input": "What is the molecular formula of CS(=O)(=O)NC1=CC=CC=C1C1CCNCC1 ?", "output": "C12H18N2O2S"}
+{"input": "What is the formula of the molecule FC(F)C1=C(CCl)N=CC(I)=C1Cl ?", "output": "C7H4Cl2F2IN"}
+{"input": "Considering the SMILES code CCC(C)CS(=O)(=O)C(C)C(=O)NC1=CC=CC(C#N)=C1, can you determine the corresponding molecular formula?", "output": "C15H20N2O3S"}
+{"input": "Can you give the molecular molecular formula of CSC(=N)C1=CC=NC(Cl)=C1 ?", "output": "C7H7ClN2S"}
+{"input": "Can you give the molecular molecular formula of O=C(NCC(F)F)C1CCOC2=CC=C(S(=O)(=O)Cl)C=C21 ?", "output": "C12H12ClF2NO4S"}
+{"input": "Can you give the molecular molecular formula of CCC1=NSC(N2CCN(C(=NC)NCC3CN(C)CCN3C)CC2)=N1 ?", "output": "C17H32N8S"}
+{"input": "What is the molecular formula of C[Si](C)(C)C#CC1=CC=CC(CC(CO)NC(=O)O)=C1 ?", "output": "C15H21NO3Si"}
+{"input": "What is the molecular formula for the molecule denoted by CNC(CC1=CC=CC(Cl)=C1F)C1=CC=CC(Br)=C1Cl ?", "output": "C15H13BrCl2FN"}
+{"input": "The SMILES representation CCCNC(CCC1=NC=CN1C)C1=CC=C(C)C=C1 represents a specific molecule. Can you reveal its molecular formula?", "output": "C17H25N3"}
+{"input": "Please write the molecular formula of the molecule CCSC1=CC=C(C(O)CC2=CC=CC(OC)=C2)C=C1 .", "output": "C17H20O2S"}
+{"input": "I'd like to know the molecular formula of CONC1=C(O)C2=C(C(=O)C=CC2=O)C(O)=C1NCCC[N+](C)(C)O . Can you tell me?", "output": "C16H22N3O6+"}
+{"input": "Please provide the molecular formula for CCN1CCN(C(C2=CC(Br)=CS2)C(C)N)CC1 .", "output": "C13H22BrN3S"}
+{"input": "Considering the SMILES code C=CCCCCCN(O)C(=O)C=CC1=CC=C(Cl)C=C1Cl, can you determine the corresponding molecular formula?", "output": "C16H19Cl2NO2"}
+{"input": "Can you tell me the molecular formula of COC1=CC=C(N2CCCN(C(=O)C3=CC=CC(CS(=O)(=O)C4=CC=CC=C4)=C3)CC2)C=C1 ?", "output": "C26H28N2O4S"}
+{"input": "The SMILES representation CC(=O)N(C(C)=O)C1=CCCCCC1=O represents a specific molecule. Can you reveal its molecular formula?", "output": "C11H15NO3"}
+{"input": "The SMILES representation CCOC1OC2=CC=C(C)C=C2C(=O)C1=CNC1=NC2=CC=C(Cl)C=C2S1 represents a specific molecule. Can you reveal its molecular formula?", "output": "C20H17ClN2O3S"}
+{"input": "Given the SMILES representation CC1=CN2C=C(C(=O)NC3CCOCC3OCC3=CSC=N3)N=C2C=C1, what would be its molecular formula?", "output": "C18H20N4O3S"}
+{"input": "Can you tell me the molecular formula of CC;CC1=NNC(=S)N1C ?", "output": "C6H13N3S"}
+{"input": "Considering the SMILES code CC1=CC=CC(C)=C1C1=CC2=NC(=N1)NS(=N)(=O)C1=CC(=CC=C1)C(=O)N1CCNCC(C1)O2, can you determine the corresponding molecular formula?", "output": "C24H26N6O3S"}
+{"input": "I'd like to know the molecular formula of COCCCOC1=CC(C(=O)N(C(C)C)C2CCC(CCN(C(=O)C3=CC=CC=C3)C3CC3)NC2)=CC=C1OC . Can you tell me?", "output": "C32H45N3O5"}
+{"input": "What is the formula of the molecule CC1=CC(C(=O)N2CCC3(CC2)CC(C2=CC=CN=C2)C(=O)N3C)=NO1 ?", "output": "C19H22N4O3"}
+{"input": "Given the SMILES representation C[Si](C)(C)N=P(CC1=CC=CC(CP(=N[Si](C)(C)C)(C2CCCCC2)C2CCCCC2)=C1)(C1CCCCC1)C1CCCCC1, what would be its molecular formula?", "output": "C38H70N2P2Si2"}
+{"input": "Can you tell me the molecular formula of CC(=NNC(=O)C(C)N1N=C(C)C([N+](=O)[O-])=C1C)C1=CC=C(OC(=O)C2=CC=CC=C2)C=C1 ?", "output": "C23H23N5O5"}
+{"input": "Convert the SMILES representation of a molecule COC1=CC=C(C)C=C1C(C)NC1=CC(C)=CC=C1C into molecular formula.", "output": "C18H23NO"}
+{"input": "Convert the SMILES representation of a molecule O=C(NC1=NCC2=CC=C(C(=O)NC3(C4=CC=CC=N4)CC3)C=C12)C1=CC=C(F)C=C1 into molecular formula.", "output": "C24H19FN4O2"}
+{"input": "Please write the molecular formula of the molecule CCC(=O)NC1CCC(C)(N)CC1 .", "output": "C10H20N2O"}
+{"input": "Convert the SMILES representation of a molecule CCOC(=O)C1=C(C)N(C(N)=O)C(C=C2C(=O)NC3=CC(OC4=CC=CC(NC(=O)C5=CC=CC(C(F)(F)F)=C5)=C4)=CC=C23)=C1C into molecular formula.", "output": "C33H27F3N4O6"}
+{"input": "Please provide the molecular formula for CCC(=O)NC1=CC(C(N)=O)=CC(C(N)=O)=C1 .", "output": "C11H13N3O3"}
+{"input": "Please provide the molecular formula for CC(=NO)C1=NC2=CC=NN2C(N(COCC[Si](C)(C)C)COCC[Si](C)(C)C)=C1 .", "output": "C20H37N5O3Si2"}
+{"input": "What is the molecular formula of COC1=CC=C(C2=C(C3=CC=C(OC)C=C3)SC(C)C(C=O)=C2)C=C1 ?", "output": "C21H20O3S"}
+{"input": "What is the formula of the molecule O=C(CCCCCCC(=O)NN=CC1=CC(Br)=CC=C1O)NN=CC1=CC(Br)=CC=C1O ?", "output": "C22H24Br2N4O4"}
+{"input": "ClC1=CC=C(CNC2=CC=CC(C3=CNC4=NC=C(Cl)C=C34)=N2)C(Cl)=C1 is the SMILES representation of a molecule. What is its molecular formula?", "output": "C19H13Cl3N4"}
+{"input": "Can you give the molecular molecular formula of CC(OC1=CC(C2=CC=C(C(=O)N3CCCC3)C=C2)=CN=C1N)C1=C(Cl)C=CC(F)=C1Cl ?", "output": "C24H22Cl2FN3O2"}
+{"input": "The SMILES representation CC(C)OCCNCC1CCC(C)O1 represents a specific molecule. Can you reveal its molecular formula?", "output": "C11H23NO2"}
+{"input": "Please write the molecular formula of the molecule COCC1=C(OC)N=C(C(C)C)C(C=CC=O)=C1C1=CC=C(F)C=C1 .", "output": "C20H22FNO3"}
+{"input": "What is the molecular formula of CC1CCCC(NC2=NC(C3=CNC4=CC=C(F)C=C34)=CS2)C1 ?", "output": "C18H20FN3S"}
+{"input": "What is the formula of the molecule CS(=O)(=O)C1=CC=C(C(O)COC2=CC=C3C=CC=NC3=C2)C=C1 ?", "output": "C18H17NO4S"}
+{"input": "I'd like to know the molecular formula of CC1=C(C2=CC(C(=O)NCC(C)C3=CC=CC=C3)=C3C=CC=CC3=N2)C=NN1C1=CC=C(C(C)C)C=C1 . Can you tell me?", "output": "C32H32N4O"}
+{"input": "I'd like to know the molecular formula of COC1=CC=C(C)C=C1NC1=CC=NC(NCCC2=CC=CC=C2F)=N1 . Can you tell me?", "output": "C20H21FN4O"}

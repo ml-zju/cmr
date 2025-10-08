@@ -1,0 +1,993 @@
+{"input": "Can you provide the Density for the substance named InChI=1S/O2S/c1-3-2?", "output": "The molecule has a density of 1.434 (EPA, 1998) - denser than water; it will sink."}
+{"input": "Given the molecule named N-(4-hydroxyphenyl)acetamide, could you provide its Density?", "output": "The molecule has a density of 1.293 at 70 °F (NTP, 1992) and is denser than water, causing it to sink."}
+{"input": "For the molecule named InChI=1S/C35H44I6N6O15/c1-13(52)46(30-26(38)20(32(59)42-3-15(54)9-48)24(36)21(27(30)39)33(60)43-4-16(55)10-49)7-19(58)8-47(14(2)53)31-28(40)22(34(61)44-5-17(56)11-50)25(37)23(29(31)41)35(62)45-6-18(57)12-51/h15-19,48-51,54-58H,3-12H2,1-2H3,(H,42,59)(H,43,60)(H,44,61)(H,45,62), could you provide its Density?", "output": "The molecule has a density of 1.266."}
+{"input": "Would you be able to tell me the Density of the molecule Cl.N=C(N)N?", "output": "The molecule has a density of 1.3 g/cm³."}
+{"input": "For the molecule identified as dihexyl benzene-1,2-dicarboxylate, what is its Density?", "output": "The molecule has a density of 0.995 at 68 °F, making it less dense than water and causing it to float."}
+{"input": "What is the Density associated with the molecule InChI=1S/C9H7N/c1-2-6-9-8(4-1)5-3-7-10-9/h1-7H?", "output": "The molecule has a density of 1.095 at 68 °F (USCG, 1999) and is denser than water, causing it to sink."}
+{"input": "Can you indicate the Density for the molecule CFBYEGUGFPZCNF-UHFFFAOYSA-N?", "output": "The molecule has a density of 1.2540 g/cu cm at 20 °C."}
+{"input": "For the molecule named CSKNSYBAZOQPLR-UHFFFAOYSA-N, could you provide its Density?", "output": "The molecule has a density of 1.3842 at 59 °F (USCG, 1999) - It is denser than water and will sink."}
+{"input": "For the molecule identified as CC=NO, what is its Density?", "output": "The molecule has a density of 0.9656 at 20 °C/4 °C."}
+{"input": "I'm interested in knowing the Density of UNBMPKNTYKDYCG-UHFFFAOYSA-N. Could you provide that?", "output": "The molecule has a density of 0.75 at 68 °F (NTP, 1992). It is less dense than water and will float."}
+{"input": "Can you provide the Density for the substance named Cc1cc(C)cc(C)c1?", "output": "The molecule has a density of 0.86 (NIOSH, 2023), making it less dense than water, thus it will float."}
+{"input": "Can you share the Density of the molecule known as CCCCCCOC(=O)CCCCCCCC(=O)OCCCCCC?", "output": "The molecule has a density of 0.927 at 20 °C."}
+{"input": "Could you specify the Density of the compound with the name methyl undec-10-enoate?", "output": "The molecule has a density of 0.885-0.891 at 20 degrees Celsius."}
+{"input": "Can you provide the Density for the substance named HPEUJPJOZXNMSJ-UHFFFAOYSA-N?", "output": "The molecule has a density of 0.8498 at 104 °F (NTP, 1992). It is less dense than water and will float."}
+{"input": "For the molecule named InChI=1S/C7H8S/c1-6-4-2-3-5-7(6)8/h2-5,8H,1H3, could you provide its Density?", "output": "The molecule has a density of 1.041 at 20°C and 4°C."}
+{"input": "I'm interested in knowing the Density of CC=C(C)C=O. Could you provide that?", "output": "The molecule has a density ranging from 0.868 to 0.873 at 20°C."}
+{"input": "For the molecule named NHTMVDHEPJAVLT-UHFFFAOYSA-N, could you provide its Density?", "output": "The molecule has a density of 0.69194 at 20°C and 4°C."}
+{"input": "I'm interested in knowing the Density of C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C. Could you provide that?", "output": "The molecule has a density of 0.9012 g/cu cm at 20 °C."}
+{"input": "Can you indicate the Density for the molecule CETWDUZRCINIHU-UHFFFAOYSA-N?", "output": "The molecule has a relative density of 0.82 compared to water."}
+{"input": "Could you specify the Density of the compound with the name InChI=1S/2CH2O2.Ca/c2*2-1-3;/h2*1H,(H,2,3);/q;;+2/p-2?", "output": "The molecule has a density of 2.015."}
+{"input": "For the molecule named C=C(C)CC, could you provide its Density?", "output": "The molecule has a density of 0.6504 at 20 °C and 4 °C."}
+{"input": "Can you provide the Density for the substance named N,N-dimethyl-2,2-diphenylacetamide?", "output": "The molecule has a density of 1.17 g/cm³ at 23.3 °C."}
+{"input": "Tell me the Density of the molecule 3,5,7-trithia-1,2,4,6-tetraphosphatricyclo[2.2.1.02,6]heptane, please.", "output": "The molecule has a density of 2.03 at 20 °C and 4 °C."}
+{"input": "Given the molecule named O=[Cu], could you provide its Density?", "output": "The molecule has a density of 6.315 at 14°C/4°C."}
+{"input": "Can you indicate the Density for the molecule C=C(C)C(=O)OCCNC(C)(C)C?", "output": "The molecule has a density of 0.914 at 25°C."}
+{"input": "For the molecule identified as CC1=C(C(=O)Nc2ccccc2)SCCO1, what is its Density?", "output": "The molecule has a density of 1.7 g/mL."}
+{"input": "Can you provide the Density for the substance named XEEYBQQBJWHFJM-UHFFFAOYSA-N?", "output": "The molecule has a density of 7.87 g/cu cm."}
+{"input": "For the molecule named heptyl heptanoate, could you provide its Density?", "output": "The molecule has a density range of 0.859-0.865 at 20°C."}
+{"input": "Given the molecule named pent-4-enyl acetate, could you provide its Density?", "output": "The molecule has a density ranging from 0.906 to 0.916."}
+{"input": "Could you specify the Density of the compound with the name CC1COC(C)O1?", "output": "The molecule has a density range of 0.921-0.928."}
+{"input": "Can you share the Density of the molecule known as YBZOYAQTVRQGQO-UHFFFAOYSA-N?", "output": "The molecule has a density of 1.007 at 59 °F (USCG, 1999) and is denser than water, causing it to sink."}
+{"input": "I would like to know the Density of the molecule referred to as bis(dimethylcarbamothioylsulfanyl)lead.", "output": "The molecule has a density of 2.43 (NTP, 1992). Denser than water; will sink."}
+{"input": "What is the Density associated with the molecule butan-1-ol;titanium?", "output": "The molecule has a density of 0.998 at 77 °F, making it less dense than water and causing it to float."}
+{"input": "Given the molecule named InChI=1S/C2H2Cl2/c3-1-2-4/h1-2H/b2-1-, could you provide its Density?", "output": "The molecule has a density of 1.2837 at 68 °F (NTP, 1992) and is denser than water; it will sink."}
+{"input": "What is the Density of the molecule called LTUMRKDLVGQMJU-IUBLYSDUSA-N?", "output": "The molecule has a density ranging from 0.885 to 0.895."}
+{"input": "Given the molecule named InChI=1S/C4H6O6.Cu/c5-1(3(7)8)2(6)4(9)10;/h1-2,5-6H,(H,7,8)(H,9,10);/q;+2/p-2, could you provide its Density?", "output": "The molecule has a density greater than 1 (USCG, 1999)."}
+{"input": "For the molecule identified as (E)-oct-2-enoic acid, what is its Density?", "output": "The molecule has a density range of 0.935-0.941."}
+{"input": "Could you specify the Density of the compound with the name CCCCCCCCCCCC=CC=O?", "output": "The molecule's density ranges from 0.833 to 0.841."}
+{"input": "Can you share the Density of the molecule known as InChI=1S/C17H22O2/c1-14(2)8-7-9-15(3)12-13-19-17(18)16-10-5-4-6-11-16/h4-6,8,10-12H,7,9,13H2,1-3H3/b15-12+?", "output": "The molecule has a density range of 0.980-0.990."}
+{"input": "What is the Density of the molecule called InChI=1S/C9H16O2/c1-3-4-5-6-7-8-9(10)11-2/h7-8H,3-6H2,1-2H3/b8-7+?", "output": "The molecule has a density of 0.896-0.900."}
+{"input": "I would like to know the Density of the molecule referred to as Cc1nn(C)c(Oc2ccccc2)c1C=NOCc1ccc(C(=O)OC(C)(C)C)cc1.", "output": "The molecule has a density of 1.25 g/cu cm at 20 °C."}
+{"input": "For the molecule named XDOTVMNBCQVZKG-NTLHZVPKSA-N, could you provide its Density?", "output": "The molecule has a density of 1.44 g/cu cm at 20 °C."}
+{"input": "I'm interested in knowing the Density of 2-[(E)-2-phenylethenyl]-1,3-dioxolane. Could you provide that?", "output": "The molecule has a density ranging from 1.095 to 1.103."}
+{"input": "What is the Density of the molecule called InChI=1S/C7H14O2S/c1-6(8)9-5-4-7(2,3)10/h10H,4-5H2,1-3H3?", "output": "The molecule has a density ranging from 1.003 to 1.007."}
+{"input": "Can you provide the Density for the substance named CCCC=CC(=O)OCCCCCC?", "output": "The molecule has a density ranging from 0.880 to 0.890."}
+{"input": "For the molecule named PQDRXUSSKFWCFA-STMXVASLSA-N, could you provide its Density?", "output": "The molecule has a density ranging from 0.846 to 0.852."}
+{"input": "What is the Density of the molecule called O=C(O)O.[Tl]?", "output": "The molecule has a density molecule has a density of 7.1 g/cm³."}
+{"input": "Can you indicate the Density for the molecule sodium;2-dodecoxy-2-oxoethanesulfonate?", "output": "The molecule has a specific gravity of 0.55."}
+{"input": "Can you provide the Density for the substance named InChI=1S/C18H21N11O38/c30-19(31)52-1-4-7(58-17-14(65-27(46)47)12(63-25(42)43)9(60-22(36)37)6(56-17)3-54-21(34)35)10(61-23(38)39)13(64-26(44)45)16(55-4)59-8-5(2-53-20(32)33)57-18(67-29(50)51)15(66-28(48)49)11(8)62-24(40)41/h4-18H,1-3H2/t4-,5-,6-,7-,8-,9-,10+,11+,12+,13-,14-,15-,16+,17+,18+/m1/s1?", "output": "The molecule has a density of 0.772 at 77 °F according to USCG, 1999. It is less dense than water and will float."}
+{"input": "I'm interested in knowing the Density of cyclopenta-1,3-diene;titanium(4+);dichloride. Could you provide that?", "output": "The molecule, according to 1.6 (NTP, 1992), is denser than water and will sink."}
+{"input": "Can you indicate the Boiling Point for the molecule MHAJPDPJQMAIIY-UHFFFAOYSA-N?", "output": "The molecule boils at 302.4 °F at 760 mmHg."}
+{"input": "What is the Boiling Point associated with the molecule InChI=1S/C9H7NO/c11-8-5-1-3-7-4-2-6-10-9(7)8/h1-6,11H?", "output": "The molecule boils at 513 °F at 760 mmHg."}
+{"input": "What is the Boiling Point associated with the molecule BCQZXOMGPXTTIC-UHFFFAOYSA-N?", "output": "The molecule boils at 122.4 °F at 760 mmHg."}
+{"input": "For the molecule identified as 1-[(3,4-dimethoxyphenyl)methyl]-6,7-dimethoxyisoquinoline, what is its Boiling Point?", "output": "The molecule sublimes at 135 °C."}
+{"input": "Would you be able to tell me the Boiling Point of the molecule ZFIQGRISGKSVAG-UHFFFAOYSA-N?", "output": "The molecule boils at 209-211 °C at 1.6 kPa."}
+{"input": "I'm interested in knowing the Boiling Point of WMXCDAVJEZZYLT-UHFFFAOYSA-N. Could you provide that?", "output": "The molecule achieves a boiling point of 149-153 °F at 760 mmHg (NFPA, 2010)."}
+{"input": "Given the molecule named DOOTYTYQINUNNV-UHFFFAOYSA-N, could you provide its Boiling Point?", "output": "The molecule has a boiling point of 294 °C."}
+{"input": "Please tell me the Boiling Point of the compound named KFSLWBXXFJQRDL-UHFFFAOYSA-N.", "output": "The molecule boils at 221 °F at 760 mmHg."}
+{"input": "For the molecule identified as CC1CCC(C(C)C)C(=O)C1, what is its Boiling Point?", "output": "The molecule boils at 210 °C."}
+{"input": "Can you provide the Boiling Point for the substance named Cl[Si](Cl)(Cl)c1ccccc1?", "output": "The molecule boils at 395 °F at 760 mmHg."}
+{"input": "What is the value of the Boiling Point for the molecule ethyl 2-bromoacetate?", "output": "The molecule boils at 168.5 °C."}
+{"input": "What is the Boiling Point associated with the molecule IGIDLTISMCAULB-UHFFFAOYSA-N?", "output": "The molecule boils at 196.00 to 198.00 °C @ 760.00 mm Hg."}
+{"input": "Can you provide the Boiling Point for the substance named dipropyl hexanedioate?", "output": "The molecule boils at 273.00 to 274.00 °C @ 760.00 mm Hg."}
+{"input": "What is the Boiling Point of the molecule called InChI=1S/C2H2ClN/c3-1-2-4/h1H2?", "output": "The molecule boils at 259 to 261 °F at 760 mmHg."}
+{"input": "I would like to know the Boiling Point of the molecule referred to as XUPYJHCZDLZNFP-UHFFFAOYSA-N.", "output": "The molecule boils at 332 °F at 760 mmHg."}
+{"input": "Tell me the Boiling Point of the molecule YAYNEUUHHLGGAH-UHFFFAOYSA-N, please.", "output": "The molecule boils at 500 °F at 760 mmHg."}
+{"input": "For the molecule identified as hexyl acetate, what is its Boiling Point?", "output": "The molecule boils at 334.4 to 338 °F at 760 mmHg."}
+{"input": "What is the Boiling Point of the molecule called C[Si](Cl)(Cl)c1ccccc1?", "output": "The molecule boils at 401 °F at 760 mmHg."}
+{"input": "I would like to know the Boiling Point of the molecule referred to as InChI=1S/C5H8O4/c1-3(5(8)9)2-4(6)7/h3H,2H2,1H3,(H,6,7)(H,8,9).", "output": "The molecule decomposes."}
+{"input": "What is the Boiling Point associated with the molecule 2-methylcyclohexan-1-one?", "output": "The molecule boils at 329 °F at 760 mmHg."}
+{"input": "I'm interested in knowing the Boiling Point of CC(Cl)(Cl)[N+](=O)[O-]. Could you provide that?", "output": "The molecule boils at 255 °F at 760 mmHg."}
+{"input": "Could you specify the Boiling Point of the compound with the name 6-methylheptan-3-one?", "output": "The molecule boils at 164°C."}
+{"input": "Can you share the Boiling Point of the molecule known as 1-nitrobutane?", "output": "The molecule boils at 307 °F at 760 mmHg."}
+{"input": "What is the value of the Boiling Point for the molecule C=CCCCCCCCCCCCCCC?", "output": "The molecule boils at 284.4 °C @ 760 mm Hg."}
+{"input": "Given the molecule named QROGIFZRVHSFLM-UHFFFAOYSA-N, could you provide its Boiling Point?", "output": "The molecule boils at 175.5 °C."}
+{"input": "Can you share the Boiling Point of the molecule known as ZZLCFHIKESPLTH-UHFFFAOYSA-N?", "output": "The molecule boils at 267.00 to 268.00 °C @ 760.00 mm Hg."}
+{"input": "Can you provide the Boiling Point for the substance named CC(=O)c1ccc(C(C)C)cc1?", "output": "The molecule boils at 252.00 to 254.00 °C @ 760.00 mm Hg."}
+{"input": "I would like to know the Boiling Point of the molecule referred to as XLSZMDLNRCVEIJ-UHFFFAOYSA-N.", "output": "The molecule boils at 263 °C."}
+{"input": "Can you share the Boiling Point of the molecule known as InChI=1S/C9H20S/c1-2-3-4-5-6-7-8-9-10/h10H,2-9H2,1H3?", "output": "The molecule boils at 220 °C."}
+{"input": "Given the molecule named 6-methoxy-1,3-benzothiazol-2-amine, could you provide its Boiling Point?", "output": "The molecule boils at 464 °F at 760 mmHg (decomposes)."}
+{"input": "What is the Boiling Point associated with the molecule IOHJQSFEAYDZGF-UHFFFAOYSA-N?", "output": "The molecule boils at 203 to 205 °F at 0.4 mmHg."}
+{"input": "Can you provide the Boiling Point for the substance named CC(=O)CCc1ccc(OC(C)=O)cc1?", "output": "The molecule boils at 123.00 to 124.00 °C @ 0.20 mm Hg."}
+{"input": "What is the Boiling Point of the molecule called InChI=1S/S2Se/c1-3-2?", "output": "The molecule decomposes."}
+{"input": "I'm interested in knowing the Boiling Point of O=S([O-])[O-].[Na+].[Na+]. Could you provide that?", "output": "The molecule decomposes."}
+{"input": "For the molecule identified as trifluoro-lambda3-chlorane, what is its Boiling Point?", "output": "The molecule boils at 53 °F at 760 mmHg."}
+{"input": "Could you specify the Boiling Point of the compound with the name C=CCN(CC=C)C(=O)C(Cl)Cl?", "output": "The molecule boils at 130 °C at 10 mm Hg."}
+{"input": "Would you be able to tell me the Boiling Point of the molecule ClCCSCCOCCSCCCl?", "output": "The molecule decomposes at its boiling point."}
+{"input": "Please tell me the Boiling Point of the compound named CCCCCCCOC(=O)CCC.", "output": "The molecule boils at 225.00 to 226.00 °C @ 760.00 mm Hg."}
+{"input": "Can you indicate the Boiling Point for the molecule 1-methoxy-2,4-dimethylbenzene?", "output": "The molecule boils at 191.00 to 193.00 °C @ 760.00 mm Hg."}
+{"input": "I'm interested in knowing the Boiling Point of CC(=O)c1cc2c(cc1C)C(C)(C)C(C)C2C(C)C. Could you provide that?", "output": "The molecule boils at 321 °C at 101.325 kPa."}
+{"input": "Would you be able to tell me the Boiling Point of the molecule CCC=CCCC=CC=O?", "output": "The molecule boils at 94.00 to 95.00 °C at 18.00 mm Hg."}
+{"input": "I'm interested in knowing the Boiling Point of 5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)tetradecan-3-one. Could you provide that?", "output": "The molecule boils at 498.00 to 500.00 °C @ 760.00 mm Hg."}
+{"input": "Can you indicate the Boiling Point for the molecule (E)-4-(2,6,6-trimethylcyclohex-2-en-1-yl)but-3-en-2-one?", "output": "The molecule boils at 258 °C at 760 mm Hg."}
+{"input": "Tell me the Boiling Point of the molecule ethyl (2E,4E,7S)-3,7,11-trimethyldodeca-2,4-dienoate, please.", "output": "The molecule boils at 282.3 °C at atmospheric pressure (97.2 kPa)."}
+{"input": "Can you share the Boiling Point of the molecule known as (E)-oct-3-en-2-one?", "output": "The molecule boils at 100.00 °C @ 18.00 mm Hg."}
+{"input": "For the molecule identified as CC=C(C)C(=O)OCCc1ccccc1, what is its Boiling Point?", "output": "The molecule boils at 139.00 to 140.00 °C @ 7.00 mm Hg."}
+{"input": "Can you indicate the Boiling Point for the molecule InChI=1S/C19H24O2/c1-15-9-12-17(13-10-15)19(2,3)21-18(20)14-11-16-7-5-4-6-8-16/h4-9,11,14,17H,10,12-13H2,1-3H3/b14-11+?", "output": "The molecule boils at 360.00 °C @ 760.00 mm Hg."}
+{"input": "For the molecule named InChI=1S/C22H28O2/c1-4-21-13-14(3)20-17-9-7-16(23)12-15(17)6-8-18(20)19(21)10-11-22(21,24)5-2/h2,12,17-20,24H,3-4,6-11,13H2,1H3/t17-,18-,19-,20+,21-,22-/m0/s1, could you provide its Boiling Point?", "output": "The molecule boils at 473.1ºC at 760 mmHg."}
+{"input": "I would like to know the Boiling Point of the molecule referred to as InChI=1S/C14H26O2/c1-3-5-6-7-8-9-10-11-12-13-14(15)16-4-2/h12-13H,3-11H2,1-2H3/b13-12+.", "output": "The molecule boils at 290.00 to 291.00 °C @ 760.00 mm Hg."}
+{"input": "Would you be able to tell me the Boiling Point of the molecule InChI=1S/C62H90N13O14P.CN.Co/c1-29-20-39-40(21-30(29)2)75(28-70-39)57-52(84)53(41(27-76)87-57)89-90(85,86)88-31(3)26-69-49(83)18-19-59(8)37(22-46(66)80)56-62(11)61(10,25-48(68)82)36(14-17-45(65)79)51(74-62)33(5)55-60(9,24-47(67)81)34(12-15-43(63)77)38(71-55)23-42-58(6,7)35(13-16-44(64)78)50(72-42)32(4)54(59)73-56;1-2;/h20-21,23,28,31,34-37,41,52-53,56-57,76,84H,12-19,22,24-27H2,1-11H3,(H15,63,64,65,66,67,68,69,71,72,73,74,77,78,79,80,81,82,83,85,86);;/q;-1;+2/p-2?", "output": "The molecule boils above 300°C."}
+{"input": "Please tell me the Melting Point of the compound named ZGXJTSGNIOSYLO-UHFFFAOYSA-N.", "output": "The molecule melts at 156-158 °C."}
+{"input": "I would like to know the Melting Point of the molecule referred to as 1-ethyl-6,8-difluoro-7-(3-methylpiperazin-1-yl)-4-oxoquinoline-3-carboxylic acid.", "output": "The molecule melts at 239-240.5 °C."}
+{"input": "Please tell me the Melting Point of the compound named InChI=1S/C15H21N3O/c1-11(5-3-7-16)18-14-10-13(19-2)9-12-6-4-8-17-15(12)14/h4,6,8-11,18H,3,5,7,16H2,1-2H3.", "output": "The molecule melts below 25°C."}
+{"input": "Can you indicate the Melting Point for the molecule InChI=1S/C19H17NOS/c1-14-6-5-9-17(12-14)20(2)19(22)21-18-11-10-15-7-3-4-8-16(15)13-18/h3-13H,1-2H3?", "output": "The molecule melts at 230.9 to 232.7 °F (NTP, 1992)."}
+{"input": "What is the value of the Melting Point for the molecule CS(C)(=O)=O?", "output": "The molecule melts at 109 °C."}
+{"input": "What is the Melting Point associated with the molecule 2-(3,4-dimethoxyphenyl)acetic acid?", "output": "The molecule melts at 96 °C."}
+{"input": "Would you be able to tell me the Melting Point of the molecule C=C(C)C(=O)OCCCC?", "output": "The molecule has a melting point less than -58 °F (NTP, 1992)."}
+{"input": "Please tell me the Melting Point of the compound named InChI=1S/C4H8N4O2/c9-5-7-1-2-8(6-10)4-3-7/h1-4H2.", "output": "The molecule melts at 158 °C."}
+{"input": "Given the molecule named NFBOHOGPQUYFRF-UHFFFAOYSA-N, could you provide its Melting Point?", "output": "The molecule melts at 252 to 253 °F (NTP, 1992)."}
+{"input": "Tell me the Melting Point of the molecule MGYMHQJELJYRQS-UHFFFAOYSA-N, please.", "output": "The molecule melts at 3.3 °C."}
+{"input": "Would you be able to tell me the Melting Point of the molecule O=[Ca]?", "output": "The molecule melts at 4662 °F (NIOSH, 2023)."}
+{"input": "I would like to know the Melting Point of the molecule referred to as LTRVUFFOMIUCPJ-UHFFFAOYSA-N.", "output": "The molecule melts at 42 - 44 °C."}
+{"input": "I would like to know the Melting Point of the molecule referred to as InChI=1S/C9H15NO2/c1-5-8(12)10-9(3,4)6-7(2)11/h5H,1,6H2,2-4H3,(H,10,12).", "output": "The molecule melts at 135 to 136 °F (NTP, 1992)."}
+{"input": "I would like to know the Melting Point of the molecule referred to as thallium(1+);carbonate.", "output": "The molecule melts at 522 °F (EPA, 1998)."}
+{"input": "For the molecule identified as Clc1ccc(Oc2ccccc2)cc1, what is its Melting Point?", "output": "The molecule melts at -8 °C."}
+{"input": "For the molecule named O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Sr+2], could you provide its Melting Point?", "output": "The molecule melts at 1058 °F (USCG, 1999)."}
+{"input": "Can you provide the Melting Point for the substance named InChI=1S/Co.2NO3/c;2*2-1(3)4/q+2;2*-1?", "output": "The molecule melts at 131 °F (USCG, 1999)."}
+{"input": "Given the molecule named N-(4-chlorophenyl)-2-phenyl-N-(1-propan-2-ylpiperidin-4-yl)acetamide, could you provide its Melting Point?", "output": "The molecule melts at 263 °C."}
+{"input": "Could you specify the Melting Point of the compound with the name InChI=1S/C9H12O2/c1-6-4-7(10)5-9(2,3)8(6)11/h4H,5H2,1-3H3?", "output": "The molecule melts at 21 °C."}
+{"input": "For the molecule identified as BOTGCZBEERTTDQ-UHFFFAOYSA-N, what is its Melting Point?", "output": "The molecule melts at 124 - 126 °C."}
+{"input": "Can you indicate the Melting Point for the molecule InChI=1S/C31H23BrO2S/c32-24-15-13-20(14-16-24)19-9-11-21(12-10-19)23-17-22-5-1-2-6-25(22)27(18-23)29-30(33)26-7-3-4-8-28(26)35-31(29)34/h1-16,23,27,34H,17-18H2?", "output": "The molecule melts at 233-236 °C."}
+{"input": "Please tell me the Melting Point of the compound named 2-chloro-N-(2,6-diethylphenyl)acetamide.", "output": "The molecule melts at 135 - 136 molecule melts at 135 - 136 °C."}
+{"input": "Can you share the Melting Point of the molecule known as GEKNCWBANDDJJL-UHFFFAOYSA-N?", "output": "The molecule melts at 85-86 °C."}
+{"input": "For the molecule named CC(=O)NCCCCNCCCN, could you provide its Melting Point?", "output": "The molecule melts at 202 - 203 °C."}
+{"input": "I would like to know the Melting Point of the molecule referred to as InChI=1S/C29H48O2/c1-7-20(18(2)3)9-8-19(4)23-10-11-24-22-17-27(31)26-16-21(30)12-14-29(26,6)25(22)13-15-28(23,24)5/h18-20,22-26H,7-17H2,1-6H3.", "output": "The molecule melts at 195 - 198 °C."}
+{"input": "I'm interested in knowing the Melting Point of XUCIJNAGGSZNQT-JHSLDZJXSA-N. Could you provide that?", "output": "The molecule melts at 223-226 °C."}
+{"input": "Can you share the Melting Point of the molecule known as O=C[O-].[NH4+]?", "output": "The molecule melts at 241 °F (USCG, 1999)."}
+{"input": "For the molecule named XFCLJVABOIYOMF-QPLCGJKRSA-N, could you provide its Melting Point?", "output": "The molecule melts at 108-110 °C."}
+{"input": "Can you provide the Melting Point for the substance named 2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one?", "output": "The molecule melts at 232 - 233 °C."}
+{"input": "Can you provide the Melting Point for the substance named InChI=1S/C16H10O6/c17-9-3-1-8(2-4-9)10-6-20-11-5-12-16(22-7-21-12)15(19)13(11)14(10)18/h1-6,17,19H,7H2?", "output": "The molecule melts at 231 °C."}
+{"input": "What is the value of the Melting Point for the molecule (E)-N-[2-(4-methoxyphenyl)ethyl]-N-methyl-3-phenylprop-2-enamide?", "output": "The molecule melts at 76 °C."}
+{"input": "I would like to know the Melting Point of the molecule referred to as CCCCCCCCCCCCCCCCCC(=O)[O-].[Pb].", "output": "The molecule melts at 240.3 °F according to USCG, 1999."}
+{"input": "What is the Melting Point of the molecule called InChI=1S/C6H11NO2/c8-6(9)5-3-1-2-4-7-5/h5,7H,1-4H2,(H,8,9)/t5-/m0/s1?", "output": "The molecule melts at 272 °C."}
+{"input": "What is the Melting Point of the molecule called CC1(O)CCCC2(C)CCC3C(C12)C3(C)C?", "output": "The molecule melts at 103.5 - 105 °C."}
+{"input": "For the molecule named InChI=1S/C12H8Cl6/c13-8-9(14)11(16)7-5-2-1-4(3-5)6(7)10(8,15)12(11,17)18/h1-2,4-7H,3H2/t4-,5+,6+,7-,10+,11-, could you provide its Melting Point?", "output": "The molecule exhibits a melting point of 219 °F (NIOSH, 2023)."}
+{"input": "Please tell me the Melting Point of the compound named XGWIJUOSCAQSSV-XHDPSFHLSA-N.", "output": "The molecule melts at 105.5 °C."}
+{"input": "Please tell me the Melting Point of the compound named N-(2,4-ditert-butyl-5-hydroxyphenyl)-4-oxo-1H-quinoline-3-carboxamide.", "output": "The molecule has a melting point of 212-215°C."}
+{"input": "Can you provide the Melting Point for the substance named C[Hg]N=C(N)NC#N?", "output": "The molecule melts at 313 °F (EPA, 1998)."}
+{"input": "Please tell me the Melting Point of the compound named Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1.O=C(O)C(O)C(O)C(=O)O.", "output": "The molecule melts at 196 °C."}
+{"input": "What is the Melting Point associated with the molecule CC(Nc1ncnc2nc[nH]c12)c1cc2cccc(Cl)c2c(=O)n1-c1ccccc1?", "output": "The molecule has a melting point greater than 190 ºC."}
+{"input": "For the molecule identified as InChI=1S/C27H30O15/c28-6-9-4-11-17(13(5-9)40-27-25(38)23(36)20(33)15(8-30)42-27)21(34)16-10(18(11)31)2-1-3-12(16)39-26-24(37)22(35)19(32)14(7-29)41-26/h1-5,14-15,19-20,22-30,32-33,35-38H,6-8H2, what is its Melting Point?", "output": "The molecule melts at 229 °C."}
+{"input": "Please tell me the Melting Point of the compound named 6-[2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-4-oxo-3-sulfooxychromen-8-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid.", "output": "The molecule melts at 239 °C."}
+{"input": "Can you share the Melting Point of the molecule known as pentatriacontane-8,10-diol?", "output": "The molecule has a melting point of 75 - 78 °C."}
+{"input": "What is the Melting Point associated with the molecule methyl 10-acetyloxy-13-methoxy-1,2,6a,6b,9,9,12a-heptamethyl-2,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydro-1H-picene-4a-carboxylate?", "output": "The molecule melts at 140.5 - 141 °C."}
+{"input": "Please tell me the Melting Point of the compound named HOMYIYLRRDTKAA-UYIJODJPSA-N.", "output": "The molecule melts at 193 - 197 °C."}
+{"input": "What is the Melting Point of the molecule called 7-methoxy-3-methyl-5-[(Z)-prop-1-enyl]-2-(3,4,5-trimethoxyphenyl)-2,3-dihydro-1-benzofuran?", "output": "The molecule has a melting point of 100 - 101 °C."}
+{"input": "For the molecule named CYBPVTXJHMEVKW-UHFFFAOYSA-N, could you provide its Melting Point?", "output": "The molecule melts at 94°C."}
+{"input": "For the molecule named QLFZZSKTJWDQOS-PWLMVQNHSA-N, could you provide its Melting Point?", "output": "The molecule's melting point is between 116-119 °C."}
+{"input": "Tell me the Melting Point of the molecule COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C(C)=O)CC3OC1CC(N)C(O)C(C)O1.Cl, please.", "output": "The molecule melts at 370 to 374 °F (decomposes)."}
+{"input": "For the molecule named ZPRKDLMMZXBFPH-UHFFFAOYSA-N, could you provide its Melting Point?", "output": "The molecule melts at molecule has a melting point of 241 - "}
+{"input": "Can you provide the Odor for the substance named KRKNYBCHXYNGOX-UHFFFAOYSA-N?", "output": "The molecule lacks any discernible odor."}
+{"input": "What is the Odor of the molecule called c1ccc2[nH]ccc2c1?", "output": "The molecule emits an almost floral odor when highly purified, otherwise, it exhibits the characteristic odor of feces."}
+{"input": "I'm interested in knowing the Odor of InChI=1S/C5H10O5/c6-1-3(8)5(10)4(9)2-7/h1,3-5,7-10H,2H2. Could you provide that?", "output": "The molecule exhibits a practically odorless characteristic."}
+{"input": "Tell me the Odor of the molecule InChI=1S/C47H75NO17/c1-27-17-15-13-11-9-7-5-6-8-10-12-14-16-18-34(64-46-44(58)41(48)43(57)30(4)63-46)24-38-40(45(59)60)37(54)26-47(61,65-38)25-36(53)35(52)20-19-31(49)21-32(50)22-33(51)23-39(55)62-29(3)28(2)42(27)56/h5-6,8,10-18,27-38,40-44,46,49-54,56-58,61H,7,9,19-26,48H2,1-4H3,(H,59,60), please.", "output": "The molecule has an odor suggestive of cereals."}
+{"input": "What is the Odor associated with the molecule 5-ethyl-5-pentan-2-yl-1,3-diazinane-2,4,6-trione?", "output": "The molecule emits a practically odorless scent."}
+{"input": "For the molecule named N-[(7S)-1,2,3,10-tetramethoxy-9-oxo-6,7-dihydro-5H-benzo[a]heptalen-7-yl]acetamide, could you provide its Odor?", "output": "The molecule has no discernible odor."}
+{"input": "For the molecule named C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3CCC21C, could you provide its Odor?", "output": "The molecule has no discernible odor."}
+{"input": "What is the Odor associated with the molecule InChI=1S/C3H8S/c1-3(2)4/h3-4H,1-2H3?", "output": "The molecule has an extremely unpleasant odor."}
+{"input": "Can you share the Odor of the molecule known as 2,2-dichloropropanoic acid?", "output": "The molecule has an acrid odor."}
+{"input": "I would like to know the Odor of the molecule referred to as tetraethylplumbane.", "output": "The molecule has a musty odor."}
+{"input": "For the molecule named 3,5,5-trimethylcyclohex-2-en-1-one, could you provide its Odor?", "output": "The molecule has a peppermint-like odor."}
+{"input": "Would you be able to tell me the Odor of the molecule 4-[4-(hydrazinesulfonyl)phenoxy]benzenesulfonohydrazide?", "output": "The molecule lacks any discernible scent."}
+{"input": "I would like to know the Odor of the molecule referred to as O=[N+]([O-])c1ccccc1O.", "output": "The molecule possesses a peculiar, aromatic odor."}
+{"input": "What is the Odor associated with the molecule InChI=1S/C10H12N2O5/c1-3-6(2)8-4-7(11(14)15)5-9(10(8)13)12(16)17/h4-6,13H,3H2,1-2H3?", "output": "The molecule has a pungent odor."}
+{"input": "For the molecule identified as VADKRMSMGWJZCF-UHFFFAOYSA-N, what is its Odor?", "output": "The molecule has an unpleasant odor."}
+{"input": "Can you share the Odor of the molecule known as ISPYQTSUDJAMAB-UHFFFAOYSA-N?", "output": "The molecule possesses an unpleasant penetrating odor."}
+{"input": "I'm interested in knowing the Odor of LHJGJYXLEPZJPM-UHFFFAOYSA-N. Could you provide that?", "output": "The molecule exhibits a strong phenolic odor."}
+{"input": "Please tell me the Odor of the compound named InChI=1S/C6H14O3/c1-7-3-5-9-6-4-8-2/h3-6H2,1-2H3.", "output": "The molecule has a mild odor."}
+{"input": "What is the value of the Odor for the molecule 2-(naphthalen-1-ylcarbamoyl)benzoic acid?", "output": "The molecule emits molecule has an unpleasant odoror."}
+{"input": "Would you be able to tell me the Odor of the molecule CTSLUCNDVMMDHG-UHFFFAOYSA-N?", "output": "The molecule lacks any discernible scent."}
+{"input": "Can you share the Odor of the molecule known as CC1(C)C2CCC1(C)C(O)C2?", "output": "The molecule has a piney, camphor-like odor."}
+{"input": "Could you specify the Odor of the compound with the name NFLLKCVHYJRNRH-UHFFFAOYSA-N?", "output": "The molecule has no distinct odor."}
+{"input": "Please tell me the Odor of the compound named CN1CSC(=S)N(C)C1.", "output": "The molecule exhibits a weakly pungent odor."}
+{"input": "What is the Odor associated with the molecule CC(Cl)C(=O)O?", "output": "The molecule emits a pungent odor."}
+{"input": "Can you provide the Odor for the substance named InChI=1S/C3H6O3/c1-5-3(4)6-2/h1-2H3?", "output": "The molecule has a pleasant odor."}
+{"input": "What is the value of the Odor for the molecule InChI=1S/C8H14O4/c1-5-4-8(11-6(2)9)12-7(3)10-5/h5,7-8H,4H2,1-3H3?", "output": "The molecule emits a mustard-like odor."}
+{"input": "Can you indicate the Odor for the molecule InChI=1S/C10H24N2O2/c1-3-9(7-13)11-5-6-12-10(4-2)8-14/h9-14H,3-8H2,1-2H3/t9-,10-/m0/s1?", "output": "The molecule possesses an essentially odorless nature."}
+{"input": "Please tell me the Odor of the compound named InChI=1S/C7H3I2NO/c8-5-1-4(3-10)2-6(9)7(5)11/h1-2,11H.", "output": "The molecule emits a faint phenolic odor in its tech grade."}
+{"input": "What is the Odor associated with the molecule helium?", "output": "The molecule lacks scent."}
+{"input": "Tell me the Odor of the molecule AFRJJFRNGGLMDW-UHFFFAOYSA-N, please.", "output": "The molecule possesses an ammonia-like odor."}
+{"input": "Would you be able to tell me the Odor of the molecule [H]O[H]?", "output": "The molecule possesses no discernible odor."}
+{"input": "For the molecule identified as Cl[Cd]Cl, what is its Odor?", "output": "The molecule lacks scent."}
+{"input": "Can you provide the Odor for the substance named HCFAJYNVAYBARA-UHFFFAOYSA-N?", "output": "The molecule has a pleasant odor."}
+{"input": "Can you provide the Odor for the substance named propanoyl propanoate?", "output": "The molecule emits a very rancid odor."}
+{"input": "What is the Odor associated with the molecule YFMFNYKEUDLDTL-UHFFFAOYSA-N?", "output": "The molecule emits a light ethereal odor."}
+{"input": "For the molecule identified as PMHURSZHKKJGBM-UHFFFAOYSA-N, what is its Odor?", "output": "The molecule emits a mild aromatic odor."}
+{"input": "Given the molecule named GNOLWGAJQVLBSM-UHFFFAOYSA-N, could you provide its Odor?", "output": "The molecule possesses a peculiar, not unpleasant odor."}
+{"input": "What is the Odor associated with the molecule O=C(O)C(S)C(S)C(=O)O?", "output": "The molecule emits an unpleasant, characteristic mercaptan odor."}
+{"input": "What is the value of the Odor for the molecule InChI=1S/Sn?", "output": "The molecule lacks any discernible odor."}
+{"input": "Please tell me the Odor of the compound named InChI=1S/C47H73NO17/c1-27-17-15-13-11-9-7-5-6-8-10-12-14-16-18-34(64-46-44(58)41(48)43(57)30(4)63-46)24-38-40(45(59)60)37(54)26-47(61,65-38)25-33(51)22-36(53)35(52)20-19-31(49)21-32(50)23-39(55)62-29(3)28(2)42(27)56/h5-18,27-38,40-44,46,49-54,56-58,61H,19-26,48H2,1-4H3,(H,59,60)/b6-5+,9-7+,10-8+,13-11+,14-12+,17-15+,18-16+/t27-,28-,29-,30?,31+,32+,33-,34-,35+,36+,37-,38-,40+,41?,42+,43?,44?,46?,47+/m0/s1.", "output": "The molecule has no discernible odor or is nearly odorless."}
+{"input": "What is the value of the Odor for the molecule [(E)-(5-nitrofuran-2-yl)methylideneamino]urea?", "output": "The molecule is odorless."}
+{"input": "I would like to know the Odor of the molecule referred to as 4-chloro-2-cyano-N,N-dimethyl-5-(4-methylphenyl)imidazole-1-sulfonamide.", "output": "The molecule lacks scent."}
+{"input": "What is the Odor of the molecule called (3S)-3-[[(2S)-5-amino-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-6-amino-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S,3R)-2-[[(2S)-2-[[(2S,3R)-2-[[2-[[(2S)-5-amino-2-[[(2S)-2-[[(2S)-2-amino-3-(1H-imidazol-5-yl)propanoyl]amino]-3-hydroxypropanoyl]amino]-5-oxopentanoyl]amino]acetyl]amino]-3-hydroxybutanoyl]amino]-3-phenylpropanoyl]amino]-3-hydroxybutanoyl]amino]-3-hydroxypropanoyl]amino]-3-carboxypropanoyl]amino]-3-(4-hydroxyphenyl)propanoyl]amino]-3-hydroxypropanoyl]amino]hexanoyl]amino]-3-(4-hydroxyphenyl)propanoyl]amino]-4-methylpentanoyl]amino]-3-carboxypropanoyl]amino]-3-hydroxypropanoyl]amino]-5-carbamimidamidopentanoyl]amino]-5-carbamimidamidopentanoyl]amino]propanoyl]amino]-5-oxopentanoyl]amino]-4-[[(2S)-1-[[(2S)-1-[[(2S)-5-amino-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-4-amino-1-[[(1S,2R)-1-carboxy-2-hydroxypropyl]amino]-1,4-dioxobutan-2-yl]amino]-4-methylsulfanyl-1-oxobutan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]amino]-3-(1H-indol-3-yl)-1-oxopropan-2-yl]amino]-1,5-dioxopentan-2-yl]amino]-3-methyl-1-oxobutan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]amino]-4-oxobutanoic acid?", "output": "The molecule has a practically odorless smell."}
+{"input": "Can you provide the Odor for the substance named NVTAREBLATURGT-UHFFFAOYSA-N?", "output": "The molecule has an odor like acetic acid or vinegar."}
+{"input": "Can you indicate the Odor for the molecule CC1C=CC=CC=CC=CC=CC=CC=CC(OC2OC(C)C(O)C(N)C2O)CC2OC(O)(CC(O)CC(O)C(O)CCC(O)CC(O)CC(=O)OC(C)C(C)C1O)CC(O)C2C(=O)O?", "output": "The molecule has no discernible odor or is virtually odorless."}
+{"input": "For the molecule identified as ZHCJUZJGMJDUKJ-UHFFFAOYSA-M, what is its Odor?", "output": "The molecule emits a garlic-like odor."}
+{"input": "What is the Odor associated with the molecule PGOOBECODWQEAB-UHFFFAOYSA-N?", "output": "The molecule lacks any discernible odor."}
+{"input": "Would you be able to tell me the Odor of the molecule InChI=1S/Ca.H2S5/c;1-3-5-4-2/h;1-2H/q+2;/p-2?", "output": "The molecule emits an unpleasant smell, reminiscent of hydrogen sulfide."}
+{"input": "What is the Odor of the molecule called DQOCFCZRZOAIBN-YHKGLSPZSA-L?", "output": "The molecule is odorless or has not more than a slight acetone odor."}
+{"input": "I would like to know the Heat of Combustion of the molecule referred to as ClCCCl.", "output": "The molecule has a Heat of Combustion of 12.57 kJ/g."}
+{"input": "Can you share the Heat of Combustion of the molecule known as O=Cc1ccccc1?", "output": "The molecule has a Heat of Combustion of -3525.0 kJ/mol."}
+{"input": "What is the Heat of Combustion of the molecule called benzoic acid?", "output": "The molecule exhibits a Heat of Combustion of 3227 kJ/mole."}
+{"input": "Can you indicate the Heat of Combustion for the molecule InChI=1S/CO/c1-2?", "output": "The molecule has a Heat of Combustion of -4.343 BTU/lb, -2,412 cal/g, and -101X10+5 joules/kg."}
+{"input": "Can you indicate the Heat of Combustion for the molecule CCC=O?", "output": "The molecule has a Heat of Combustion of 1822.7 kJ/mol at 25 °C in its liquid state."}
+{"input": "What is the Heat of Combustion associated with the molecule InChI=1S/C2H7N/c1-3-2/h3H,1-2H3?", "output": "The molecule has a Heat of Combustion of -1743.5 kJ/mol at 25 °C in liquid form and 1768.9 kJ/mol at 25 °C in gas form."}
+{"input": "I would like to know the Heat of Combustion of the molecule referred to as PEDCQBHIVMGVHV-UHFFFAOYSA-N.", "output": "The molecule has a Heat of Combustion of -4310 cal/g."}
+{"input": "Could you specify the Heat of Combustion of the compound with the name InChI=1S/C8H8O2/c9-8(10)6-7-4-2-1-3-5-7/h1-5H,6H2,(H,9,10)?", "output": "The molecule has a Heat of Combustion ranging from -3896.7 to -3910 kJ/mol."}
+{"input": "What is the Heat of Combustion of the molecule called UFBJCMHMOXMLKC-UHFFFAOYSA-N?", "output": "The molecule has a heat of combustion of 648.0 kcal/g at a molecular weight of 20°C."}
+{"input": "What is the Heat of Combustion of the molecule called benzyl benzoate?", "output": "The molecule has a heat of combustion of -6.69 × 10^9 J/kmol."}
+{"input": "Would you be able to tell me the Heat of Combustion of the molecule IRIAEXORFWYRCZ-UHFFFAOYSA-N?", "output": "The molecule has a heat of combustion of -14,550 BTU/LB, -8,090 CAL/G, and -338x10^5 JOULES/KG."}
+{"input": "Can you share the Heat of Combustion of the molecule known as InChI=1S/C7H8O/c1-6-2-4-7(8)5-3-6/h2-5,8H,1H3?", "output": "The molecule has a heat of combustion of -3701 kJ/mol at 25 °C."}
+{"input": "For the molecule named GHVNFZFCNZKVNT-UHFFFAOYSA-N, could you provide its Heat of Combustion?", "output": "The molecule has a Heat of Combustion of -6,108.7 kJ/mol."}
+{"input": "What is the Heat of Combustion associated with the molecule DOIRQSBPFJWKBE-UHFFFAOYSA-N?", "output": "The molecule has a Heat of Combustion of -13,300 BTU/lb, which translates to -7400 cal/g or -310 × 10^5 J/kg."}
+{"input": "Tell me the Heat of Combustion of the molecule InChI=1S/C4H10O/c1-3-5-4-2/h3-4H2,1-2H3, please.", "output": "The molecule has a Heat of Combustion of -8.807 kcal/g."}
+{"input": "Please tell me the Heat of Combustion of the compound named InChI=1S/C7H5NO3S/c9-7-5-3-1-2-4-6(5)12(10,11)8-7/h1-4H,(H,8,9).", "output": "The molecule has a heat of combustion of 4753.1 cal/g at constant volume."}
+{"input": "What is the Heat of Combustion of the molecule called FBPFZTCFMRRESA-JGWLITMVSA-N?", "output": "The molecule has a Heat of Combustion of -3025.5 kJ/mol."}
+{"input": "What is the Heat of Combustion of the molecule called chloroform?", "output": "The molecule has no heat of combustion."}
+{"input": "Can you provide the Heat of Combustion for the substance named CN?", "output": "The molecule has a Heat of Combustion of -1085.6 kJ/mole at 25 °C (gas)."}
+{"input": "Can you provide the Heat of Combustion for the substance named InChI=1S/C2H5Cl/c1-2-3/h2H2,1H3?", "output": "The molecule has a heat of combustion of -316.7 kg cal/g mol wt at 20 °C (vapor)."}
+{"input": "Could you specify the Heat of Combustion of the compound with the name C1CO1?", "output": "The molecule has a heat of combustion of 1280.9 kJ/mol in its liquid state and 1306.1 kJ/mol in its gaseous state."}
+{"input": "For the molecule named InChI=1S/CCl2F2/c2-1(3,4)5, could you provide its Heat of Combustion?", "output": "The molecule has no heat of combustion."}
+{"input": "I'm interested in knowing the Heat of Combustion of InChI=1S/C4H11N/c1-4(2)3-5/h4H,3,5H2,1-2H3. Could you provide that?", "output": "The molecule has a heat of combustion of -3013.5 kJ/mol at 25 °C in its liquid state and -3047.4 kJ/mol at 25 °C when in its gaseous form."}
+{"input": "Would you be able to tell me the Heat of Combustion of the molecule AMIMRNSIRUDHCM-UHFFFAOYSA-N?", "output": "The molecule has a heat of combustion of 599.9 kcal."}
+{"input": "Can you provide the Heat of Combustion for the substance named InChI=1S/C5H8O2/c1-4(2)5(6)7-3/h1H2,2-3H3?", "output": "The molecule has a Heat of Combustion of approximately -11,400 BTU/lb, equivalent to 6,310 cal/g or -264 × 10^5 J/kg (estimated)."}
+{"input": "What is the Heat of Combustion associated with the molecule O=[N+]([O-])c1ccccc1O?", "output": "The molecule has a heat of combustion of -8,912 Btu/lb, -4,950 cal/g, or -207 × 10^5 J/kg."}
+{"input": "What is the value of the Heat of Combustion for the molecule InChI=1S/C5H4O2/c6-4-5-2-1-3-7-5/h1-4H?", "output": "The molecule has a heat of combustion of 560 kcal/mol."}
+{"input": "For the molecule identified as XYLMUPLGERFSHI-UHFFFAOYSA-N, what is its Heat of Combustion?", "output": "The molecule has a heat of combustion of 4863.73 kJ/mol at 25 °C (gas at constant pressure)."}
+{"input": "For the molecule named InChI=1S/C13H12/c1-3-7-12(8-4-1)11-13-9-5-2-6-10-13/h1-10H,11H2, could you provide its Heat of Combustion?", "output": "The molecule has a heat of combustion of 41.2 × 10^3 kJ/kg at 20 °C."}
+{"input": "For the molecule named Cc1ccc(Cl)cc1, could you provide its Heat of Combustion?", "output": "The molecule has a Heat of Combustion of -3754 kJ/mol at 18.8 °C."}
+{"input": "Given the molecule named InChI=1S/C3H4O/c1-2-3-4/h2-3H,1H2, could you provide its Heat of Combustion?", "output": "The molecule has a heat of combustion of -12,500 BTU/lb, which corresponds to -6,950 cal/g or -290 × 10^5 J/kg."}
+{"input": "Can you share the Heat of Combustion of the molecule known as SUVIGLJNEAMWEG-UHFFFAOYSA-N?", "output": "The molecule has a heat of combustion of -15,990 Btu/lb, -8,890 cal/g, and -372x10+5 J/kg."}
+{"input": "Could you specify the Heat of Combustion of the compound with the name InChI=1S/C4H10S/c1-2-3-4-5/h5H,2-4H2,1H3?", "output": "The molecule has a Heat of Combustion of -16,601 Btu/lb, -9,223 cal/g, and -386x10+5 J/kg."}
+{"input": "For the molecule identified as hexane, what is its Heat of Combustion?", "output": "The molecule has a Heat of Combustion of 4163.2 kJ/mol."}
+{"input": "For the molecule named COCCOC, could you provide its Heat of Combustion?", "output": "The molecule has a Heat of Combustion of -12,020 BTU/LB, -6680 CAL/G, and -279.7x10^5 JOULES/KG."}
+{"input": "Would you be able to tell me the Heat of Combustion of the molecule InChI=1S/C6H15N/c1-4-7(5-2)6-3/h4-6H2,1-3H3?", "output": "The molecule has a heat of combustion of 10,248 cal/g."}
+{"input": "Could you specify the Heat of Combustion of the compound with the name KRZCOLNOCZKSDF-UHFFFAOYSA-N?", "output": "The molecule has a heat of combustion of 780.4 kcal/mol."}
+{"input": "What is the value of the Heat of Combustion for the molecule dichloro(phenyl)phosphane?", "output": "The molecule has a heat of combustion of -8,200 Btu/lb, -4,500 cal/g, and -190x10+5 J/kg."}
+{"input": "Would you be able to tell me the Heat of Combustion of the molecule OSVXSBDYLRYLIG-UHFFFAOYSA-N?", "output": "The molecule has a standard net heat of combustion (gas) of -102.5 kJ/mol."}
+{"input": "I'm interested in knowing the Heat of Combustion of InChI=1S/3C2H5.2Al.3ClH/c3*1-2;;;;;/h3*1H2,2H3;;;3*1H/q;;;+1;+2;;;/p-3. Could you provide that?", "output": "The molecule has a heat of combustion of approximately -8,600 BTU/lb, -4,800 cal/g, and around -200 × 10^5 joules/kg (estimated)."}
+{"input": "Can you share the Heat of Combustion of the molecule known as InChI=1S/C7H14O2/c1-6(2)4-5-9-7(3)8/h6H,4-5H2,1-3H3?", "output": "The molecule has a heat of combustion of -14,402 Btu/lb, which is equivalent to -8000 cal/g."}
+{"input": "For the molecule named 2-nitrooxyethyl nitrate, could you provide its Heat of Combustion?", "output": "The molecule has a Heat of Combustion of 7.38 kJ/g."}
+{"input": "For the molecule identified as GKKDCARASOJPNG-UHFFFAOYSA-N, what is its Heat of Combustion?", "output": "The molecule has a heat of combustion of 3370 kJ/mol."}
+{"input": "Could you specify the Heat of Combustion of the compound with the name InChI=1S/C5H8O2/c1-3-4(2)5(6)7/h3H,1-2H3,(H,6,7)/b4-3+?", "output": "The molecule has a molar heat of combustion of 635.1 kilocalories."}
+{"input": "Can you provide the Heat of Combustion for the substance named FQDIANVAWVHZIR-OWOJBTEDSA-N?", "output": "The molecule has a Heat of Combustion of -17,500 Btu/lb, equivalent to -9,720 cal/g or -407 x 10^7 J/kg."}
+{"input": "Would you be able to tell me the Heat of Combustion of the molecule UMGDCJDMYOKAJW-UHFFFAOYSA-N?", "output": "The molecule has a heat of combustion at constant volume of -1482.2 kJ/mol (-19.47 kJ/g) and at constant pressure of -1485.6 kJ/mol (-19.52 kJ/g)."}
+{"input": "What is the Heat of Combustion of the molecule called (Z)-but-2-ene?", "output": "The molecule has a heat of combustion of -2712 kJ/mol."}
+{"input": "For the molecule identified as InChI=1S/Ge, what is its Heat of Combustion?", "output": "The molecule has a heat of combustion of 7380 J/g."}
+{"input": "Can you indicate the Heat of Combustion for the molecule InChI=1S/3C4H9.Al/c3*1-4(2)3;/h3*4H,1H2,2-3H3;?", "output": "The molecule has a heat of combustion of -18.423 BTU/LB, -10.235 CAL/G, and -428.23x10^5 JOULES/KG."}
+{"input": "For the molecule identified as CCCC[Al](CCCC)CCCC, what is its Heat of Combustion?", "output": "The molecule has a heat of combustion of -388 kJ/mol."}
+{"input": "Could you specify the Heat of Vaporization of the compound with the name IPCSVZSSVZVIGE-UHFFFAOYSA-N?", "output": "The molecule has a heat of vaporization of 96.28 kJ/mole at 200 °C."}
+{"input": "Can you share the Heat of Vaporization of the molecule known as BXWNKGSJHAJOGX-UHFFFAOYSA-N?", "output": "The molecule exhibits a heat of vaporization of 9.9829 × 10^7 J/kmol at its melting point."}
+{"input": "I'm interested in knowing the Heat of Vaporization of CCCCOC(=O)c1ccccc1C(=O)OCCCC. Could you provide that?", "output": "The molecule has a heat of vaporization of 79.2 kJ/mol at 340 °C."}
+{"input": "What is the value of the Heat of Vaporization for the molecule ethoxyethane?", "output": "The molecule has a heat of vaporization of 89.80 cal/g at 30°C."}
+{"input": "Given the molecule named InChI=1S/CH2BrCl/c2-1-3/h1H2, could you provide its Heat of Vaporization?", "output": "The molecule releases 232 J/g (55.4 cal/g) at its boiling point as heat of vaporization."}
+{"input": "Please tell me the Heat of Vaporization of the compound named chloro(difluoro)methane.", "output": "The molecule's heat of vaporization is 101 BTU/lb, which equals 55.9 cal/g or 2.34 × 10^5 J/kg."}
+{"input": "Please tell me the Heat of Vaporization of the compound named InChI=1S/CH3NO2/c1-2(3)4/h1H3.", "output": "The molecule has a heat of vaporization of 38.3 kJ/mol at 25 °C and 34.4 kJ/mol at the boiling point."}
+{"input": "Would you be able to tell me the Heat of Vaporization of the molecule AZSZCFSOHXEJQE-UHFFFAOYSA-N?", "output": "The molecule has a heat of vaporization of 3.317x10+7 J/kmol at -110 °C."}
+{"input": "Can you indicate the Heat of Vaporization for the molecule InChI=1S/C2H6O4S/c1-5-7(3,4)6-2/h1-2H3?", "output": "The molecule has a heat of vaporization of 385 J/g at 25 °C."}
+{"input": "Would you be able to tell me the Heat of Vaporization of the molecule InChI=1S/C4H6O/c1-4(2)3-5/h3H,1H2,2H3?", "output": "The molecule has a heat of vaporization of 29.0 kJ/mol at 101.3 kPa."}
+{"input": "For the molecule identified as 1-methyl-2-nitrobenzene, what is its Heat of Vaporization?", "output": "The molecule has a heat of vaporization of 12,239.1 gcal/gmole."}
+{"input": "Could you specify the Heat of Vaporization of the compound with the name BFCFYVKQTRLZHA-UHFFFAOYSA-N?", "output": "The molecule has a Heat of Vaporization of 6.59X10+7 J/kmol at 306.14 deg K."}
+{"input": "I would like to know the Heat of Vaporization of the molecule referred to as InChI=1S/C3H5Cl3/c4-1-3(6)2-5/h3H,1-2H2.", "output": "The molecule has a heat of vaporization of 4.7998 × 10^7 J/kmole."}
+{"input": "Would you be able to tell me the Heat of Vaporization of the molecule XPFVYQJUAUNWIW-UHFFFAOYSA-N?", "output": "The molecule has a heat of vaporization of 53.6 kJ/mol at 171 °C."}
+{"input": "What is the Heat of Vaporization associated with the molecule 1-phenylethanone?", "output": "The molecule has a heat of vaporization of 83.6 cal/g."}
+{"input": "What is the value of the Heat of Vaporization for the molecule CAHQGWAXKLQREW-UHFFFAOYSA-N?", "output": "The molecule has a heat of vaporization of 11,075.9 kcal/mol."}
+{"input": "I would like to know the Heat of Vaporization of the molecule referred to as Cc1ccc([N+](=O)[O-])cc1.", "output": "The molecule has a heat of vaporization of 11,915.0 gram cal/gram mole."}
+{"input": "I would like to know the Heat of Vaporization of the molecule referred to as O=[N+]([O-])c1ccc(Cl)cc1.", "output": "The molecule has a heat of vaporization of 6.21 × 10^7 J/mol at 356.65 K."}
+{"input": "Tell me the Heat of Vaporization of the molecule YHASWHZGWUONAO-UHFFFAOYSA-N, please.", "output": "The molecule has a heat of vaporization of 50 kJ/mol at its boiling point."}
+{"input": "Can you indicate the Heat of Vaporization for the molecule methyl formate?", "output": "The molecule has a heat of vaporization of 28.35 kJ/mol at 25 °C."}
+{"input": "Would you be able to tell me the Heat of Vaporization of the molecule 2-methylpentane?", "output": "The molecule has a heat of vaporization of 27.89 kJ/mole at 25 °C."}
+{"input": "For the molecule identified as CC(=O)OC(C)C, what is its Heat of Vaporization?", "output": "The molecule releases 150 Btu/lb of heat during vaporization, which is equivalent to 81 cal/g or 3.4 × 10^5 J/kg."}
+{"input": "What is the value of the Heat of Vaporization for the molecule InChI=1S/C9H12/c1-7-4-8(2)6-9(3)5-7/h4-6H,1-3H3?", "output": "The molecule exhibits a Heat of Vaporization of 5193.1 kJ/mol at 25 °C."}
+{"input": "What is the Heat of Vaporization of the molecule called Cc1cc(C)cc(O)c1?", "output": "The molecule has a Heat of Vaporization of 13,767.7 g cal/g mole."}
+{"input": "Can you share the Heat of Vaporization of the molecule known as InChI=1S/C3Cl3N3/c4-1-7-2(5)9-3(6)8-1?", "output": "The molecule has a heat of vaporization of 256 kJ/kg."}
+{"input": "Can you indicate the Heat of Vaporization for the molecule 2-(methylamino)ethanol?", "output": "The molecule has a heat of vaporization of 564 kJ/kg."}
+{"input": "Would you be able to tell me the Heat of Vaporization of the molecule InChI=1S/C2H5NO2/c1-2-5-3-4/h2H2,1H3?", "output": "The molecule has a heat of vaporization of 229 BTU/LB, which is equivalent to 127 CAL/G or 5.32x10^5 J/KG."}
+{"input": "Would you be able to tell me the Heat of Vaporization of the molecule InChI=1S/C7H14O/c1-6(2)4-5-7(3)8/h6H,4-5H2,1-3H3?", "output": "The molecule has a Heat of Vaporization of 38.43 kJ/mol at 101.3 kPa (to convert kPa to mm Hg, multiply by 7.5)."}
+{"input": "Could you specify the Heat of Vaporization of the compound with the name InChI=1S/C4H10O2/c1-5-3-4-6-2/h3-4H2,1-2H3?", "output": "The molecule has a heat of vaporization of 134 BTU/LB, which is equivalent to 74.6 CAL/G or 3.12X10+5 JOULES."}
+{"input": "What is the value of the Heat of Vaporization for the molecule ZPVFWPFBNIEHGJ-UHFFFAOYSA-N?", "output": "The molecule has a heat of vaporization of 12.4 dyne cm at 25 °C."}
+{"input": "What is the Heat of Vaporization of the molecule called InChI=1S/C10H12/c1-2-6-10-8-4-3-7-9(10)5-1/h1-2,5-6H,3-4,7-8H2?", "output": "The molecule has a heat of vaporization of 76.5 cal/g."}
+{"input": "Would you be able to tell me the Heat of Vaporization of the molecule InChI=1S/C14H10/c1-2-6-12-10-14-8-4-3-7-13(14)9-11(12)5-1/h1-10H?", "output": "The molecule has a heat of vaporization of 294 kJ/kg."}
+{"input": "What is the Heat of Vaporization of the molecule called dipentyl benzene-1,2-dicarboxylate?", "output": "The molecule releases 140 Btu/lb during vaporization, which equals 78 cal/g or 3.2 × 10^5 J/kg."}
+{"input": "What is the Heat of Vaporization of the molecule called InChI=1S/C5H10/c1-2-4-5-3-1/h1-5H2?", "output": "The molecule has a heat of vaporization of 28.52 kJ/mol at 25 °C."}
+{"input": "Please tell me the Heat of Vaporization of the compound named C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1.", "output": "The molecule has an enthalpy of vaporization ranging from 44.1 to 48.5 kJ/mol."}
+{"input": "Can you share the Heat of Vaporization of the molecule known as [CH2-]C.[CH2-]C.[Zn+2]?", "output": "The molecule has a heat of vaporization of 120 BTU/LB, which is equivalent to 68 CAL/G or 2.8x10^5 J/KG."}
+{"input": "I'm interested in knowing the Heat of Vaporization of InChI=1S/C6H2Cl4/c7-3-1-2-4(8)6(10)5(3)9/h1-2H. Could you provide that?", "output": "The molecule has a heat of vaporization of 268.9 J/g."}
+{"input": "For the molecule named 1,1-dichloro-1-fluoroethane, could you provide its Heat of Vaporization?", "output": "The molecule has a heat of vaporization of 223.15 kJ/kg."}
+{"input": "What is the value of the Heat of Vaporization for the molecule nitrosyl chloride?", "output": "The molecule has a heat of vaporization of 164 BTU/lb, which is equivalent to 91.0 cal/g or 3.81 × 10^5 J/kg."}
+{"input": "Can you share the Heat of Vaporization of the molecule known as HGMITUYOCPPQLE-UHFFFAOYSA-N?", "output": "The molecule vaporizes between 170-194 °C and has a heat of vaporization of 62.9 calories per gram."}
+{"input": "Can you share the Heat of Vaporization of the molecule known as PXGOKWXKJXAPGV-UHFFFAOYSA-N?", "output": "The molecule has a heat of vaporization of 6509 J/mol at 85 K."}
+{"input": "For the molecule identified as trichlorostibane, what is its Heat of Vaporization?", "output": "The molecule has a heat of vaporization of 45.19 kJ/mol at 220.3 °C."}
+{"input": "What is the Heat of Vaporization associated with the molecule 2-ethylhexanal?", "output": "The molecule has a heat of vaporization of 38.73 kJ/mol at its normal boiling point."}
+{"input": "Would you be able to tell me the Heat of Vaporization of the molecule NEHDRDVHPTWWFG-UHFFFAOYSA-N?", "output": "The molecule has a heat of vaporization of 6.73 × 10^-8 J/kmol."}
+{"input": "Can you provide the Heat of Vaporization for the substance named O=C(Cl)C(F)(F)F?", "output": "The molecule has a heat of vaporization of 20 kJ/mol."}
+{"input": "Tell me the Heat of Vaporization of the molecule FPCJKVGGYOAWIZ-UHFFFAOYSA-N, please.", "output": "The molecule has a heat of vaporization of 79 cal/g."}
+{"input": "I would like to know the Heat of Vaporization of the molecule referred to as ClCC=CCCl.", "output": "The molecule releases 130 Btu/lb upon vaporization, equivalent to 73 cal/g or 3.1x10+5 J/kg."}
+{"input": "Can you share the Heat of Vaporization of the molecule known as cesium?", "output": "The molecule has a heat of vaporization of 65.9 J/mol at 0.1 MPa."}
+{"input": "Could you specify the Heat of Vaporization of the compound with the name InChI=1S/Na?", "output": "The molecule has a heat of vaporization of 3.874 × 10^6 J/kg at its boiling point."}
+{"input": "What is the value of the Heat of Vaporization for the molecule BUGBHKTXTAQXES-UHFFFAOYSA-N?", "output": "The molecule has a heat of vaporization of 59.7 kJ/mol."}
+{"input": "Tell me the pH of the molecule NC(=O)NC1NC(=O)NC1=O, please.", "output": "The molecule has a pH range of 4.5 to 6 when dissolved in water at 5% concentration and a temperature of 20 °C."}
+{"input": "Can you provide the pH for the substance named CURLTUGMZLYLDI-UHFFFAOYSA-N?", "output": "The molecule's pH ranges from 3.7 at 101 kPa to 3.2 at 2370 kPa."}
+{"input": "Could you specify the pH of the compound with the name O=C(O)CC(O)C(=O)O?", "output": "The molecule has a pH of 3.80 in a 0.001% aqueous solution, a pH of 2.80 in a 0.1% solution, and a pH of 2.34 in a 1.0% solution."}
+{"input": "Please tell me the pH of the compound named NCC(=O)O.", "output": "The molecule has a pH of 4.0 in a 0.2 molar solution in water."}
+{"input": "Tell me the pH of the molecule C#CC1(OC(N)=O)CCCCC1, please.", "output": "The molecule has a pH of approximately 6.5 in its saturated solution."}
+{"input": "I would like to know the pH of the molecule referred to as RHUYHJGZWVXEHW-UHFFFAOYSA-N.", "output": "The molecule has a strongly alkaline pH."}
+{"input": "What is the pH associated with the molecule ZUFQODAHGAHPFQ-UHFFFAOYSA-N?", "output": "The molecule has a pH of 3.2 in a 10% \"wt in vol\" solution in water."}
+{"input": "I would like to know the pH of the molecule referred to as C=CCC1(C(C)C)C(=O)NC(=O)NC1=O.", "output": "The molecule exhibits acidic properties as it turns litmus paper red in a saturated aqueous solution."}
+{"input": "Would you be able to tell me the pH of the molecule VOUGEZYPVGAPBB-UHFFFAOYSA-N?", "output": "The molecule has an acidic reaction and turns Congo red paper blue."}
+{"input": "Could you specify the pH of the compound with the name PHOQVHQSTUBQQK-SQOUGZDYSA-N?", "output": "The molecule has a pH of 3.6 in a freshly prepared aqueous solution, decreasing to 2.5 within 2 hours."}
+{"input": "I'm interested in knowing the pH of LLWADFLAOKUBDR-UHFFFAOYSA-N. Could you provide that?", "output": "The molecule has a pH below 7, indicating it is acidic."}
+{"input": "Can you share the pH of the molecule known as cyclohexylsulfamic acid?", "output": "The molecule has a pH range of 0.8-1.6 in a 10% aqueous solution."}
+{"input": "Tell me the pH of the molecule C1CCC(NC2CCCCC2)CC1, please.", "output": "The molecule has a high pH value, indicating it is a strong base."}
+{"input": "Could you specify the pH of the compound with the name HPNMFZURTQLUMO-UHFFFAOYSA-N?", "output": "The molecule exhibits a pH indicative of strong alkalinity."}
+{"input": "Can you provide the pH for the substance named InChI=1S/C27H42NO2.ClH/c1-26(2,3)22-27(4,5)24-13-15-25(16-14-24)30-20-19-29-18-17-28(6,7)21-23-11-9-8-10-12-23;/h8-16H,17-22H2,1-7H3;1H/q+1;/p-1?", "output": "The molecule's pH in a 1% aqueous solution ranges between 4.8 and 5.5."}
+{"input": "What is the pH associated with the molecule CNC(C)C(O)c1ccccc1?", "output": "The molecule has a pH of 10.8 in a 1 in 200 aqueous solution."}
+{"input": "Tell me the pH of the molecule OJIYIVCMRYCWSE-UHFFFAOYSA-M, please.", "output": "The molecule has a pH of 6.42 in a 10% solution, 5.5 for a 1% commercial product at 25°C, and 6.8 for a 0.1% solution."}
+{"input": "I'm interested in knowing the pH of O=P([O-])(O)P(=O)([O-])O.[Na+].[Na+]. Could you provide that?", "output": "The molecule has a low pH in aqueous solutions."}
+{"input": "Please tell me the pH of the compound named O=[Si]([O-])[O-].[Ca+2].", "output": "The molecule exhibits a pH range of 8.9 to 10.0 in an aqueous slurry."}
+{"input": "Please tell me the pH of the compound named JQVALDCWTQRVQE-UHFFFAOYSA-N.", "output": "The molecule has an acidic pH due to hexavalent chromium compounds."}
+{"input": "Tell me the pH of the molecule InChI=1S/C15H18O7.C15H16O6/c1-12(2,18)6-7-10(16)20-8(6)9-13(3)14(7,19)4-5-15(13,22-5)11(17)21-9;1-5(2)7-8-11(16)19-9(7)10-13(3)14(8,18)4-6-15(13,21-6)12(17)20-10/h5-9,18-19H,4H2,1-3H3;6-10,18H,1,4H2,2-3H3/t5-,6+,7?,8?,9-,13-,14-,15+;6?,7-,8?,9?,10+,13+,14+,15-/m10/s1, please.", "output": "The molecule, when in a saturated solution in water, exhibits a neutral pH towards litmus."}
+{"input": "Could you specify the pH of the compound with the name ZNVKGUVDRSSWHV-UHFFFAOYSA-L?", "output": "The molecule has a pH of around 5 to 6, indicating moderate acidity."}
+{"input": "Could you specify the pH of the compound with the name CCOc1nc(F)cc2nc(S(=O)(=O)Nc3c(Cl)cccc3C(=O)OC)nn12?", "output": "The molecule has a pH of 3.0 when 9.8% dispersed in water."}
+{"input": "Tell me the pH of the molecule CN1CCCC1c1cccnc1, please.", "output": "The molecule has a pH of 10.2 in a 0.05 Molar solution."}
+{"input": "Can you indicate the pH for the molecule GNOLWGAJQVLBSM-UHFFFAOYSA-N?", "output": "The molecule has a pH of 5.8 in aqueous solution, with an acceptable range of 5.3-6.3."}
+{"input": "Tell me the pH of the molecule InChI=1S/C42H80NO8P/c1-6-8-10-12-14-16-18-20-21-23-25-27-29-31-33-35-42(45)51-40(39-50-52(46,47)49-37-36-43(3,4)5)38-48-41(44)34-32-30-28-26-24-22-19-17-15-13-11-9-7-2/h14,16,20-21,40H,6-13,15,17-19,22-39H2,1-5H3, please.", "output": "The molecule has a pH of 6.6."}
+{"input": "I would like to know the pH of the molecule referred to as InChI=1S/3Na.H4O7P2/c;;;1-8(2,3)7-9(4,5)6/h;;;(H2,1,2,3)(H2,4,5,6)/q3*+1;/p-3.", "output": "The molecule has a pH between 6.7 and 7.5 in a 1% solution."}
+{"input": "For the molecule named InChI=1S/C47H75NO17/c1-27-17-15-13-11-9-7-5-6-8-10-12-14-16-18-34(64-46-44(58)41(48)43(57)30(4)63-46)24-38-40(45(59)60)37(54)26-47(61,65-38)25-36(53)35(52)20-19-31(49)21-32(50)22-33(51)23-39(55)62-29(3)28(2)42(27)56/h5-6,8,10-18,27-38,40-44,46,49-54,56-58,61H,7,9,19-26,48H2,1-4H3,(H,59,60)/t27-,28-,29-,30+,31+,32+,33+,34-,35+,36+,37-,38-,40+,41-,42+,43+,44-,46-,47+/m0/s1, could you provide its pH?", "output": "The molecule can act as an acid or a base and can accept or donate protons, resulting in a pH that varies depending on the environment."}
+{"input": "Can you indicate the pH for the molecule VZCYOOQTPOCHFL-OWOJBTEDSA-N?", "output": "The molecule has a pH of approximately 3.0 to 3.2 in a 0.05% solution at 25°C."}
+{"input": "Could you specify the pH of the compound with the name CCCCCCCCC=CCCCCCCCC(=O)OCCOCC(OCCO)C1OCC(OCCO)C1OCCO?", "output": "The molecule has a pH of the 5% aqueous solution between 6 and 8."}
+{"input": "Can you indicate the pH for the molecule (1S,15S,16R,17R,18S,19E,21E,25E,27E,29E,31E)-33-[(2S,3S,4S,5S,6R)-4-amino-3,5-dihydroxy-6-methyloxan-2-yl]oxy-1,3,4,7,9,11,17,37-octahydroxy-15,16,18-trimethyl-13-oxo-14,39-dioxabicyclo[33.3.1]nonatriaconta-19,21,25,27,29,31-hexaene-36-carboxylic acid?", "output": "The molecule can act as both an acid and a base, so its pH can vary depending on the specific environmental conditions."}
+{"input": "What is the pH of the molecule called BWKOZPVPARTQIV-UHFFFAOYSA-N?", "output": "The molecule has a pH of 4.3 in a 0.1 molar solution in water."}
+{"input": "Could you specify the pH of the compound with the name VQOXZBDYSJBXMA-NQTDYLQESA-N?", "output": "The molecule is amphoteric."}
+{"input": "What is the pH of the molecule called InChI=1S/C23H22ClNO4/c1-4-14-28-20-11-6-17(16-21(20)27-3)12-13-25-23(26)22(29-15-5-2)18-7-9-19(24)10-8-18/h1-2,6-11,16,22H,12-15H2,3H3,(H,25,26)?", "output": "The molecule has a pH of 6-8 at 25°C in a 1% aqueous dispersion."}
+{"input": "Can you share the pH of the molecule known as CON=C(C(=O)OC)c1ccccc1CON=C(C)c1cccc(C(F)(F)F)c1?", "output": "The molecule has a pH of 7.7 at 25 °C."}
+{"input": "I would like to know the pH of the molecule referred to as InChI=1S/C62H90N13O14P.Co.H2O/c1-29-20-39-40(21-30(29)2)75(28-70-39)57-52(84)53(41(27-76)87-57)89-90(85,86)88-31(3)26-69-49(83)18-19-59(8)37(22-46(66)80)56-62(11)61(10,25-48(68)82)36(14-17-45(65)79)51(74-62)33(5)55-60(9,24-47(67)81)34(12-15-43(63)77)38(71-55)23-42-58(6,7)35(13-16-44(64)78)50(72-42)32(4)54(59)73-56;;/h20-21,23,28,31,34-37,41,52-53,56-57,76,84H,12-19,22,24-27H2,1-11H3,(H15,63,64,65,66,67,68,69,71,72,73,74,77,78,79,80,81,82,83,85,86);;1H2/p-2/t31-,34+,35+,36+,37-,41+,52+,53+,56?,57-,59+,60-,61-,62-;;/m0../s1.", "output": "The molecule has a pH between 8 and 10 in a 2 in 100 solution."}
+{"input": "Can you provide the pH for the substance named InChI=1S/2C6H8O6.Ca.2H2O/c2*7-1-2(8)5-3(9)4(10)6(11)12-5;;;/h2*2,5,7-10H,1H2;;2*1H2/q;;+2;;/p-2/t2*2-,5+;;;/m00.../s1?", "output": "The molecule has a pH between 6.0 and 7.5 in a 10% aqueous solution."}
+{"input": "Could you specify the pH of the compound with the name [(2R)-3-hexadecanoyloxy-2-[(9E,12E)-octadeca-9,12-dienoyl]oxypropyl] 2-(trimethylazaniumyl)ethyl phosphate?", "output": "The molecule has a pH of 6.6."}
+{"input": "For the molecule identified as zinc;octadecanoic acid, what is its pH?", "output": "The molecule shows a pH of 7 when tested with moistened litmus paper."}
+{"input": "What is the pH of the molecule called InChI=1S/2C6H12O7.Fe/c2*7-1-2(8)3(9)4(10)5(11)6(12)13;/h2*2-5,7-11H,1H2,(H,12,13);/q;;+2/p-2/t2*2-,3-,4+,5-;/m11./s1?", "output": "The molecule has a pH between 4 and 5.5 in a 10% solution."}
+{"input": "Tell me the pH of the molecule InChI=1S/C5H9NO4.K/c6-3(5(9)10)1-2-4(7)8;/h3H,1-2,6H2,(H,7,8)(H,9,10);/q;+1/p-1/t3-;/m0./s1, please.", "output": "The molecule has a pH between 6.7 and 7.3 in a 2% solution."}
+{"input": "What is the pH of the molecule called O=P[O-].[K+]?", "output": "The molecule has a pH of around 7 to slightly above 7 in aqueous solution."}
+{"input": "Given the molecule named InChI=1S/C62H90N13O14P.CN.Co/c1-29-20-39-40(21-30(29)2)75(28-70-39)57-52(84)53(41(27-76)87-57)89-90(85,86)88-31(3)26-69-49(83)18-19-59(8)37(22-46(66)80)56-62(11)61(10,25-48(68)82)36(14-17-45(65)79)51(74-62)33(5)55-60(9,24-47(67)81)34(12-15-43(63)77)38(71-55)23-42-58(6,7)35(13-16-44(64)78)50(72-42)32(4)54(59)73-56;1-2;/h20-21,23,28,31,34-37,41,52-53,56-57,76,84H,12-19,22,24-27H2,1-11H3,(H15,63,64,65,66,67,68,69,71,72,73,74,77,78,79,80,81,82,83,85,86);;/q;-1;+3/p-2/t31-,34-,35-,36-,37+,41-,52-,53-,56?,57+,59-,60+,61+,62+;;/m1../s1, could you provide its pH?", "output": "The molecule has a pH range of 4.5-7 when commercially available for injection."}
+{"input": "Would you be able to tell me the pH of the molecule InChI=1S/C62H90N13O14P.CN.Co/c1-29-20-39-40(21-30(29)2)75(28-70-39)57-52(84)53(41(27-76)87-57)89-90(85,86)88-31(3)26-69-49(83)18-19-59(8)37(22-46(66)80)56-62(11)61(10,25-48(68)82)36(14-17-45(65)79)51(74-62)33(5)55-60(9,24-47(67)81)34(12-15-43(63)77)38(71-55)23-42-58(6,7)35(13-16-44(64)78)50(72-42)32(4)54(59)73-56;1-2;/h20-21,23,28,31,34-37,41,52-53,56-57,76,84H,12-19,22,24-27H2,1-11H3,(H15,63,64,65,66,67,68,69,71,72,73,74,77,78,79,80,81,82,83,85,86);;/q;-1;+2/p-1/t31-,34-,35-,36-,37+,41-,52-,53-,56-,57+,59-,60+,61+,62+;;/m1../s1?", "output": "The molecule has a pH of 4.5-7."}
+{"input": "For the molecule named COC1C(O)CC(=O)OC(C)CC=CC=CC(OC2CCC(N(C)C)C(C)O2)C(C)CC(CC=O)C1OC1OC(C)C(OC2CC(C)(O)C(O)C(C)O2)C(N(C)C)C1O, could you provide its pH?", "output": "The molecule is a base."}
+{"input": "Please tell me the pH of the compound named CC.CC.CC.CC.CC.", "output": "The molecule, when in a 1% solution, exhibits a pH of approximately 5.1-5.9."}
+{"input": "What is the value of the pH for the molecule O=C([O-])CN1CCN(CC(=O)[O-])CCN(C(CO)C(O)CO)CCN(CC(=O)[O-])CC1.[Gd+3]?", "output": "The molecule has a pH between 6.6 and 8."}
+{"input": "Tell me the pH of the molecule InChI=1S/C62H90N13O14P/c1-29-20-39-40(21-30(29)2)75(28-70-39)57-52(84)53(41(27-76)87-57)89-90(85,86)88-31(3)26-69-49(83)18-19-59(8)37(22-46(66)80)56-62(11)61(10,25-48(68)82)36(14-17-45(65)79)51(74-62)33(5)55-60(9,24-47(67)81)34(12-15-43(63)77)38(71-55)23-42-58(6,7)35(13-16-44(64)78)50(72-42)32(4)54(59)73-56/h20-21,23,28,31,34-37,41,52-53,56-57,76,84H,12-19,22,24-27H2,1-11H3,(H15,63,64,65,66,67,68,69,71,72,73,74,77,78,79,80,81,82,83,85,86)/p-2, please.", "output": "The molecule has a pH of between 8 and 10 in a 2% solution."}
+{"input": "Please tell me the pH of the compound named (2S)-2-[[4-[[(6R)-2-amino-5-formyl-4-oxo-3,6,7,8-tetrahydropteridin-6-yl]methylamino]benzoyl]amino]pentanedioic acid.", "output": "The molecule has a pH of 2.8-3.0 in a saturated solution in water."}
+{"input": "What is the pH associated with the molecule calcium;[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl phosphate?", "output": "The molecule has a pH between 7.0 and 8.0 in a 0.05% solution."}
+{"input": "Can you indicate the Refractive Index for the molecule CC(C)c1ccc(C=O)cc1?", "output": "The molecule has a refractive index ranging from 1.527 to 1.534."}
+{"input": "Could you specify the Refractive Index of the compound with the name CWERGRDVMFNCDR-UHFFFAOYSA-N?", "output": "The molecule has a refractive index of 1.5080 at 20 °C/D."}
+{"input": "What is the Refractive Index of the molecule called S=C=NCc1ccccc1?", "output": "The molecule has a refractive index ranging from 1.600 to 1.606."}
+{"input": "Can you share the Refractive Index of the molecule known as CCCCCCc1ccc(O)cc1O?", "output": "The molecule has a refractive index of -53 at 20 °C/D in aqueous hydrochloric acid."}
+{"input": "Would you be able to tell me the Refractive Index of the molecule 4-butyl-1,2-diphenylpyrazolidine-3,5-dione?", "output": "The molecule has refractive indices of 1.600 (alpha) and 1.620 (gamma)."}
+{"input": "For the molecule named sodium;iodide, could you provide its Refractive Index?", "output": "The molecule has a refractive index of 1.7745."}
+{"input": "Can you indicate the Refractive Index for the molecule CIHOLLKRGTVIJN-UHFFFAOYSA-N?", "output": "The molecule has a refractive index of 1.4015 at 20 °C/D."}
+{"input": "Tell me the Refractive Index of the molecule TWLLPUMZVVGILS-UHFFFAOYSA-N, please.", "output": "The molecule has a refractive index of 1.5646 at 20 °C."}
+{"input": "Would you be able to tell me the Refractive Index of the molecule CCC(CC)C(=O)O?", "output": "The molecule has a refractive index of 1.413."}
+{"input": "Please tell me the Refractive Index of the compound named ICKWICRCANNIBI-UHFFFAOYSA-N.", "output": "The molecule has a refractive index of 1.5080 at 20°C/D."}
+{"input": "What is the Refractive Index associated with the molecule benzene-1,3-dicarbonyl chloride?", "output": "The molecule has an index of refraction of 1.570 at 47 °C/D."}
+{"input": "For the molecule named SCc1ccccc1, could you provide its Refractive Index?", "output": "The molecule has a refractive index of 1.5751 at 20 °C/D."}
+{"input": "For the molecule identified as InChI=1S/C15H10N2O2/c18-10-16-14-5-1-12(2-6-14)9-13-3-7-15(8-4-13)17-11-19/h1-8H,9H2, what is its Refractive Index?", "output": "The molecule has an index of refraction of 1.5906 at 50 °C/D."}
+{"input": "Could you specify the Refractive Index of the compound with the name OJGMBLNIHDZDGS-UHFFFAOYSA-N?", "output": "The molecule exhibits a high refractive index of 1.5559 at 20 °C/D."}
+{"input": "Can you indicate the Refractive Index for the molecule CCCCCCCCCCc1ccccc1?", "output": "The molecule has a refractive index of 1.4892 at 20 °C."}
+{"input": "For the molecule named OCC#CCO, could you provide its Refractive Index?", "output": "The molecule has an index of refraction of 1.4804 at 20 °C/D."}
+{"input": "I'm interested in knowing the Refractive Index of Cc1ccc([N+](=O)[O-])cc1Cl. Could you provide that?", "output": "The molecule has a refractive index of 1.5470 at 69 °C/D."}
+{"input": "Please tell me the Refractive Index of the compound named 1,3-diethylbenzene.", "output": "The molecule has a refractive index of 1.4955 at 20°C/D."}
+{"input": "Can you provide the Refractive Index for the substance named CC1CCC(C(C)C)CC1=O?", "output": "The molecule has a refractive index ranging from 1.451 to 1.457."}
+{"input": "Can you share the Refractive Index of the molecule known as CC(C)CS?", "output": "The molecule has a refractive index range of 1.437-1.444."}
+{"input": "What is the Refractive Index of the molecule called CCC(Cl)CCl?", "output": "The molecule has a refractive index of 1.4450 at 20 °C."}
+{"input": "For the molecule named InChI=1S/C8H16O/c1-4-8(9)6-5-7(2)3/h7H,4-6H2,1-3H3, could you provide its Refractive Index?", "output": "The molecule has a refractive index of 1.4209 at 20 °C/D."}
+{"input": "I'm interested in knowing the Refractive Index of InChI=1S/C2H2Cl4/c3-1-2(4,5)6/h1H2. Could you provide that?", "output": "The molecule has an index of refraction of 1.4821 at 20 °C/D."}
+{"input": "Tell me the Refractive Index of the molecule InChI=1S/Al.Na.2O/q-1;+1;;, please.", "output": "The molecule has an index of refraction of 1.566.  \nThe molecule has an index of refraction of 1.595.  \nThe molecule has an index of refraction of 1.580."}
+{"input": "Given the molecule named InChI=1S/C12H22O2/c1-2-3-4-5-6-7-8-11-9-10-12(13)14-11/h11H,2-10H2,1H3, could you provide its Refractive Index?", "output": "The molecule has a refractive index ranging from 1.451 to 1.456."}
+{"input": "Can you provide the Refractive Index for the substance named oxolan-2-ylmethyl 2-methylprop-2-enoate?", "output": "The molecule has an index of refraction of 1.4552 at 20 °C/D."}
+{"input": "Tell me the Refractive Index of the molecule CC=C(C)CO, please.", "output": "The molecule has a refractive index ranging from 1.439 to 1.445."}
+{"input": "For the molecule named VWDWKYIASSYTQR-UHFFFAOYSA-N, could you provide its Refractive Index?", "output": "The molecule has an index of refraction of 1.587 in the trigonal phase and 1.336 in the rhombohedral phase."}
+{"input": "For the molecule identified as O=S([O-])([O-])=S.[Na+].[Na+], what is its Refractive Index?", "output": "The molecule has refractive indices of 1.489 for alpha, 1.508 for beta, and 1.536 for gamma; its optic sign is positive."}
+{"input": "Tell me the Refractive Index of the molecule InChI=1S/2Fe.3H2O4S/c;;3*1-5(2,3)4/h;;3*(H2,1,2,3,4)/q2*+3;;;/p-6, please.", "output": "The molecule has a refractive index of 1.814."}
+{"input": "Can you provide the Refractive Index for the substance named pentyl heptanoate?", "output": "The molecule has a refractive index ranging from 1.422 to 1.426."}
+{"input": "Would you be able to tell me the Refractive Index of the molecule CC1SCCC1=O?", "output": "The molecule has a refractive index of 1.510-1.520."}
+{"input": "Can you share the Refractive Index of the molecule known as (2R,5R)-5-methyl-2-propan-2-ylcyclohexan-1-one?", "output": "The molecule exhibits a refractive index range of 1.449-1.451."}
+{"input": "For the molecule named (E)-but-2-ene-1,4-diol, could you provide its Refractive Index?", "output": "The molecule has an index of refraction ranging from 1.476 to 1.478 at 25°C/D."}
+{"input": "Can you indicate the Refractive Index for the molecule dodecyl 2-methylpropanoate?", "output": "The molecule has a refractive index ranging from 1.432 to 1.436."}
+{"input": "What is the value of the Refractive Index for the molecule FPIPGXGPPPQFEQ-OVSJKPMPSA-N?", "output": "The molecule has a refractive index of 1.6410 at 20 °C/D, determined from refractive indexes of 20-70% solutions in mineral oil. It exhibits maximum absorption at 324-325 nm (E=1,835, 1%, 1 cm)."}
+{"input": "Could you specify the Refractive Index of the compound with the name InChI=1S/C4H8S2/c1-3-4-6-5-2/h3-4H,1-2H3?", "output": "The molecule exhibits a refractive index ranging from 1.5415 to 1.5515."}
+{"input": "Tell me the Refractive Index of the molecule QEYJAENSRLNDFW-UHFFFAOYSA-N, please.", "output": "The molecule exhibits a refractive index ranging from 1.492 to 1.502."}
+{"input": "Can you provide the Refractive Index for the substance named 2-ethoxy-1-methyl-4-propan-2-ylbenzene?", "output": "The molecule has a refractive index ranging from 1.502 to 1.509."}
+{"input": "Tell me the Refractive Index of the molecule InChI=1S/C18H32O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h6-7,9-10H,2-5,8,11-17H2,1H3,(H,19,20)/b7-6-,10-9-, please.", "output": "The molecule has an index of refraction of 1.4715 at 11.5 °C/D, 1.4699 at 20 °C/D, 1.4683 at 21.5 °C/D, and 1.4588 at 50 °C/D."}
+{"input": "Tell me the Refractive Index of the molecule InChI=1S/C7H13NS/c1-4-7-8-5(2)6(3)9-7/h6-7H,4H2,1-3H3, please.", "output": "The molecule has a refractive index of 1.490-1.495."}
+{"input": "I would like to know the Refractive Index of the molecule referred to as O=C(C=Cc1ccccc1)OCC1CCCO1.", "output": "The molecule has a refractive index ranging from 1.593 to 1.600."}
+{"input": "Would you be able to tell me the Refractive Index of the molecule HABNNYNSJFKZFE-UHFFFAOYSA-N?", "output": "The molecule has a refractive index between 1.480 and 1.490."}
+{"input": "What is the Refractive Index associated with the molecule InChI=1S/C6H10O2/c1-3-4-5(2)6(7)8/h4H,3H2,1-2H3,(H,7,8)/b5-4-?", "output": "The molecule has a refractive index ranging from 1.450 to 1.460."}
+{"input": "For the molecule identified as InChI=1S/B4O7.2Na/c5-1-7-3-9-2(6)10-4(8-1)11-3;;/q-2;2*+1, what is its Refractive Index?", "output": "The molecule has a refractive index of 1.5010."}
+{"input": "Can you indicate the Refractive Index for the molecule CSCC(C=O)=Cc1ccccc1?", "output": "The molecule exhibits a refractive index ranging from 1.622 to 1.632."}
+{"input": "What is the Refractive Index of the molecule called InChI=1S/C15H23N6O6P/c1-10-8-21(15(23)17-14(10)22)13-7-11(18-19-16)12(27-13)9-26-28(24,25)20-5-3-2-4-6-20/h8,11-13H,2-7,9H2,1H3,(H,24,25)(H,17,22,23)?", "output": "The molecule has a refractive index of 1.470-1.472 at 20°C/D."}
+{"input": "Could you specify the Refractive Index of the compound with the name CCCCCCOC(CCCCC)OCCC(C)C?", "output": "The molecule has a refractive index ranging from 1.427 to 1.432."}
+{"input": "Would you be able to tell me the Refractive Index of the molecule InChI=1S/C11H18O2/c1-4-6-7-8-9-13-11(12)10(3)5-2/h5-7H,4,8-9H2,1-3H3/b7-6?,10-5+?", "output": "The molecule has a refractive index of 1.458-1.462."}
+{"input": "I'm interested in knowing the Refractive Index of [(2R,3S,4S,5R,6R)-5-acetyloxy-3,4,6-trihydroxyoxan-2-yl]methyl acetate. Could you provide that?", "output": "The molecule has an index of refraction ranging from 1.46 to 1.50, found in both hard and soft cellulose acetate."}
+{"input": "Can you share the Surface Tension of the molecule known as CC(=O)O?", "output": "The molecule exhibits a surface tension of 27.10 mN/m at 25 °C."}
+{"input": "Would you be able to tell me the Surface Tension of the molecule InChI=1S/H3N/h1H3?", "output": "The molecule exhibits surface tension of 23.4 dynes/cm at 11.1 °C and 18.1 dynes/cm at 34.1 °C."}
+{"input": "Please tell me the Surface Tension of the compound named InChI=1S/C7H6O2/c8-7(9)6-4-2-1-3-5-6/h1-5H,(H,8,9).", "output": "The molecule exhibits a surface tension of 31 mN/m at 130 °C."}
+{"input": "Could you specify the Surface Tension of the compound with the name InChI=1S/C7H8O/c8-6-7-4-2-1-3-5-7/h1-5,8H,6H2?", "output": "The molecule has a surface tension of 39.0 dynes/cm at 20 °C and 33 dyn/cm at 80 °C."}
+{"input": "Could you specify the Surface Tension of the compound with the name OO?", "output": "The molecule has a surface tension of 80.4 dynes/cm at 20 °C."}
+{"input": "What is the Surface Tension of the molecule called InChI=1S/C16H34O/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17/h17H,2-16H2,1H3?", "output": "The molecule has a surface tension of 0.028449 Newtons/m at its melting point."}
+{"input": "For the molecule identified as COC(=O)c1ccccc1O, what is its Surface Tension?", "output": "The molecule exhibits a surface tension of 44.2 dynes/cm at -19.8 °C and 19.8 dynes/cm at 212.2 °C."}
+{"input": "Can you indicate the Surface Tension for the molecule bromoform?", "output": "The molecule exhibits a surface tension of 41.53 dynes/cm at 20 °C."}
+{"input": "What is the Surface Tension associated with the molecule ClC(Cl)(Cl)Cl?", "output": "The molecule exhibits a surface tension of 3.23 × 10-2 N/m at a temperature of 25.33 K."}
+{"input": "What is the Surface Tension associated with the molecule methylhydrazine?", "output": "The molecule has a surface tension of 33.83 dynes/cm."}
+{"input": "I would like to know the Surface Tension of the molecule referred to as (8R,9S,10R,13S,14S)-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-3,17-dione.", "output": "The molecule exhibits a surface tension of 68.5 mN/m at 90% saturation concentration in water at 20 °C."}
+{"input": "Would you be able to tell me the Surface Tension of the molecule ClC(Cl)Cl?", "output": "The molecule has a surface tension of 27.1 dynes per centimeter, which is equivalent to 0.0271 Newtons per meter at 20 °C."}
+{"input": "What is the Surface Tension associated with the molecule 1,1,1-trichloroethane?", "output": "The molecule exhibits a surface tension of 0.02518 N/m at 25 °C."}
+{"input": "Tell me the Surface Tension of the molecule GZUXJHMPEANEGY-UHFFFAOYSA-N, please.", "output": "The molecule exhibits a surface tension of 24.5 dynes/cm, equivalent to 0.0245 N/m at 15 °C."}
+{"input": "For the molecule identified as CN, what is its Surface Tension?", "output": "The molecule exhibits a surface tension of 19.15 mN/m at 25 °C."}
+{"input": "What is the Surface Tension associated with the molecule LVZWSLJZHVFIQJ-UHFFFAOYSA-N?", "output": "The molecule exhibits a surface tension of 22 dynes per centimeter, equivalent to 0.022 Newtons per meter at a temperature of -40°C."}
+{"input": "For the molecule named 2-methylpropane, could you provide its Surface Tension?", "output": "The molecule exhibits a surface tension of 14.1 dyne/cm at -10 °C."}
+{"input": "Could you specify the Surface Tension of the compound with the name C[Si](Cl)(Cl)Cl?", "output": "The molecule has a surface tension of 20.3 dynes per centimeter, which is equivalent to 0.0203 Newtons per meter at 20 °C."}
+{"input": "Tell me the Surface Tension of the molecule FC(F)(Cl)C(Cl)(Cl)Cl, please.", "output": "The molecule exhibits a surface tension of 2.7913 x 10^-2 N/m at 313.75 K."}
+{"input": "Can you provide the Surface Tension for the substance named 1,1,2,2-tetrachloro-1,2-difluoroethane?", "output": "The molecule exhibits a surface tension of 23 dyn/cm at 30 °C."}
+{"input": "For the molecule named InChI=1S/C3H4O2/c1-2-3(4)5/h2H,1H2,(H,4,5), could you provide its Surface Tension?", "output": "The molecule exhibits a surface tension of 28.1 dynes/cm at 30 °C."}
+{"input": "What is the Surface Tension of the molecule called CCOC(=O)c1ccccc1C(=O)OCC?", "output": "The molecule has a surface tension of 37.5 dynes/cm at 20 °C."}
+{"input": "What is the value of the Surface Tension for the molecule 1,4-dichloro-2-nitrobenzene?", "output": "The molecule has a surface tension of 6.6 (Air = 1)."}
+{"input": "Could you specify the Surface Tension of the compound with the name 1-chloro-2-methylbenzene?", "output": "The molecule exhibits a surface tension of 0.03344 N/m at 20 °C."}
+{"input": "For the molecule identified as CCC(=O)CC, what is its Surface Tension?", "output": "The molecule exhibits a surface tension of 24.7 mN/m at 25 °C."}
+{"input": "For the molecule named 1-methyl-4-nitrobenzene, could you provide its Surface Tension?", "output": "The molecule has a surface tension of 42.3 mN/m (= dyn/cm) at 60 °C."}
+{"input": "Please tell me the Surface Tension of the compound named NNc1ccccc1.", "output": "The molecule has a surface tension of 46.1 dynes/cm at 20 °C when in contact with vapor."}
+{"input": "Could you specify the Surface Tension of the compound with the name CCCCN(CCCC)CCCC?", "output": "The molecule exhibits a surface tension of 24.9 dynes/cm at 20 °C."}
+{"input": "Can you provide the Surface Tension for the substance named butanoyl butanoate?", "output": "The molecule exhibits a surface tension of 0.02884 N/m at 25 °C."}
+{"input": "Tell me the Surface Tension of the molecule C=CC=O, please.", "output": "The molecule has a surface tension of 24 dynes/cm at 20 °C, equivalent to 0.024 N/m."}
+{"input": "Tell me the Surface Tension of the molecule InChI=1S/C9H12/c1-7-4-8(2)6-9(3)5-7/h4-6H,1-3H3, please.", "output": "The molecule exhibits a surface tension of 28.84 mN/m at 20 °C."}
+{"input": "What is the Surface Tension associated with the molecule Brc1ccccc1?", "output": "The molecule exhibits a surface tension of 36 dynes per centimeter, equivalent to 0.036 newtons per meter at 20°C."}
+{"input": "What is the value of the Surface Tension for the molecule CCCCC=O?", "output": "The molecule exhibits a surface tension of 27.4 mN/m at 20 °C."}
+{"input": "Can you provide the Surface Tension for the substance named 2-ethoxyethanol?", "output": "The molecule has a surface tension of 28.2 dynes/cm at 25 °C."}
+{"input": "Would you be able to tell me the Surface Tension of the molecule BJQHLKABXJIVAM-UHFFFAOYSA-N?", "output": "The molecule has a liquid surface tension of approximately 15 dynes/cm, which equals 0.015 N/m at 20 °C. The molecule also exhibits a liquid-water interfacial tension of around 30 dynes/cm, equivalent to 0.03 N/m at 20 °C."}
+{"input": "What is the value of the Surface Tension for the molecule cobalt(2+);2-ethylhexanoate?", "output": "The molecule has a surface tension of 64.43 mN/m at 20 °C and a concentration of 1 g/L."}
+{"input": "Would you be able to tell me the Surface Tension of the molecule CCOC(C)=O?", "output": "The molecule exhibits a surface tension of 24 dynes/cm at 20 °C."}
+{"input": "Please tell me the Surface Tension of the compound named InChI=1S/CCl2S/c2-1(3)4.", "output": "The molecule has a surface tension of 25 dynes per centimeter at 20 °C, equivalent to 0.025 Newtons per meter."}
+{"input": "What is the value of the Surface Tension for the molecule CC(C)(C)C?", "output": "The molecule exhibits a surface tension of 12.05 mN/m (= dyn/cm) at 20 °C and 10.98 mN/m (= dyn/cm) at 30 °C."}
+{"input": "I would like to know the Surface Tension of the molecule referred to as pentyl acetate.", "output": "The molecule has a surface tension of 12 dynes/cm, equivalent to 0.012 N/m at 30 °C."}
+{"input": "For the molecule named InChI=1S/C5H9NO/c1-6-4-2-3-5(6)7/h2-4H2,1H3, could you provide its Surface Tension?", "output": "The molecule exhibits a surface tension of 40.7 dynes/cm."}
+{"input": "Can you share the Surface Tension of the molecule known as tetradecylbenzene?", "output": "The molecule exhibits a surface tension of 3.2881 x 10^-2 N/m at 289.15 K."}
+{"input": "Can you share the Surface Tension of the molecule known as NAQMVNRVTILPCV-UHFFFAOYSA-N?", "output": "The molecule has a surface tension of 34.6 dynes/cm, which is equivalent to 0.0346 N/m at 60 °C."}
+{"input": "Can you indicate the Surface Tension for the molecule chromium?", "output": "The molecule exhibits a surface tension of approximately 1590 ± 50 mN/m in vacuum at 1950 °C (measured by the Sessile drop method). It shows about 1700 ± 50 mN/m in air at its melting point (measured using the Dynam drop wt method). In air or Helium at 1800 °C, its surface tension measures around 1520 mN/m (measured by the Sessile drop method)."}
+{"input": "Please tell me the Surface Tension of the compound named ClCl.", "output": "The molecule exhibits a surface tension of 18.4 dynes/cm at 20 °C in contact with vapor."}
+{"input": "Can you share the Surface Tension of the molecule known as InChI=1S/5FH.Sb/h5*1H;/q;;;;;+5/p-5?", "output": "The molecule has a surface tension of 20 dynes per centimeter, which is equivalent to 0.20 Newtons per meter at 20°C."}
+{"input": "I'm interested in knowing the Surface Tension of sulfuryl dichloride. Could you provide that?", "output": "The molecule exhibits a surface tension of 35.26 mN at 23.5 °C."}
+{"input": "Can you provide the Surface Tension for the substance named cesium?", "output": "The molecule has a surface tension of 39.4 mN/m at its melting point."}
+{"input": "For the molecule named HHDUMDVQUCBCEY-UHFFFAOYSA-N, could you provide its Surface Tension?", "output": "The molecule exhibits a surface tension of 79.9 dyne/cm."}
+{"input": "Can you indicate the Surface Tension for the molecule InChI=1S/C20H38O11/c1-21-9-11-13(23-3)15(24-4)18(27-7)20(30-11)31-14-12(10-22-2)29-19(28-8)17(26-6)16(14)25-5/h11-20H,9-10H2,1-8H3/t11-,12-,13-,14-,15+,16+,17+,18-,19-,20+/m1/s1?", "output": "The molecule exhibits a surface tension of 47-53 dyn/cm in a 0.1% solution."}
+{"input": "Would you be able to tell me the Taste of the molecule HUMNYLRZRPPJDN-UHFFFAOYSA-N?", "output": "The molecule possesses a burning aromatic taste."}
+{"input": "What is the Taste associated with the molecule InChI=1S/C6HCl5O/c7-1-2(8)4(10)6(12)5(11)3(1)9/h12H?", "output": "The molecule has a taste threshold of 30 ug/L."}
+{"input": "Please tell me the Taste of the compound named InChI=1S/H2O4S/c1-5(2,3)4/h(H2,1,2,3,4).", "output": "The molecule has a marked acid taste."}
+{"input": "I would like to know the Taste of the molecule referred to as NCC1(CC(=O)O)CCCCC1.", "output": "The molecule induces a bitter taste."}
+{"input": "What is the Taste of the molecule called CC(C)O?", "output": "The molecule has a slightly bitter taste."}
+{"input": "Given the molecule named NOIIUHRQUVNIDD-UHFFFAOYSA-N, could you provide its Taste?", "output": "The molecule has a slightly bitter taste."}
+{"input": "Please tell me the Taste of the compound named CCCN(CCC)S(=O)(=O)c1ccc(C(=O)O)cc1.", "output": "The molecule offers a slightly bitter taste with a pleasant aftertaste."}
+{"input": "Tell me the Taste of the molecule InChI=1S/C18H36O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h2-17H2,1H3,(H,19,20), please.", "output": "The molecule suggests a taste resembling tallow."}
+{"input": "What is the Taste associated with the molecule 4-(1H-benzimidazol-2-yl)-1,3-thiazole?", "output": "The molecule lacks flavor."}
+{"input": "For the molecule named CCOC(=O)C1OC1(C)c1ccccc1, could you provide its Taste?", "output": "The molecule possesses a slightly acidic taste reminiscent of strawberry."}
+{"input": "What is the Taste associated with the molecule QZCLKYGREBVARF-UHFFFAOYSA-N?", "output": "The molecule, at high levels (e.g., 1000 ppm emulsion in water), has a mild, fruity, non-descript flavor."}
+{"input": "I'm interested in knowing the Taste of CCOC(=O)c1ccccc1N. Could you provide that?", "output": "The molecule has a faint taste of orange flowers."}
+{"input": "Would you be able to tell me the Taste of the molecule InChI=1S/C8H10O/c1-6-3-4-8(9)5-7(6)2/h3-5,9H,1-2H3?", "output": "The molecule is detectable at 0.05 mg/l (taste threshold concn)."}
+{"input": "Can you provide the Taste for the substance named NGAZZOYFWWSOGK-UHFFFAOYSA-N?", "output": "The molecule has a taste of melon and banana flavor."}
+{"input": "Would you be able to tell me the Taste of the molecule 2-[fluoro(methyl)phosphoryl]oxypropane?", "output": "The molecule is tasteless in its pure form."}
+{"input": "Can you indicate the Taste for the molecule 1,3,5-triazinane-2,4,6-trione?", "output": "The molecule has a slightly bitter taste."}
+{"input": "What is the Taste of the molecule called SVONRAPFKPVNKG-UHFFFAOYSA-N?", "output": "The molecule exhibits a bitter acid taste."}
+{"input": "For the molecule named CCCCCCCO, could you provide its Taste?", "output": "The molecule has a pungent, spicy taste."}
+{"input": "Could you specify the Taste of the compound with the name AFPHTEQTJZKQAQ-UHFFFAOYSA-N?", "output": "The molecule tastes bitter."}
+{"input": "Would you be able to tell me the Taste of the molecule QMVPMAAFGQKVCJ-UHFFFAOYSA-N?", "output": "The molecule elicits a bitter taste. \nThe molecule possesses a sweet, peach-like flavor."}
+{"input": "Can you share the Taste of the molecule known as XYIBRDXRRQCHLP-UHFFFAOYSA-N?", "output": "The molecule has a ripe fruit taste."}
+{"input": "Given the molecule named InChI=1S/CH5AsO3.2Na/c1-2(3,4)5;;/h1H3,(H2,3,4,5);;/q;2*+1/p-2, could you provide its Taste?", "output": "The molecule has a pleasant acid taste."}
+{"input": "Would you be able to tell me the Taste of the molecule (2S,3R,11bS)-2-[[(1R)-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinolin-1-yl]methyl]-3-ethyl-9,10-dimethoxy-2,3,4,6,7,11b-hexahydro-1H-benzo[a]quinolizine?", "output": "The molecule has a very bitter taste."}
+{"input": "What is the Taste of the molecule called 3-methyl-6-propan-2-ylcyclohex-2-en-1-ol?", "output": "The molecule possesses a fresh pungent taste."}
+{"input": "Can you provide the Taste for the substance named InChI=1S/C10H18O/c1-9(2)7-4-5-10(9,3)8(11)6-7/h7-8,11H,4-6H2,1-3H3/t7-,8-,10-/m0/s1?", "output": "The molecule presents a burning taste somewhat reminiscent of mint."}
+{"input": "For the molecule named barium(2+);carbonate, could you provide its Taste?", "output": "The molecule lacks any discernible taste."}
+{"input": "What is the Taste of the molecule called ethyl nitrate?", "output": "The molecule elicits a sweet taste."}
+{"input": "For the molecule identified as InChI=1S/O2.Sr/c1-2;/q-2;+2, what is its Taste?", "output": "The molecule lacks any discernible taste."}
+{"input": "I'm interested in knowing the Taste of WUOACPNHFRMFPN-UHFFFAOYSA-N. Could you provide that?", "output": "The molecule offers a sharp, tangy taste reminiscent of distilled lime."}
+{"input": "What is the value of the Taste for the molecule LTINPJMVDKPJJI-UHFFFAOYSA-N?", "output": "The molecule has a pungent, bitter aftertaste."}
+{"input": "Can you indicate the Taste for the molecule InChI=1S/K.NO3/c;2-1(3)4/q+1;-1?", "output": "The molecule has a cooling, saline pungent taste."}
+{"input": "Can you indicate the Taste for the molecule IHZDYHDJAVUIBH-UHFFFAOYSA-L?", "output": "The molecule has a mild alkaline taste."}
+{"input": "Given the molecule named O=[Cr](=O)([O-])[O-].[K+].[K+], could you provide its Taste?", "output": "The molecule elicits a disagreeable bitter taste."}
+{"input": "I'm interested in knowing the Taste of InChI=1S/C20H40O3/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-20(22)23-19-18-21/h21H,2-19H2,1H3. Could you provide that?", "output": "The molecule has a slightly bitter, fatty taste."}
+{"input": "Tell me the Taste of the molecule InChI=1S/C7H14O/c1-3-5-7(8)6-4-2/h3-6H2,1-2H3, please.", "output": "The molecule elicits a burning taste."}
+{"input": "Tell me the Taste of the molecule CCCCCCCCCCCCCC(=O)OC, please.", "output": "The molecule exhibits a honey and orris-like flavor at trace levels."}
+{"input": "What is the Taste of the molecule called InChI=1S/C4H8N2O7/c7-5(8)12-3-1-11-2-4-13-6(9)10/h1-4H2?", "output": "The molecule imparts a bitter-astringent taste to water at concentrations of 130 mg/L."}
+{"input": "Could you specify the Taste of the compound with the name SPAGIJMPHSUYSE-UHFFFAOYSA-N?", "output": "The molecule lacks any discernible taste."}
+{"input": "Tell me the Taste of the molecule 1,7,7-trimethylbicyclo[2.2.1]heptan-2-ol, please.", "output": "The molecule possesses a burning taste somewhat reminiscent of mint."}
+{"input": "Would you be able to tell me the Taste of the molecule InChI=1S/C10H11ClN2O2/c1-2-15-10(14)9(11)13-12-8-6-4-3-5-7-8/h3-7,12H,2H2,1H3?", "output": "The molecule lacks taste, but develops a leguminous flavor when boiled in water."}
+{"input": "I would like to know the Taste of the molecule referred to as C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12.C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12.O=S(=O)(O)O.", "output": "The molecule has a very bitter taste."}
+{"input": "Tell me the Taste of the molecule 4-O-[(2S,3R,4S,6R)-4-(dimethylamino)-2-[[(3R,4S,5S,6R,7R,9R,11R,12R,13S,14R)-14-ethyl-7,12,13-trihydroxy-4-[(2R,4R,5S,6S)-5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl]oxy-3,5,7,9,11,13-hexamethyl-2,10-dioxo-oxacyclotetradec-6-yl]oxy]-6-methyloxan-3-yl] 1-O-ethyl butanedioate, please.", "output": "The molecule has a practically tasteless flavor."}
+{"input": "Given the molecule named CC(C)=CCCC(C)=CCO, could you provide its Taste?", "output": "The molecule elicits a bitter flavor."}
+{"input": "Would you be able to tell me the Taste of the molecule OCC=Cc1ccccc1?", "output": "The molecule exhibits a bitter taste."}
+{"input": "Given the molecule named InChI=1S/C21H23NO5/c1-11(23)25-16-6-4-13-10-15-14-5-7-17(26-12(2)24)20-21(14,8-9-22(15)3)18(13)19(16)27-20/h4-7,14-15,17,20H,8-10H2,1-3H3/t14-,15+,17-,20-,21-/m0/s1, could you provide its Taste?", "output": "The molecule evokes a bitter taste."}
+{"input": "Could you specify the Taste of the compound with the name CCCCCCCCC=CCCCCCCCC(=O)OCC(COC(=O)CCCCCCCC=CCCCCCCCC)OC(=O)CCCCCCCC=CCCCCCCCC?", "output": "The molecule has no discernible taste."}
+{"input": "Can you share the Taste of the molecule known as InChI=1S/Na.H2O3S/c;1-4(2)3/h;(H2,1,2,3)/q+1;/p-1?", "output": "The molecule has an disagreeable taste."}
+{"input": "For the molecule identified as (1R,3R,5S,8S,13R)-1-hydroxy-14-(2-hydroxypropan-2-yl)-13-methyl-4,7,10-trioxapentacyclo[6.4.1.19,12.03,5.05,13]tetradecane-6,11-dione;(1R,3R,5S,8S,13R,14R)-1-hydroxy-13-methyl-14-prop-1-en-2-yl-4,7,10-trioxapentacyclo[6.4.1.19,12.03,5.05,13]tetradecane-6,11-dione, what is its Taste?", "output": "The molecule elicits a very bitter taste."}
+{"input": "Can you provide the Taste for the substance named OKHHGHGGPDJQHR-YMOPUZKJSA-L?", "output": "The molecule has a slight taste."}
+{"input": "Would you be able to tell me the Taste of the molecule KFBQUDUCBSYVRT-UHFFFAOYSA-N?", "output": "The molecule has a buttery taste."}
+{"input": "Could you specify the Vapor Pressure of the compound with the name O=C(O)c1ccc(O)c(O)c1?", "output": "The molecule has a vapor pressure of 0.0000021 mmHg."}
+{"input": "What is the Vapor Pressure associated with the molecule O=[As](O)(O)O?", "output": "The molecule has a vapor pressure of 1.3 kPa at 15 °C."}
+{"input": "Would you be able to tell me the Vapor Pressure of the molecule InChI=1S/C4H10O2/c1-3(5)4(2)6/h3-6H,1-2H3?", "output": "The molecule has a vapor pressure of 0.24 mmHg."}
+{"input": "What is the value of the Vapor Pressure for the molecule selane?", "output": "The molecule has a vapor pressure of 12 atm at 30.8 °C, 4.5 atm at 0.2 °C, and 1.75 atm at -30 °C."}
+{"input": "Could you specify the Vapor Pressure of the compound with the name JUJWROOIHBZHMG-UHFFFAOYSA-N?", "output": "The molecule has a vapor pressure of 18 mmHg at 68 °F and 20 mmHg at 77 °F (NTP, 1992)."}
+{"input": "What is the value of the Vapor Pressure for the molecule C1CCSC1?", "output": "The molecule has a vapor pressure of 18.4 mmHg."}
+{"input": "Can you provide the Vapor Pressure for the substance named RYYVLZVUVIJVGH-UHFFFAOYSA-N?", "output": "The molecule has a vapor pressure of 0.00000001 mmHg."}
+{"input": "What is the Vapor Pressure of the molecule called InChI=1S/CHCl2F/c2-1(3)4/h1H?", "output": "The molecule has a vapor pressure of 2217.93 mmHg (USCG, 1999)."}
+{"input": "Given the molecule named YGYAWVDWMABLBF-UHFFFAOYSA-N, could you provide its Vapor Pressure?", "output": "The molecule has a vapor pressure of 1215 mmHg at 68 °F according to the EPA, 1998."}
+{"input": "Can you indicate the Vapor Pressure for the molecule AFOSIXZFDONLBT-UHFFFAOYSA-N?", "output": "The molecule has a vapor pressure of 0.78 mmHg."}
+{"input": "Can you provide the Vapor Pressure for the substance named InChI=1S/C4H8O/c1-3-4(2)5/h3H2,1-2H3?", "output": "The molecule has a vapor pressure of 77.5 mmHg at 68 °F and 100 mmHg at 77.0 °F according to NTP, 1992."}
+{"input": "Can you share the Vapor Pressure of the molecule known as InChI=1S/C6H3Cl3/c7-4-2-1-3-5(8)6(4)9/h1-3H?", "output": "The molecule has a vapor pressure of 1 mmHg at 104 °F (NTP, 1992)."}
+{"input": "Can you share the Vapor Pressure of the molecule known as 2,4,6-tris[(dimethylamino)methyl]phenol?", "output": "The molecule has a vapor pressure of 0.00056 mmHg."}
+{"input": "Given the molecule named DEWLEGDTCGBNGU-UHFFFAOYSA-N, could you provide its Vapor Pressure?", "output": "The molecule has a vapor pressure of 1 mmHg at 82.4 °F and 5 mmHg at 126.0 °F."}
+{"input": "For the molecule named InChI=1S/C5H10O2/c6-4-5-2-1-3-7-5/h5-6H,1-4H2, could you provide its Vapor Pressure?", "output": "The molecule has a vapor pressure of 0.8 mmHg."}
+{"input": "I'm interested in knowing the Vapor Pressure of Nc1ccc([As](=O)(O)O)cc1. Could you provide that?", "output": "The molecule has a Vapor Pressure of 1880000000.0 [mmHg]."}
+{"input": "Would you be able to tell me the Vapor Pressure of the molecule InChI=1S/C7H8O3S/c8-11(9,10)6-7-4-2-1-3-5-7/h1-5H,6H2,(H,8,9,10)?", "output": "The molecule has a vapor pressure of 0.0000034 mmHg."}
+{"input": "I'm interested in knowing the Vapor Pressure of HLBZWYXLQJQBKU-UHFFFAOYSA-N. Could you provide that?", "output": "The molecule has a vapor pressure of 0.0000305 mmHg."}
+{"input": "Can you indicate the Vapor Pressure for the molecule JLGLQAWTXXGVEM-UHFFFAOYSA-N?", "output": "The molecule has a vapor pressure of 0.0035 mmHg."}
+{"input": "For the molecule identified as CCCCCCCCCCCCCCCCCCBr, what is its Vapor Pressure?", "output": "The molecule has a vapor pressure of 0.00000594 mmHg."}
+{"input": "Can you share the Vapor Pressure of the molecule known as VRVRGVPWCUEOGV-UHFFFAOYSA-N?", "output": "The molecule has a vapor pressure of 0.02 mmHg."}
+{"input": "For the molecule named COc1cccc(C=O)c1O, could you provide its Vapor Pressure?", "output": "The molecule has a vapor pressure of 0.00103 mmHg."}
+{"input": "Given the molecule named but-2-yne, could you provide its Vapor Pressure?", "output": "The molecule has a vapor pressure of 706.0 mmHg."}
+{"input": "Can you share the Vapor Pressure of the molecule known as C=CC(C)(C)C?", "output": "The molecule has a vapor pressure of 431.0 mmHg."}
+{"input": "What is the value of the Vapor Pressure for the molecule (2-methyl-4-oxo-3-prop-2-enylcyclopent-2-en-1-yl) 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate?", "output": "The molecule is a pale, yellow, oily liquid with a specific gravity of 1.005-1.015 at 20/4 degrees Celsius. Its vapor pressure is 1.2X10-4 mm Hg at 30 °C and it is miscible with most organic solvents at 20-25 °C."}
+{"input": "Please tell me the Vapor Pressure of the compound named 3-methylbutanal.", "output": "The molecule has a vapor pressure of 50.0 [mmHg]."}
+{"input": "Can you share the Vapor Pressure of the molecule known as ethyl N-methyl-N-nitrosocarbamate?", "output": "The molecule exhibits a vapor pressure of 1.18 mmHg."}
+{"input": "I'm interested in knowing the Vapor Pressure of WQOXQRCZOLPYPM-UHFFFAOYSA-N. Could you provide that?", "output": "The molecule has a vapor pressure of 28.6 mmHg at 77 °F."}
+{"input": "For the molecule named InChI=1S/C31H64/c1-3-5-7-9-11-13-15-17-19-21-23-25-27-29-31-30-28-26-24-22-20-18-16-14-12-10-8-6-4-2/h3-31H2,1-2H3, could you provide its Vapor Pressure?", "output": "The molecule has a vapor pressure of 1.40X10-11 mm Hg at 25 °C (Extrapolated)."}
+{"input": "What is the Vapor Pressure of the molecule called CCCCCCCCCCCCCCCCCC(=O)OCC(C)C?", "output": "The molecule has a vapor pressure of 0.0000279 mmHg."}
+{"input": "Tell me the Vapor Pressure of the molecule InChI=1S/C9H18/c1-8(2)9-6-4-3-5-7-9/h8-9H,3-7H2,1-2H3, please.", "output": "The molecule has a vapor pressure of 4.8 mmHg."}
+{"input": "Can you provide the Vapor Pressure for the substance named CCNc1nc(NC(C)C)nc(SC)n1?", "output": "The molecule has a vapor pressure of 0.00000274 mmHg."}
+{"input": "Can you provide the Vapor Pressure for the substance named InChI=1S/FH/h1H?", "output": "The molecule has a Vapor Pressure of 400 mmHg at 36.5 °F (EPA, 1998)."}
+{"input": "What is the Vapor Pressure of the molecule called CCNNCC?", "output": "The molecule has a vapor pressure of 69.3 mmHg."}
+{"input": "Can you provide the Vapor Pressure for the substance named triethyl(methyl)plumbane?", "output": "The molecule exhibits a vapor pressure of 1.31 mmHg."}
+{"input": "I would like to know the Vapor Pressure of the molecule referred to as 2-isothiocyanatoethylbenzene.", "output": "The molecule has a vapor pressure of 0.01 mmHg."}
+{"input": "Can you provide the Vapor Pressure for the substance named InChI=1S/C4H9NO5/c6-1-4(2-7,3-8)5(9)10/h6-8H,1-3H2?", "output": "The molecule has a vapor pressure of 0.00000154 mmHg."}
+{"input": "Would you be able to tell me the Vapor Pressure of the molecule InChI=1S/C9H18N2O2S/c1-9(2,3)7(6-14-5)11-13-8(12)10-4/h6H2,1-5H3,(H,10,12)?", "output": "The molecule exhibits a vapor pressure of 0.00017 mmHg at 77 °F (EPA, 1998)."}
+{"input": "Could you specify the Vapor Pressure of the compound with the name DAFIBNSJXIGBQB-UHFFFAOYSA-N?", "output": "The molecule exhibits a vapor pressure of 1740 mm Hg at 25°C."}
+{"input": "Could you specify the Vapor Pressure of the compound with the name InChI=1S/C7H14/c1-6-4-3-5-7(6)2/h6-7H,3-5H2,1-2H3/t6-,7-/m1/s1?", "output": "The molecule has a vapor pressure of 64.0 mmHg."}
+{"input": "For the molecule identified as CC1CCC(C(C)C)C(=O)C1, what is its Vapor Pressure?", "output": "The molecule exhibits a vapor pressure of 0.27 mmHg."}
+{"input": "What is the value of the Vapor Pressure for the molecule InChI=1S/C9H20N2S/c1-3-5-7-10-9(12)11-8-6-4-2/h3-8H2,1-2H3,(H2,10,11,12)?", "output": "The molecule exhibits a vapor pressure of 0.00238 mmHg."}
+{"input": "What is the Vapor Pressure of the molecule called OEJNXTAZZBRGDN-UHFFFAOYSA-N?", "output": "The molecule exhibits a vapor pressure of 0.4 mmHg at 77 °F (EPA, 1998)."}
+{"input": "For the molecule named ZOLLIQAKMYWTBR-MOLCZBCNSA-N, could you provide its Vapor Pressure?", "output": "The molecule exhibits a vapor pressure of 0.08 mmHg."}
+{"input": "What is the value of the Vapor Pressure for the molecule CCCCCCCCC=CCCCCCCCCCCCC(N)=O?", "output": "The molecule has a vapor pressure of 0.00000001 mmHg."}
+{"input": "For the molecule named InChI=1S/2H3N.H2O3S2/c;;1-5(2,3)4/h2*1H3;(H2,1,2,3,4), could you provide its Vapor Pressure?", "output": "The molecule has a vapor pressure of 0 mmHg (NTP, 1992)."}
+{"input": "Would you be able to tell me the Vapor Pressure of the molecule MXRIRQGCELJRSN-UHFFFAOYSA-N?", "output": "The molecule exhibits a vapor pressure of [insert value] Pa at 20 °C."}
+{"input": "For the molecule named [(R)-cyano-(3-phenoxyphenyl)methyl] 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate, could you provide its Vapor Pressure?", "output": "The molecule has a vapor pressure of 0.00000017 mmHg."}
+{"input": "What is the value of the Vapor Pressure for the molecule InChI=1S/C10H12N4O3/c15-3-6-1-2-7(17-6)14-5-13-8-9(14)11-4-12-10(8)16/h4-7,15H,1-3H2,(H,11,12,16)/t6-,7+/m0/s1?", "output": "The molecule has a vapor pressure of 6.6 mm Hg at 25°C, as estimated."}
+{"input": "Tell me the Vapor Pressure of the molecule CCC(COCC(C)C)(COCC(C)C)COCC(C)N, please.", "output": "The molecule has a vapor pressure of 1.2 [mmHg]."}
+{"input": "For the molecule identified as 1-aminopropan-2-ol, what is its Upper Explosive Limit (UEL)?", "output": "The molecule is characterized by having an Upper Explosive Limit (UEL) of 12% (USCG, 1999)."}
+{"input": "Please tell me the Upper Explosive Limit (UEL) of the compound named azane.", "output": "The molecule is a colorless gas with a faint ethereal odor. Its Upper Explosive Limit (UEL) is 17%."}
+{"input": "Can you provide the Upper Explosive Limit (UEL) for the substance named carbon monoxide?", "output": "The molecule is characterized by an Upper Explosive Limit (UEL) of 75% (USCG, 1999)."}
+{"input": "Can you indicate the Upper Explosive Limit (UEL) for the molecule 2-hydroxypropane-1,2,3-tricarboxylic acid?", "output": "The molecule is characterized by an Upper Explosive Limit (UEL) of 2.29 kg/m3 (dust) (NTP, 1992)."}
+{"input": "Would you be able to tell me the Upper Explosive Limit (UEL) of the molecule ethanol?", "output": "The molecule is capable of forming explosive mixtures in air. The Upper Explosive Limit (UEL) of this molecule is 19%."}
+{"input": "Would you be able to tell me the Upper Explosive Limit (UEL) of the molecule InChI=1S/H2/h1H?", "output": "The molecule is combustible, with an Upper Explosive Limit (UEL) of 75% (USCG, 1999)."}
+{"input": "Can you provide the Upper Explosive Limit (UEL) for the substance named CC(O)CO?", "output": "The molecule is flammable with an Upper Explosive Limit (UEL) of 12.6% (NTP, 1992)."}
+{"input": "Could you specify the Upper Explosive Limit (UEL) of the compound with the name 3,4,5,6,13,13-hexachloro-10-oxapentacyclo[6.3.1.13,6.02,7.09,11]tridec-4-ene?", "output": "The molecule is a 7% commercial product with an Upper Explosive Limit (UEL) as per EPA, 1998."}
+{"input": "Please tell me the Upper Explosive Limit (UEL) of the compound named ethoxyethane.", "output": "The molecule is characterized by an Upper Explosive Limit (UEL) of 36% (NTP, 1992)."}
+{"input": "Given the molecule named InChI=1S/C2H3Cl3/c1-2(3,4)5/h1H3, could you provide its Upper Explosive Limit (UEL)?", "output": "The molecule is capable of forming explosive mixtures with air between 12.5% and higher concentrations by volume."}
+{"input": "For the molecule named OTMSDBZUPAUEDD-UHFFFAOYSA-N, could you provide its Upper Explosive Limit (UEL)?", "output": "The molecule is combustible with a measured Upper Explosive Limit (UEL) of 13% (USCG, 1999)."}
+{"input": "For the molecule identified as C=C, what is its Upper Explosive Limit (UEL)?", "output": "The molecule is characterized by an Upper Explosive Limit (UEL) of 28.6% (USCG, 1999)."}
+{"input": "Please tell me the Upper Explosive Limit (UEL) of the compound named CI.", "output": "The molecule is a gaseous compound with an Upper Explosive Limit (UEL) of 15% (USCG, 1999).\n\nThe molecule is a liquid compound with an Upper Explosive Limit (UEL) of 4.0% (USCG, 1999).\n\nThe molecule is a gaseous compound with an Upper Explosive Limit (UEL) of 2.5% (USCG, 1999).\n\nThe molecule is a liquid compound with an Upper Explosive Limit (UEL) of 15% (USCG, 1999).\n\nThe molecule is a gaseous compound with an Upper Explosive Limit (UEL) of 11% (USCG, 1999)."}
+{"input": "I'm interested in knowing the Upper Explosive Limit (UEL) of BAVYZALUXZFZLV-UHFFFAOYSA-N. Could you provide that?", "output": "The molecule is capable of forming explosive mixtures in air at concentrations above 21% by volume, according to the USCG in 1999."}
+{"input": "Can you provide the Upper Explosive Limit (UEL) for the substance named CC#N?", "output": "The molecule is known to have an Upper Explosive Limit (UEL) of 16% (NTP, 1992)."}
+{"input": "For the molecule named trifluoroborane, could you provide its Upper Explosive Limit (UEL)?", "output": "The molecule is non-flammable with an Upper Explosive Limit (UEL) of [specific value]."}
+{"input": "For the molecule identified as InChI=1S/C2H2Cl2/c1-2(3)4/h1H2, what is its Upper Explosive Limit (UEL)?", "output": "The molecule is combustible and has an Upper Explosive Limit of 16%."}
+{"input": "Can you share the Upper Explosive Limit (UEL) of the molecule known as CC(C)(O)C#N?", "output": "The molecule is characterized by an Upper Explosive Limit (UEL) of 12% (EPA, 1998)."}
+{"input": "Could you specify the Upper Explosive Limit (UEL) of the compound with the name CCOP(=O)(OCC)OCC?", "output": "The molecule is flammable with an Upper Explosive Limit (UEL) of 10%.  \nThe molecule is highly flammable with an Upper Explosive Limit (UEL) of 12%.  \nThe molecule is flammable with an Upper Explosive Limit (UEL) of 14%.  \nThe molecule is highly flammable with an Upper Explosive Limit (UEL) of 7.5%.  \nThe molecule is highly flammable with an Upper Explosive Limit (UEL) of 9.6%."}
+{"input": "Please tell me the Upper Explosive Limit (UEL) of the compound named KDSNLYIMUZNERS-UHFFFAOYSA-N.", "output": "The molecule is capable of forming an explosive mixture with air when its concentration reaches 9% by volume."}
+{"input": "For the molecule named prop-2-enoic acid, could you provide its Upper Explosive Limit (UEL)?", "output": "The molecule is a chemical compound with an Upper Explosive Limit (UEL) of 8.02%."}
+{"input": "Tell me the Upper Explosive Limit (UEL) of the molecule HYBBIBNJHNGZAN-UHFFFAOYSA-N, please.", "output": "The molecule is capable of forming explosive mixtures in air with concentrations exceeding 19.3% by volume."}
+{"input": "Given the molecule named 2-(chloromethyl)oxirane, could you provide its Upper Explosive Limit (UEL)?", "output": "The molecule is combustible with an Upper Explosive Limit of 21% (EPA, 1998)."}
+{"input": "Can you provide the Upper Explosive Limit (UEL) for the substance named IVRIRQXJSNCSPQ-UHFFFAOYSA-N?", "output": "The molecule is flammable; its Upper Explosive Limit (UEL) indicates the maximum concentration in air at which the substance can ignite when exposed to heat, sparks, or flame."}
+{"input": "I'm interested in knowing the Upper Explosive Limit (UEL) of UAEPNZWRGJTJPN-UHFFFAOYSA-N. Could you provide that?", "output": "The molecule is combustible and has an Upper Explosive Limit (UEL) of 6.7% (USCG, 1999)."}
+{"input": "I'm interested in knowing the Upper Explosive Limit (UEL) of cyclohexanone. Could you provide that?", "output": "The molecule is combustible, with an Upper Explosive Limit of 8.1% (NTP, 1992)."}
+{"input": "I'm interested in knowing the Upper Explosive Limit (UEL) of InChI=1S/C5H10/c1-3-5-4-2/h3H,1,4-5H2,2H3. Could you provide that?", "output": "The molecule is capable of forming explosive mixtures in air when its concentration reaches 8.7% by volume. (USCG, 1999)"}
+{"input": "Given the molecule named pentan-1-amine, could you provide its Upper Explosive Limit (UEL)?", "output": "The molecule is capable of forming explosive mixtures in air with a lower limit of 22%."}
+{"input": "For the molecule named InChI=1S/C6H13N/c1-2-4-6-7-5-3-1/h7H,1-6H2, could you provide its Upper Explosive Limit (UEL)?", "output": "The molecule is characterized by an Upper Explosive Limit (UEL) of 2.3% (USCG, 1999)."}
+{"input": "Would you be able to tell me the Upper Explosive Limit (UEL) of the molecule CCCCOCCOC(C)=O?", "output": "The molecule is characterized by an Upper Explosive Limit (UEL) of 8.5% (USCG, 1999)."}
+{"input": "What is the value of the Upper Explosive Limit (UEL) for the molecule YHRUOJUYPBUZOS-UHFFFAOYSA-N?", "output": "The molecule is estimated to have an Upper Explosive Limit of 14.5% (USCG, 1999)."}
+{"input": "Would you be able to tell me the Upper Explosive Limit (UEL) of the molecule OAKJQQAXSVQMHS-UHFFFAOYSA-N?", "output": "The molecule is combustible in air at concentrations of 100%."}
+{"input": "What is the Upper Explosive Limit (UEL) associated with the molecule NYTOUQBROMCLBJ-UHFFFAOYSA-N?", "output": "The molecule is non-combustible. Its Upper Explosive Limit (UEL) is not specified."}
+{"input": "For the molecule identified as C=CCCCCC, what is its Upper Explosive Limit (UEL)?", "output": "The molecule is within the range of flammable concentration limits."}
+{"input": "Can you indicate the Upper Explosive Limit (UEL) for the molecule InChI=1S/C5H10O2/c1-3-4-5(6)7-2/h3-4H2,1-2H3?", "output": "The molecule is described by the Upper Explosive Limit (UEL) of 3.5% (USCG, 1999)."}
+{"input": "What is the Upper Explosive Limit (UEL) associated with the molecule (3-methylphenyl) N-methylcarbamate?", "output": "The molecule is non-flammable with an Upper Explosive Limit (UEL) of [insert UEL value]."}
+{"input": "For the molecule named [As+3].[As+3].[O-2].[O-2].[O-2], could you provide its Upper Explosive Limit (UEL)?", "output": "The molecule is not flammable. Its Upper Explosive Limit (UEL) is not specified."}
+{"input": "For the molecule identified as trichlorosilane, what is its Upper Explosive Limit (UEL)?", "output": "The molecule is characterized by an Upper Explosive Limit (UEL) of 90.5% (USCG, 1999)."}
+{"input": "For the molecule named CCC(C)N, could you provide its Upper Explosive Limit (UEL)?", "output": "The molecule is a colorless gas with a faint, sweet odor. Its Upper Explosive Limit (UEL) is 10% (NTP, 1992).\n\nThe molecule is a colorless gas with a slightly sweet odor. Its Upper Explosive Limit (UEL) is 14% (NTP, 1992).\n\nThe molecule is a colorless gas with a mild, ethereal odor. Its Upper Explosive Limit (UEL) is 15% (NTP, 1992).\n\nThe molecule is a colorless gas with a slightly sweet odor. Its Upper Explosive Limit (UEL) is 15% (NTP, 1992).\n\nThe molecule is a colorless gas with a mild, ethereal odor. Its Upper Explosive Limit (UEL) is 19% (NTP, 1992).\n\nThe molecule is a colorless gas with a faint, sweet odor. Its Upper Explosive Limit (UEL) is 28% (NTP, 1992)."}
+{"input": "I'm interested in knowing the Upper Explosive Limit (UEL) of LCZVSXRMYJUNFX-UHFFFAOYSA-N. Could you provide that?", "output": "The molecule is combustible in air. The Upper Explosive Limit (UEL) is approximately 5% (est.) according to USCG, 1999."}
+{"input": "Can you indicate the Upper Explosive Limit (UEL) for the molecule SNICXCGAKADSCV-JTQLQIEISA-N?", "output": "The molecule is a compound with an Upper Explosive Limit (UEL) of 4%."}
+{"input": "Can you indicate the Upper Explosive Limit (UEL) for the molecule InChI=1S/C10H8Cl8/c1-4-7(2-11,3-12)9(16)6(14)5(13)8(4,15)10(9,17)18/h5-6H,1-3H2?", "output": "The molecule is characterized by an Upper Explosive Limit (UEL) of 6.4% (EPA, 1998)."}
+{"input": "Can you share the Upper Explosive Limit (UEL) of the molecule known as [Be]?", "output": "The molecule is capable of exploding at temperatures up to 2349 °F."}
+{"input": "Please tell me the Upper Explosive Limit (UEL) of the compound named FQDIANVAWVHZIR-UPHRSURJSA-N.", "output": "The molecule is 4% by volume in air."}
+{"input": "What is the value of the Upper Explosive Limit (UEL) for the molecule InChI=1S/C2H3FO2.Na/c3-1-2(4)5;/h1H2,(H,4,5);/q;+1/p-1?", "output": "The molecule is not combustible. The Upper Explosive Limit (UEL) is not available."}
+{"input": "For the molecule identified as [(2S,3R,4S,5R,6R)-2-[(2R,3R,4S,5R,6S)-4,5-dinitrooxy-2-(nitrooxymethyl)-6-[(2R,3R,4S,5R,6S)-4,5,6-trinitrooxy-2-(nitrooxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-3,5-dinitrooxy-6-(nitrooxymethyl)oxan-4-yl] nitrate, what is its Upper Explosive Limit (UEL)?", "output": "The molecule is combustible in air, with an Upper Explosive Limit (UEL) of 36% in ether solution (USCG, 1999)."}
+{"input": "Tell me the Upper Explosive Limit (UEL) of the molecule MOQADKPFYVWPSE-UHFFFAOYSA-N, please.", "output": "The molecule is not flammable. Its Upper Explosive Limit (UEL) is not specified."}
+{"input": "Can you indicate the Upper Explosive Limit (UEL) for the molecule InChI=1S/C12H8Cl6O/c13-8-9(14)11(16)5-3-1-2(6-7(3)19-6)4(5)10(8,15)12(11,17)18/h2-7H,1H2/t2-,3-,4-,5-,6-,7+,10+,11+/m1/s1?", "output": "The molecule is a commercial product with an Upper Explosive Limit (UEL) of 7%, as reported by the EPA in 1998."}
+{"input": "Would you be able to tell me the Upper Explosive Limit (UEL) of the molecule InChI=1S/C11H20O2.C10H18O2.Cu/c1-2-9-3-5-10(6-4-9)7-8-11(12)13;1-2-8-3-4-9(7-8)5-6-10(11)12;/h9-10H,2-8H2,1H3,(H,12,13);8-9H,2-7H2,1H3,(H,11,12);/q;;+2/p-2?", "output": "The molecule is mineral spirits with an Upper Explosive Limit (UEL) of 5% (USCG, 1999)."}
+{"input": "What is the Upper Explosive Limit (UEL) of the molecule called CGBXKBGTBZNSNO-UHFFFAOYSA-N?", "output": "The molecule is combustible in air and can form explosive mixtures. The Upper Explosive Limit (UEL) of this molecule is 8% (USCG, 1999)."}
+{"input": "What is the Viscosity of the molecule called ZTQSAGDEMFDKMZ-UHFFFAOYSA-N?", "output": "The molecule has a viscosity of 0.45 cP at 20 °C."}
+{"input": "What is the Viscosity associated with the molecule methane?", "output": "The molecule exhibits a viscosity of 34.8 uP at -181.6 °C, 76.0 uP at -78.5 °C, 102.6 uP at 0 °C, 108.7 uP at 20 °C, 133.1 uP at 100.0 °C, 160.5 uP at 200.5 °C, 181.3 uP at 284 °C, 202.6 uP at 380 °C, and 226.4 uP at 499 °C."}
+{"input": "For the molecule named InChI=1S/C2H7N/c1-3-2/h3H,1-2H3, could you provide its Viscosity?", "output": "The molecule exhibits a viscosity of 1.7 mPa.s at 15.5°C in a 40% aqueous dimethylamine solution."}
+{"input": "Can you share the Viscosity of the molecule known as CS(C)=O?", "output": "The molecule exhibits a viscosity of 2.47 cP at 20 °C."}
+{"input": "For the molecule identified as GRYLNZFGIOXLOG-UHFFFAOYSA-N, what is its Viscosity?", "output": "The molecule exhibits a viscosity of 1.092 mPa.s at 0 °C, 0.746 mPa.s at 25 °C, and 0.617 mPa.s at 40 °C."}
+{"input": "For the molecule identified as [N-]=[N+]=O, what is its Viscosity?", "output": "The molecule exhibits a viscosity of 0.0145 cP at 25 °C at 101.325 KPa in its gaseous state."}
+{"input": "Could you specify the Viscosity of the compound with the name InChI=1S/C8H18O/c1-2-3-4-5-6-7-8-9/h9H,2-8H2,1H3?", "output": "The molecule has a viscosity of 7.288 mPa.s at 25 °C."}
+{"input": "What is the value of the Viscosity for the molecule CCCCCCCCCCCCCCCCO?", "output": "The molecule has a viscosity of 53 mPa-s (cP) at 75 °C."}
+{"input": "Please tell me the Viscosity of the compound named InChI=1S/C18H36O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h2-17H2,1H3,(H,19,20).", "output": "The molecule exhibits a viscosity of 9.87 mPa.sec (cP) at 70 °C."}
+{"input": "Tell me the Viscosity of the molecule NCCNCCNCCN, please.", "output": "The molecule exhibits a viscosity of 27.24 mm²/s at 20 °C."}
+{"input": "I'm interested in knowing the Viscosity of 5-[2-(2-butoxyethoxy)ethoxymethyl]-6-propyl-1,3-benzodioxole. Could you provide that?", "output": "The molecule exhibits a viscosity of 40 cP at 25 °C."}
+{"input": "What is the Viscosity of the molecule called WRMNZCZEMHIOCP-UHFFFAOYSA-N?", "output": "The molecule has a viscosity of 7.58 centapoise at 25 °C and 3.19 centipoise at 50 °C."}
+{"input": "For the molecule named CN(C)N=O, could you provide its Viscosity?", "output": "The molecule exhibits low viscosity."}
+{"input": "Would you be able to tell me the Viscosity of the molecule InChI=1S/CH3Br/c1-2/h1H3?", "output": "The molecule exhibits a viscosity of 0.397 cP at 0°C."}
+{"input": "Could you specify the Viscosity of the compound with the name oxirane?", "output": "The molecule has a viscosity of 9.45x10^-3 mPa.s at 25°C in its gas state and 0.254 mPa.s at 10°C in its liquid state."}
+{"input": "Would you be able to tell me the Viscosity of the molecule 1,1-difluoroethene?", "output": "The molecule exhibits a viscosity of 7.7574 pascal-seconds in its liquid state at its boiling point."}
+{"input": "Can you provide the Viscosity for the substance named InChI=1S/C7H6O2/c8-5-6-3-1-2-4-7(6)9/h1-5,9H?", "output": "The molecule exhibits a dynamic viscosity of 2.50x10^-3 Pa.s at 25°C."}
+{"input": "What is the value of the Viscosity for the molecule InChI=1S/C6H14/c1-4-6(3)5-2/h6H,4-5H2,1-3H3?", "output": "The molecule exhibits a viscosity of 0.3031 cP at 19.986 °C and 0.307 cP at 25 °C."}
+{"input": "I'm interested in knowing the Viscosity of InChI=1S/C3H5Cl3/c4-1-3(6)2-5/h3H,1-2H2. Could you provide that?", "output": "The molecule exhibits a viscosity of 2.5X10-4 Pa.s at 20 °C."}
+{"input": "For the molecule identified as InChI=1S/C5H4O2/c6-4-5-2-1-3-7-5/h1-4H, what is its Viscosity?", "output": "The molecule exhibits a viscosity of 1.587 mPa-s at 25 °C."}
+{"input": "Tell me the Viscosity of the molecule GSEJCLTVZPLZKY-UHFFFAOYSA-N, please.", "output": "The molecule exhibits a viscosity of 590.5 cP at 25°C and 65.7 cP at 60°C."}
+{"input": "Could you specify the Viscosity of the compound with the name CCCC(=O)OCC?", "output": "The molecule has a viscosity of 0.639 mPa.s at 25 °C."}
+{"input": "Can you share the Viscosity of the molecule known as azepan-2-one?", "output": "The molecule exhibits a viscosity of 9 cP at 78 °C."}
+{"input": "For the molecule identified as InChI=1S/C5H10O/c1-3-4-5(2)6/h3-4H2,1-2H3, what is its Viscosity?", "output": "The molecule has a viscosity of 0.473 cp at 25 °C."}
+{"input": "I'm interested in knowing the Viscosity of 2-(2-hydroxyethylamino)ethanol. Could you provide that?", "output": "The molecule exhibits a viscosity of 351.9 cP at 30°C and 53.85 cP at 60°C."}
+{"input": "I'm interested in knowing the Viscosity of POAOYUHQDCAZBD-UHFFFAOYSA-N. Could you provide that?", "output": "The molecule exhibits a viscosity of 3.15 centistokes at 25°C."}
+{"input": "What is the Viscosity associated with the molecule XXJWXESWEXIICW-UHFFFAOYSA-N?", "output": "The molecule exhibits a viscosity of 3.85 mPa.s (=cPs) at 25°C."}
+{"input": "What is the Viscosity of the molecule called 2-[2-(2-methoxyethoxy)ethoxy]ethanol?", "output": "The molecule exhibits a viscosity of 7 centistokes at 25 °C."}
+{"input": "Can you share the Viscosity of the molecule known as 4-methylpent-3-en-2-one?", "output": "The molecule has a viscosity of 0.0060 cP at 20 °C."}
+{"input": "Would you be able to tell me the Viscosity of the molecule FWZUNOYOVVKUNF-UHFFFAOYSA-N?", "output": "The molecule exhibits a viscosity of 0.52 cP at 20 °C."}
+{"input": "I would like to know the Viscosity of the molecule referred to as hept-1-ene.", "output": "The molecule has a viscosity of 0.5 sq mm/s."}
+{"input": "What is the Viscosity of the molecule called C=CBr?", "output": "The molecule exhibits a viscosity of 0.2393 cSt."}
+{"input": "Can you share the Viscosity of the molecule known as InChI=1S/C5H9NO/c7-5-3-1-2-4-6-5/h1-4H2,(H,6,7)?", "output": "The molecule exhibits a viscosity of 6000 Mpa.s at 1900 °C with 50% CaC2, and 1700 Mpa.s at 1900 °C with 87% CaC2."}
+{"input": "For the molecule identified as C=CC(Cl)CCl, what is its Viscosity?", "output": "The molecule has a viscosity of 0.0050666 pascal-sec."}
+{"input": "Given the molecule named InChI=1S/F6S/c1-7(2,3,4,5)6, could you provide its Viscosity?", "output": "The molecule has a viscosity of 150.29 micropoise at 25 °C as a gas and 0.277 centipoise at 25 °C as a liquid."}
+{"input": "Can you provide the Viscosity for the substance named 2-hydroxyethyl carbamate?", "output": "The molecule exhibits a viscosity of 73.0 cps at 100 °F and 16.0 cps at 150 °F."}
+{"input": "Can you provide the Viscosity for the substance named CCCCC(CC)COC(=O)c1ccc(C(=O)OCC(CC)CCCC)cc1?", "output": "The molecule has a viscosity of 63 cp at 25 °C."}
+{"input": "Would you be able to tell me the Viscosity of the molecule ClCl?", "output": "The molecule has a viscosity of 0.134 mPa.sec at 20 °C when it is in the gas state, and 0.346 mPa.sec at 20 °C when it is in the liquid state."}
+{"input": "Would you be able to tell me the Viscosity of the molecule InChI=1S/C8H24O2Si3/c1-11(2,3)9-13(7,8)10-12(4,5)6/h1-8H3?", "output": "The molecule exhibits a viscosity of 10 cu mm/s at 25°C."}
+{"input": "For the molecule identified as InChI=1S/Cl3HSi/c1-4(2)3/h4H, what is its Viscosity?", "output": "The molecule has a viscosity of 0.397 centipoise at 0 °C, 0.332 centipoise at 20 °C, and 0.316 centipoise at 25 °C."}
+{"input": "Tell me the Viscosity of the molecule 3-methylbutyl acetate, please.", "output": "The molecule has a viscosity of 1.030 cP at 8.97 °C and 0.872 cP at 19.91 °C."}
+{"input": "What is the value of the Viscosity for the molecule InChI=1S/C4H5N/c1-4(2)3-5/h1H2,2H3?", "output": "The molecule exhibits a viscosity of 0.392 cP at 20 °C."}
+{"input": "For the molecule identified as bis(6-methylheptyl) benzene-1,2-dicarboxylate, what is its Viscosity?", "output": "The molecule exhibits a viscosity of 83 cP at 20°C."}
+{"input": "Could you specify the Viscosity of the compound with the name N#CN=C([S-])[S-].[Na+].[Na+]?", "output": "The molecule has a viscosity of 4.179 cSt."}
+{"input": "Would you be able to tell me the Viscosity of the molecule tris(2-nonylphenyl) phosphite?", "output": "The molecule exhibits a viscosity of 6000 mPa.s (dynamic) at 25 °C, as determined by OECD Test Guideline 114 (Viscosity of Liquids)."}
+{"input": "Given the molecule named CCOCC(C)OC(C)=O, could you provide its Viscosity?", "output": "The molecule has a viscosity of 1.28-1.41 mm²/s at 20 °C."}
+{"input": "Given the molecule named 2-methoxy-4-[(E)-prop-1-enyl]phenol, could you provide its Viscosity?", "output": "The molecule has a viscosity of 7.476 centipoise at 20 °C."}
+{"input": "For the molecule named GYHNNYVSQQEPJS-UHFFFAOYSA-N, could you provide its Viscosity?", "output": "The molecule has a viscosity of 1.819 cP at 32 °C (dynamic)."}
+{"input": "Would you be able to tell me the Viscosity of the molecule InChI=1S/C32H60O10/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-30(36)40-25-24-37-26-28(38-21-18-33)32-31(41-23-20-35)29(27-42-32)39-22-19-34/h9-10,28-29,31-35H,2-8,11-27H2,1H3/b10-9-?", "output": "The molecule exhibits a viscosity of 300-500 cSt at 25 °C."}
+{"input": "Tell me the Viscosity of the molecule [(1S,4aR,10aS)-1,4a-dimethyl-7-propan-2-yl-2,3,4,9,10,10a-hexahydrophenanthren-1-yl]methanamine, please.", "output": "The molecule has a viscosity of 1.36X10-2 Pa.s at 317.65 K."}
+{"input": "Would you be able to tell me the Autoignition Temperature of the molecule WLJVXDMOQOGPHL-UHFFFAOYSA-N?", "output": "The molecule has an autoignition temperature of 1009.4 °F"}
+{"input": "For the molecule identified as InChI=1S/C14H12O2/c15-14(13-9-5-2-6-10-13)16-11-12-7-3-1-4-8-12/h1-10H,11H2, what is its Autoignition Temperature?", "output": "The molecule has an autoignition temperature of 896 °F"}
+{"input": "Could you specify the Autoignition Temperature of the compound with the name SNIOPGDIGTZGOP-UHFFFAOYSA-N?", "output": "The molecule has an autoignition temperature of 518 °F"}
+{"input": "For the molecule named octadecanoic acid, could you provide its Autoignition Temperature?", "output": "The molecule has an autoignition temperature of 743 °F"}
+{"input": "What is the value of the Autoignition Temperature for the molecule InChI=1S/CH2Cl2/c2-1-3/h1H2?", "output": "The molecule has an autoignition temperature of 1184 °F"}
+{"input": "What is the value of the Autoignition Temperature for the molecule C1CO1?", "output": "The molecule has an autoignition temperature of 804 °F"}
+{"input": "What is the value of the Autoignition Temperature for the molecule InChI=1S/C21H21O4P/c1-16-10-4-7-13-19(16)23-26(22,24-20-14-8-5-11-17(20)2)25-21-15-9-6-12-18(21)3/h4-15H,1-3H3?", "output": "The molecule has an autoignition temperature of 725 °F"}
+{"input": "Can you provide the Autoignition Temperature for the substance named C=CC(=O)O?", "output": "The molecule has an autoignition temperature of 820 °F"}
+{"input": "I'm interested in knowing the Autoignition Temperature of InChI=1S/C9H12O2/c1-9(2,11-10)8-6-4-3-5-7-8/h3-7,10H,1-2H3. Could you provide that?", "output": "The molecule has an autoignition temperature of 300 °F"}
+{"input": "I'm interested in knowing the Autoignition Temperature of Oc1cccc2ccccc12. Could you provide that?", "output": "The molecule has an autoignition temperature of 10076 °F"}
+{"input": "Can you share the Autoignition Temperature of the molecule known as InChI=1S/C3H5Cl3/c4-1-3(6)2-5/h3H,1-2H2?", "output": "The molecule has an autoignition temperature of 579 °F"}
+{"input": "For the molecule identified as CNC(=O)NC, what is its Autoignition Temperature?", "output": "The molecule has an autoignition temperature of 752 °F"}
+{"input": "Could you specify the Autoignition Temperature of the compound with the name XEMRAKSQROQPBR-UHFFFAOYSA-N?", "output": "The molecule has an autoignition temperature of 412 °F"}
+{"input": "For the molecule identified as 1-methyl-3-nitrobenzene, what is its Autoignition Temperature?", "output": "The molecule has an autoignition temperature of 824 °F"}
+{"input": "For the molecule identified as 4-nitroaniline, what is its Autoignition Temperature?", "output": "The molecule has an autoignition temperature of 356 °F"}
+{"input": "What is the value of the Autoignition Temperature for the molecule benzonitrile?", "output": "The molecule has an autoignition temperature of 1022 °F"}
+{"input": "For the molecule named CCCCN(CCO)CCCC, could you provide its Autoignition Temperature?", "output": "The molecule has an autoignition temperature of 329 °F"}
+{"input": "What is the value of the Autoignition Temperature for the molecule DHKHKXVYLBGOIT-UHFFFAOYSA-N?", "output": "The molecule has an autoignition temperature of 446 °F"}
+{"input": "Given the molecule named OIFBSDVPJOWBCH-UHFFFAOYSA-N, could you provide its Autoignition Temperature?", "output": "The molecule has an autoignition temperature of 833 °F"}
+{"input": "Could you specify the Autoignition Temperature of the compound with the name methyl formate?", "output": "The molecule has an autoignition temperature of 853 °F"}
+{"input": "What is the Autoignition Temperature of the molecule called 1,3,5-trimethylbenzene?", "output": "The molecule has an autoignition temperature of 1039 °F"}
+{"input": "Can you share the Autoignition Temperature of the molecule known as morpholine?", "output": "The molecule has an autoignition temperature of 590 °F"}
+{"input": "Would you be able to tell me the Autoignition Temperature of the molecule InChI=1S/C4H11NO2/c6-3-1-5-2-4-7/h5-7H,1-4H2?", "output": "The molecule has an autoignition temperature of 1224 °F"}
+{"input": "What is the Autoignition Temperature associated with the molecule InChI=1S/C7H16O/c1-2-3-4-5-6-7-8/h8H,2-7H2,1H3?", "output": "The molecule has an autoignition temperature of 527 °F"}
+{"input": "Would you be able to tell me the Autoignition Temperature of the molecule CCCCCCCCS?", "output": "The molecule has an autoignition temperature of 464 °F"}
+{"input": "Can you provide the Autoignition Temperature for the substance named CCCCCCOCCCCCC?", "output": "The molecule has an autoignition temperature of 458.15 °F"}
+{"input": "Can you provide the Autoignition Temperature for the substance named COC(=O)c1ccc(C(=O)OC)cc1?", "output": "The molecule has an autoignition temperature of 1058 °F"}
+{"input": "I'm interested in knowing the Autoignition Temperature of FUZZWVXGSFPDMH-UHFFFAOYSA-N. Could you provide that?", "output": "The molecule has an autoignition temperature of 716 °F"}
+{"input": "For the molecule named 2,6,6-trimethylbicyclo[3.1.1]heptane, could you provide its Autoignition Temperature?", "output": "The molecule has an autoignition temperature of 523 °F"}
+{"input": "For the molecule named InChI=1S/C8H10O/c1-6-4-3-5-8(9)7(6)2/h3-5,9H,1-2H3, could you provide its Autoignition Temperature?", "output": "The molecule has an autoignition temperature of 1110.2 °F"}
+{"input": "What is the Autoignition Temperature of the molecule called 2-methylpropyl formate?", "output": "The molecule has an autoignition temperature of 593.15 °F"}
+{"input": "Tell me the Autoignition Temperature of the molecule InChI=1S/C4H8O2/c1-3-4(5)6-2/h3H2,1-2H3, please.", "output": "The molecule has an autoignition temperature of 873 °F"}
+{"input": "Can you share the Autoignition Temperature of the molecule known as C=C(C)C(C)C?", "output": "The molecule has an autoignition temperature of 633.15 °F"}
+{"input": "Could you specify the Autoignition Temperature of the compound with the name 2-methylcyclohexan-1-ol?", "output": "The molecule has an autoignition temperature of 565 °F"}
+{"input": "Please tell me the Autoignition Temperature of the compound named CCCCC(C)=O.", "output": "The molecule has an autoignition temperature of 795 °F"}
+{"input": "Tell me the Autoignition Temperature of the molecule InChI=1S/C15H32/c1-3-5-7-9-11-13-15-14-12-10-8-6-4-2/h3-15H2,1-2H3, please.", "output": "The molecule has an autoignition temperature of 395.6 °F"}
+{"input": "Given the molecule named 1-ethylnaphthalene, could you provide its Autoignition Temperature?", "output": "The molecule has an autoignition temperature of 754 °F"}
+{"input": "What is the value of the Autoignition Temperature for the molecule InChI=1S/C4H8OS/c1-6-4-2-3-5/h3H,2,4H2,1H3?", "output": "The molecule has an autoignition temperature of 491 °F"}
+{"input": "Can you share the Autoignition Temperature of the molecule known as UMKANAFDOQQUKE-UHFFFAOYSA-N?", "output": "The molecule has an autoignition temperature of 435 °F"}
+{"input": "I would like to know the Autoignition Temperature of the molecule referred to as KZUNJOHGWZRPMI-UHFFFAOYSA-N.", "output": "The molecule has an autoignition temperature of 302 °F"}
+{"input": "Given the molecule named azanium;perchlorate, could you provide its Autoignition Temperature?", "output": "The molecule has an autoignition temperature of 464 °F"}
+{"input": "For the molecule identified as FQYUMYWMJTYZTK-UHFFFAOYSA-N, what is its Autoignition Temperature?", "output": "The molecule has an autoignition temperature of 806 °F"}
+{"input": "I'm interested in knowing the Autoignition Temperature of CC1OC(C)OC(C)O1. Could you provide that?", "output": "The molecule has an autoignition temperature of 460 °F"}
+{"input": "Can you indicate the Autoignition Temperature for the molecule InChI=1S/C6H10/c1-3-5-6-4-2/h3,5-6H,1,4H2,2H3/b6-5+?", "output": "The molecule has an autoignition temperature of 593 °F"}
+{"input": "Would you be able to tell me the Autoignition Temperature of the molecule CN1CCCC1c1cccnc1?", "output": "The molecule has an autoignition temperature of 471 °F"}
+{"input": "I would like to know the Autoignition Temperature of the molecule referred to as JBDHZKLJNAIJNC-LLVKDONJSA-N.", "output": "The molecule has an autoignition temperature of 950 °F"}
+{"input": "Please tell me the Autoignition Temperature of the compound named CC(C)CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC(C)C.", "output": "The molecule has an autoignition temperature of 716 °F"}
+{"input": "Can you share the Autoignition Temperature of the molecule known as FC(F)CCl?", "output": "The molecule has an autoignition temperature of 1169.6 °F"}
+{"input": "Can you indicate the Autoignition Temperature for the molecule C[CH]Cl?", "output": "The molecule has an autoignition temperature of 966.2 °F"}
+{"input": "Can you provide the Autoignition Temperature for the substance named [(2S,3R,4S,5R,6R)-2-[(2R,3R,4S,5R,6S)-4,5-dinitrooxy-2-(nitrooxymethyl)-6-[(2R,3R,4S,5R,6S)-4,5,6-trinitrooxy-2-(nitrooxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-3,5-dinitrooxy-6-(nitrooxymethyl)oxan-4-yl] nitrate?", "output": "The molecule has an autoignition temperature of 356 °F"}
+{"input": "Can you share the PKa of the molecule known as InChI=1S/C7H8O/c8-6-7-4-2-1-3-5-7/h1-5,8H,6H2?", "output": "The molecule has a PKa of 15.44."}
+{"input": "For the molecule named ZNEWHQLOPFWXOF-UHFFFAOYSA-N, could you provide its PKa?", "output": "The molecule has a PKa of 9.2."}
+{"input": "Would you be able to tell me the PKa of the molecule DFPAKSUCGFBDDF-UHFFFAOYSA-N?", "output": "The molecule has a PKa of 3.32."}
+{"input": "I would like to know the PKa of the molecule referred to as 4-methylpyridin-2-amine.", "output": "The molecule has a PKa of 7.48."}
+{"input": "What is the PKa of the molecule called 3,4-dichlorophenol?", "output": "The molecule has a PKa of 8.63."}
+{"input": "Please tell me the PKa of the compound named benzenethiol.", "output": "The molecule has a PKa of 6.62."}
+{"input": "Tell me the PKa of the molecule O=C(O)c1cc(I)cc(I)c1O, please.", "output": "The molecule has a PKa of 2.3."}
+{"input": "Could you specify the PKa of the compound with the name HRXZRAXKKNUKRF-UHFFFAOYSA-N?", "output": "The molecule has a PKa of 5.0."}
+{"input": "What is the value of the PKa for the molecule InChI=1S/C13H10O2/c14-12-8-6-11(7-9-12)13(15)10-4-2-1-3-5-10/h1-9,14H?", "output": "The molecule has a PKa of 7.95."}
+{"input": "Could you specify the PKa of the compound with the name ethyl 3-hydroxybenzoate?", "output": "The molecule has a PKa of 9.05."}
+{"input": "I'm interested in knowing the PKa of CCCCOc1ccc(O)cc1. Could you provide that?", "output": "The molecule has a PKa of 10.23."}
+{"input": "Could you specify the PKa of the compound with the name InChI=1S/C6H5FN2O2/c7-5-2-1-4(8)3-6(5)9(10)11/h1-3H,8H2?", "output": "The molecule has a PKa of 2.44."}
+{"input": "Can you share the PKa of the molecule known as InChI=1S/C14H11NO3/c16-13(15-10-6-2-1-3-7-10)11-8-4-5-9-12(11)14(17)18/h1-9H,(H,15,16)(H,17,18)?", "output": "The molecule has a PKa of 2.5."}
+{"input": "What is the PKa of the molecule called InChI=1S/C10H14O/c1-8(2)7-9-3-5-10(11)6-4-9/h3-6,8,11H,7H2,1-2H3?", "output": "The molecule has a PKa of 10.2."}
+{"input": "What is the value of the PKa for the molecule SVWWNEYBEFASMP-UHFFFAOYSA-N?", "output": "The molecule has a PKa of 5.21."}
+{"input": "Given the molecule named KOIPGHKKJDOUNZ-UHFFFAOYSA-N, could you provide its PKa?", "output": "The molecule has a PKa of 9.6."}
+{"input": "For the molecule named Cc1nc2ccccc2n1C, could you provide its PKa?", "output": "The molecule has a PKa of 6.55."}
+{"input": "Tell me the PKa of the molecule (Z)-but-2-enedioic acid, please.", "output": "The molecule has a PKa of 2.0."}
+{"input": "Would you be able to tell me the PKa of the molecule 8-iodonaphthalen-2-ol?", "output": "The molecule has a PKa of 8.98."}
+{"input": "What is the PKa of the molecule called 3-[(2R)-piperidin-2-yl]pyridine?", "output": "The molecule has a PKa of 11.0."}
+{"input": "Given the molecule named 1-cyclopropyl-6-fluoro-8-methoxy-7-[(3R)-3-methylpiperazin-1-yl]-4-oxoquinoline-3-carboxylic acid, could you provide its PKa?", "output": "The molecule has a PKa of 6.05."}
+{"input": "For the molecule identified as 2-sulfanylidene-1H-pyrimidin-4-one, what is its PKa?", "output": "The molecule has a PKa of 7.75."}
+{"input": "Please tell me the PKa of the compound named SAMVPMGKGGLIPF-SSDOTTSWSA-N.", "output": "The molecule has a PKa of 3.24."}
+{"input": "Can you provide the PKa for the substance named InChI=1S/C12H13N3O3/c1-2-18-12(17)10-11(16)15(14-13-10)8-9-6-4-3-5-7-9/h3-7,14H,2,8H2,1H3?", "output": "The molecule has a PKa of 6.22."}
+{"input": "What is the PKa of the molecule called PVWLUJVDFVUTGR-UHFFFAOYSA-N?", "output": "The molecule has a PKa of 10.24."}
+{"input": "Can you provide the PKa for the substance named 2-ethoxy-1H-pyrimidin-6-one?", "output": "The molecule has a PKa of 8.2."}
+{"input": "I'm interested in knowing the PKa of COC(=O)C1=CCC[NH+](C)C1. Could you provide that?", "output": "The molecule has a PKa of 7.675."}
+{"input": "Tell me the PKa of the molecule InChI=1S/C10H23N/c1-2-3-4-5-6-7-8-9-10-11/h2-11H2,1H3/p+1, please.", "output": "The molecule has a PKa of 10.64."}
+{"input": "Could you specify the PKa of the compound with the name CC(CN1c2ccccc2CCc2ccccc21)C[NH+](C)C?", "output": "The molecule has a PKa of 8.72."}
+{"input": "Given the molecule named KJADKKWYZYXHBB-XBWDGYHZSA-N, could you provide its PKa?", "output": "The molecule has a PKa of 8.7."}
+{"input": "What is the value of the PKa for the molecule InChI=1S/C8H7ClO2/c1-5-4-6(9)2-3-7(5)8(10)11/h2-4H,1H3,(H,10,11)/p-1?", "output": "The molecule has a PKa of 3.75."}
+{"input": "Given the molecule named SSNYHSYWZXMKQW-UHFFFAOYSA-N, could you provide its PKa?", "output": "The molecule has a PKa of 6.1."}
+{"input": "Can you share the PKa of the molecule known as [(1R,2S,4R,5S)-9-methyl-3-oxa-9-azoniatricyclo[3.3.1.02,4]nonan-7-yl] (2S)-3-hydroxy-2-phenylpropanoate?", "output": "The molecule has a PKa of 7.55."}
+{"input": "Can you provide the PKa for the substance named 3-iodonaphthalen-1-amine?", "output": "The molecule has a PKa of 2.82."}
+{"input": "Would you be able to tell me the PKa of the molecule 5,6,7,8-tetrahydrobenzo[f][1,10]phenanthroline?", "output": "The molecule has a PKa of 5.3."}
+{"input": "Can you share the PKa of the molecule known as InChI=1S/C10H13NO2/c1-9(12)11(13)8-7-10-5-3-2-4-6-10/h2-6,13H,7-8H2,1H3?", "output": "The molecule has a PKa of 8.83."}
+{"input": "What is the value of the PKa for the molecule Cc1ccc2ccn3ccnc3c2n1?", "output": "The molecule has a PKa of 4.23."}
+{"input": "What is the PKa associated with the molecule MRWOIHZAYHSOIU-UHFFFAOYSA-N?", "output": "The molecule has a PKa of 4.2."}
+{"input": "For the molecule named LENVRVUQOXYSDH-LURJTMIESA-N, could you provide its PKa?", "output": "The molecule has a PKa of 5.301."}
+{"input": "What is the PKa of the molecule called ZFPHKXNPMLFGIA-RYKRAMJASA-N?", "output": "The molecule has a PKa of 7.9."}
+{"input": "I would like to know the PKa of the molecule referred to as InChI=1S/C15H25NO3/c1-12(2)16-10-14(17)11-19-15-6-4-13(5-7-15)8-9-18-3/h4-7,12,14,16-17H,8-11H2,1-3H3/p+1.", "output": "The molecule has a PKa of 9.536."}
+{"input": "What is the value of the PKa for the molecule InChI=1S/C15H12OS/c1-17-15(16)14-12-8-4-2-6-10(12)11-7-3-5-9-13(11)14/h2-9,14H,1H3?", "output": "The molecule has a PKa of 10.51."}
+{"input": "Tell me the PKa of the molecule InChI=1S/C14H13ClN2O4S/c1-21-12-8-7-10(15)9-13(12)22(19,20)17-14(18)16-11-5-3-2-4-6-11/h2-9H,1H3,(H2,16,17,18), please.", "output": "The molecule has a PKa of 4.5."}
+{"input": "What is the value of the PKa for the molecule [O-]Nc1ccc(Cl)cc1?", "output": "The molecule has a PKa of 2.58."}
+{"input": "Can you indicate the flash point for the molecule InChI=1S/C3H6O/c1-3(2)4/h1-2H3?", "output": "The molecule has a flash point of 255.15K."}
+{"input": "Please tell me the flash point of the compound named XCSGPAVHZFQHGE-UHFFFAOYSA-N.", "output": "The molecule has a flash point of 410.15K."}
+{"input": "For the molecule identified as 6-(3-methyl-5-nitroimidazol-4-yl)sulfanyl-7H-purine, what is its flash point?", "output": "The molecule has a flash point of 641.65K."}
+{"input": "Given the molecule named COC(=O)c1ccccc1O, could you provide its flash point?", "output": "The molecule has a flash point of 374.15K."}
+{"input": "I'm interested in knowing the flash point of Cc1c2ccccc2c(C)c2c1ccc1ccccc12. Could you provide that?", "output": "The molecule has a flash point of 359.15K."}
+{"input": "For the molecule identified as CCC(C)(C)O, what is its flash point?", "output": "The molecule has a flash point of 292.15K."}
+{"input": "I would like to know the flash point of the molecule referred to as 2-benzofuran-1,3-dione.", "output": "The molecule has a flash point of 424.15K."}
+{"input": "I would like to know the flash point of the molecule referred to as InChI=1S/C8H9NO2/c1-6-3-4-7(2)8(5-6)9(10)11/h3-5H,1-2H3.", "output": "The molecule has a flash point of 373.15K."}
+{"input": "Can you share the flash point of the molecule known as COc1ccc(OC)c(N)c1?", "output": "The molecule has a flash point of 403.252K."}
+{"input": "Tell me the flash point of the molecule methyl heptanoate, please.", "output": "The molecule has a flash point of 325.0K."}
+{"input": "Please tell me the flash point of the compound named InChI=1S/C6H14O/c1-5(2)7-6(3)4/h5-6H,1-4H3.", "output": "The molecule has a flash point of 245.15K."}
+{"input": "I would like to know the flash point of the molecule referred to as pentanoic acid.", "output": "The molecule has a flash point of 358.0K."}
+{"input": "Can you provide the flash point for the substance named CATSNJVOTSVZJV-UHFFFAOYSA-N?", "output": "The molecule has a flash point of 312.1K."}
+{"input": "Please tell me the flash point of the compound named OWFXIOWLTKNBAP-UHFFFAOYSA-N.", "output": "The molecule has a flash point of 283.15K."}
+{"input": "For the molecule named CXWXQJXEFPUFDZ-UHFFFAOYSA-N, could you provide its flash point?", "output": "The molecule has a flash point of 344.15K."}
+{"input": "For the molecule identified as InChI=1S/C12H11N3/c1-3-7-11(8-4-1)13-15-14-12-9-5-2-6-10-12/h1-10H,(H,13,14), what is its flash point?", "output": "The molecule has a flash point of 411.35K."}
+{"input": "Would you be able to tell me the flash point of the molecule N-propylpropan-1-amine?", "output": "The molecule has a flash point of 290.15K."}
+{"input": "Please tell me the flash point of the compound named 2-fluorobenzoyl chloride.", "output": "The molecule has a flash point of 355.15K."}
+{"input": "I'm interested in knowing the flash point of InChI=1S/C8H10O2/c1-5-3-7(9)4-8(10)6(5)2/h3-4,9-10H,1-2H3. Could you provide that?", "output": "The molecule has a flash point of 405.65K."}
+{"input": "I'm interested in knowing the flash point of BrC(Br)(Br)Br. Could you provide that?", "output": "The molecule has a flash point of 338.563K."}
+{"input": "What is the flash point of the molecule called LFSAPCRASZRSKS-UHFFFAOYSA-N?", "output": "The molecule has a flash point of 321.15K."}
+{"input": "Given the molecule named nonacosane, could you provide its flash point?", "output": "The molecule has a flash point of 475.0K."}
+{"input": "Could you specify the flash point of the compound with the name InChI=1S/C6H4INO2/c7-5-1-3-6(4-2-5)8(9)10/h1-4H?", "output": "The molecule has a flash point of 373.15K."}
+{"input": "For the molecule identified as 3-ethylpent-2-ene, what is its flash point?", "output": "The molecule has a flash point of 267.0K."}
+{"input": "I would like to know the flash point of the molecule referred to as MAKRYGRRIKSDES-UHFFFAOYSA-N.", "output": "The molecule has a flash point of 288.0K."}
+{"input": "Can you indicate the flash point for the molecule InChI=1S/C8H16O/c1-7(2)5-4-6-8(3)9/h7H,4-6H2,1-3H3?", "output": "The molecule has a flash point of 317.75K."}
+{"input": "Given the molecule named Cc1ncc(CSSCc2cnc(C)c(O)c2CO)c(CO)c1O, could you provide its flash point?", "output": "The molecule has a flash point of 676.15K."}
+{"input": "Can you provide the flash point for the substance named HVPGGLNDHUWMLS-UHFFFAOYSA-N?", "output": "The molecule has a flash point of 343.15K."}
+{"input": "What is the flash point of the molecule called O=C=Nc1ccccc1C(F)(F)F?", "output": "The molecule has a flash point of 342.15K."}
+{"input": "Can you provide the flash point for the substance named GUOSQNAUYHMCRU-UHFFFAOYSA-N?", "output": "The molecule has a flash point of 429.45K."}
+{"input": "Tell me the flash point of the molecule InChI=1S/3C2H5.BrH.Sn/c3*1-2;;/h3*1H2,2H3;1H;/q;;;;+1/p-1, please.", "output": "The molecule has a flash point of 372.15K."}
+{"input": "Can you provide the flash point for the substance named 2-methyl-3-phenylbutan-2-ol?", "output": "The molecule has a flash point of 353.15K."}
+{"input": "Can you provide the flash point for the substance named InChI=1S/C13H26/c1-2-3-4-5-7-10-13-11-8-6-9-12-13/h13H,2-12H2,1H3?", "output": "The molecule has a flash point of 366.35K."}
+{"input": "For the molecule named 2,3-dimethylheptane;2,4-dimethylheptane;2,3,5-trimethylhexane, could you provide its flash point?", "output": "The molecule has a flash point of 297.15K."}
+{"input": "I would like to know the flash point of the molecule referred to as InChI=1S/C9H18/c1-3-5-7-9-8-6-4-2/h3,5H,4,6-9H2,1-2H3.", "output": "The molecule has a flash point of 299.15K."}
+{"input": "Would you be able to tell me the flash point of the molecule InChI=1S/C8H6O2/c9-5-7-2-1-3-8(4-7)6-10/h1-6H?", "output": "The molecule has a flash point of 367.25K."}
+{"input": "What is the flash point of the molecule called InChI=1S/C8H6O2/c9-5-7-2-1-3-8(4-7)6-10/h1-6H?", "output": "The molecule has a flash point of 367.25K."}
+{"input": "Could you specify the flash point of the compound with the name C=C[Sn](C=C)(C=C)C=C?", "output": "The molecule has a flash point of 313.15K."}
+{"input": "I'm interested in knowing the flash point of CCCCCCCCCCCCCCCCCC(=O)OCCOCCOCCOCCO. Could you provide that?", "output": "The molecule has a flash point of 436.15K."}
+{"input": "Tell me the flash point of the molecule 3,6-dichloropyridazine, please.", "output": "The molecule has a flash point of 421.05K."}
+{"input": "What is the value of the flash point for the molecule KSTAKRCVPORMCA-UHFFFAOYSA-N?", "output": "The molecule has a flash point of 319.15K."}
+{"input": "Given the molecule named UJEUBSWHCGDJQU-UHFFFAOYSA-N, could you provide its flash point?", "output": "The molecule has a flash point of 481.45K."}
+{"input": "I'm interested in knowing the flash point of 4-methyl-1-phenylpentan-1-one. Could you provide that?", "output": "The molecule has a flash point of 372.55K."}
+{"input": "Please tell me the flash point of the compound named 1-phenylimidazole.", "output": "The molecule has a flash point of 393.85K."}
+{"input": "Please tell me the flash point of the compound named InChI=1S/C10H14O/c1-9(7-8-11)10-5-3-2-4-6-10/h2-6,9,11H,7-8H2,1H3.", "output": "The molecule has a flash point of 375.25K."}
+{"input": "What is the flash point of the molecule called 4-butan-2-ylaniline?", "output": "The molecule has a flash point of 381.0K."}
+{"input": "Please tell me the flash point of the compound named 2,4-dimethylpentylbenzene.", "output": "The molecule has a flash point of 360.1K."}
+{"input": "Given the molecule named C=CC(=O)OCCC[Si](OC)(OC)OC, could you provide its flash point?", "output": "The molecule has a flash point of 396.15K."}
+{"input": "Please tell me the flash point of the compound named KQJQICVXLJTWQD-UHFFFAOYSA-N.", "output": "The molecule has a flash point of 312.25K."}
+{"input": "What is the flash point of the molecule called 2,4,6-trifluoropyridine?", "output": "The molecule has a flash point of 300.65K."}
+{"input": "Would you be able to tell me the LogP of the molecule InChI=1S/C6H3ClN2O4/c7-5-2-1-4(8(10)11)3-6(5)9(12)13/h1-3H?", "output": "The molecule has a LogP of 2.17K."}
+{"input": "For the molecule named 1,3-dimethyl-7H-purine-2,6-dione, could you provide its LogP?", "output": "The molecule has a LogP of -0.03K."}
+{"input": "For the molecule identified as O=C(O)c1cc(=O)c2ccccc2o1, what is its LogP?", "output": "The molecule has a LogP of 1.63K."}
+{"input": "Tell me the LogP of the molecule SEQDDYPDSLOBDC-UHFFFAOYSA-N, please.", "output": "The molecule has a LogP of 2.19K."}
+{"input": "What is the LogP associated with the molecule S=P(N1CC1)(N1CC1)N1CC1?", "output": "The molecule has a LogP of 0.53K."}
+{"input": "Can you provide the LogP for the substance named UFLGIAIHIAPJJC-UHFFFAOYSA-N?", "output": "The molecule has a LogP of 0.537899999999999K."}
+{"input": "What is the value of the LogP for the molecule OCC(O)C(O)C(O)C(O)CO?", "output": "The molecule has a LogP of -2.8K."}
+{"input": "What is the value of the LogP for the molecule InChI=1S/C6H14N2O2/c7-4-2-1-3-5(8)6(9)10/h5H,1-4,7-8H2,(H,9,10)/t5-/m0/s1?", "output": "The molecule has a LogP of -3.05K."}
+{"input": "Given the molecule named SATCULPHIDQDRE-UHFFFAOYSA-N, could you provide its LogP?", "output": "The molecule has a LogP of 1.05K."}
+{"input": "Would you be able to tell me the LogP of the molecule 2,4-dichlorophenol?", "output": "The molecule has a LogP of 3.06K."}
+{"input": "What is the LogP associated with the molecule PYLWMHQQBFSUBP-UHFFFAOYSA-N?", "output": "The molecule has a LogP of 2.27K."}
+{"input": "For the molecule identified as FBWPWWWZWKPJFL-UHFFFAOYSA-N, what is its LogP?", "output": "The molecule has a LogP of -0.58K."}
+{"input": "Given the molecule named Nc1ccc(Cl)c([N+](=O)[O-])c1, could you provide its LogP?", "output": "The molecule has a LogP of 2.06K."}
+{"input": "What is the LogP of the molecule called InChI=1S/C10H18O4/c1-3-7-13-9(11)5-6-10(12)14-8-4-2/h3-8H2,1-2H3?", "output": "The molecule has a LogP of 2.16K."}
+{"input": "I would like to know the LogP of the molecule referred to as Clc1cc(Cl)c2oc3cc(Cl)c(Cl)cc3c2c1.", "output": "The molecule has a LogP of 6.73K."}
+{"input": "Would you be able to tell me the LogP of the molecule CCN(C)C(C)C=C(c1cccs1)c1cccs1?", "output": "The molecule has a LogP of 4.5153K."}
+{"input": "I'm interested in knowing the LogP of InChI=1S/C18H20N2O3/c19-15(11-13-7-3-1-4-8-13)17(21)20-16(18(22)23)12-14-9-5-2-6-10-14/h1-10,15-16H,11-12,19H2,(H,20,21)(H,22,23). Could you provide that?", "output": "The molecule has a LogP of -0.85K."}
+{"input": "Can you share the LogP of the molecule known as InChI=1S/C21H25ClN2O4S/c1-24-18-9-6-5-8-16(18)21(23-13-7-3-2-4-10-20(25)26)17-12-11-15(22)14-19(17)29(24,27)28/h5-6,8-9,11-12,14,21,23H,2-4,7,10,13H2,1H3,(H,25,26)?", "output": "The molecule has a LogP of 2.4426K."}
+{"input": "For the molecule identified as InChI=1S/C8H10O2/c1-5-3-7(9)4-6(2)8(5)10/h3-4,9-10H,1-2H3, what is its LogP?", "output": "The molecule has a LogP of 1.0K."}
+{"input": "Please tell me the LogP of the compound named InChI=1S/C15H17ClFNO4/c1-9(2)21-14(19)10-7-13(12(17)8-11(10)16)22-15(20)18-5-3-4-6-18/h7-9H,3-6H2,1-2H3.", "output": "The molecule has a LogP of 4.22K."}
+{"input": "Would you be able to tell me the LogP of the molecule InChI=1S/C17H13ClNO5P/c18-13-5-7-14(8-6-13)19-17(20)15-9-11-3-1-2-4-12(11)10-16(15)24-25(21,22)23/h1-10H,(H,19,20)(H2,21,22,23)?", "output": "The molecule has a LogP of -0.2606K."}
+{"input": "Can you indicate the LogP for the molecule InChI=1S/C12H12BrNO2/c13-7-3-4-8-14-11(15)9-5-1-2-6-10(9)12(14)16/h1-2,5-6H,3-4,7-8H2?", "output": "The molecule has a LogP of 2.96K."}
+{"input": "Could you specify the LogP of the compound with the name InChI=1S/C16H29NO2/c1-2-3-4-5-6-7-8-9-10-12-15(18)17-14-11-13-16(17)19/h2-14H2,1H3?", "output": "The molecule has a LogP of 5.05K."}
+{"input": "What is the LogP associated with the molecule InChI=1S/C22H21Cl3N4O/c1-14-20(22(30)27-28-11-3-2-4-12-28)26-29(19-10-9-17(24)13-18(19)25)21(14)15-5-7-16(23)8-6-15/h5-10,13H,2-4,11-12H2,1H3,(H,27,30)?", "output": "The molecule has a LogP of 5.68314K."}
+{"input": "Given the molecule named (2S)-2-[[(5S)-5-amino-5-carboxypentyl]amino]pentanedioic acid, could you provide its LogP?", "output": "The molecule has a LogP of 5.3813K."}
+{"input": "Given the molecule named InChI=1S/C9H17N/c1-8(2)7-4-5-9(8,3)10-6-7/h7,10H,4-6H2,1-3H3/t7-,9-/m1/s1, could you provide its LogP?", "output": "The molecule has a LogP of 2.0879K."}
+{"input": "What is the value of the LogP for the molecule (2R)-2-[3-(diaminomethylideneamino)phenyl]-3-sulfanylpropanoic acid?", "output": "The molecule has a LogP of 5.9365K."}
+{"input": "Can you provide the LogP for the substance named O=C([O-])Cc1ccccc1Nc1c(Cl)cccc1Cl.[Na+]?", "output": "The molecule has a LogP of 0.7K."}
+{"input": "Could you specify the LogP of the compound with the name O=C([O-])C1=CC(O)C(OS(=O)(=O)[O-])C(OC2C(CO)OC(O)C(NS(=O)(=O)[O-])C2O)O1?", "output": "The molecule has a LogP of 2.8166K."}
+{"input": "What is the LogP associated with the molecule [O-]C1OC(F)C(O)C(O)C1O?", "output": "The molecule has a LogP of 0.6665K."}
+{"input": "Can you provide the LogP for the substance named InChI=1S/C9H8N2O4S/c1-7-9(10-15-11(7)12)16(13,14)8-5-3-2-4-6-8/h2-6H,1H3?", "output": "The molecule has a LogP of 2.03K."}
+{"input": "Could you specify the LogP of the compound with the name Cn1nc(-c2ccccc2)cc1NS(=O)(=O)O?", "output": "The molecule has a LogP of 5.117K."}
+{"input": "Tell me the LogP of the molecule 1-[3-[3-(4-chlorophenyl)propoxy]propyl]piperidine, please.", "output": "The molecule has a LogP of 2.86714K."}
+{"input": "Tell me the LogP of the molecule VDMKJSJJXQDICL-ZXVJYWQYSA-N, please.", "output": "The molecule has a LogP of 2.5807K."}
+{"input": "Can you provide the LogP for the substance named InChI=1S/C10H12N4O2/c1-7-6-9(16-3)14(13-7)10-11-5-4-8(12-10)15-2/h4-6H,1-3H3?", "output": "The molecule has a LogP of 1.01K."}
+{"input": "Would you be able to tell me the LogP of the molecule JETUFWCZVPXLOH-UHFFFAOYSA-N?", "output": "The molecule has a LogP of 2.64K."}
+{"input": "What is the LogP of the molecule called WCJHDPCEOUGPCD-UHFFFAOYSA-N?", "output": "The molecule has a LogP of 0.51K."}
+{"input": "I would like to know the LogP of the molecule referred to as 2,2-difluoro-3-(2-nitroimidazol-1-yl)propan-1-ol.", "output": "The molecule has a LogP of 0.04K."}
+{"input": "Tell me the LogP of the molecule InChI=1S/C24H22N4O5S/c29-24(30)18-33-22-5-1-4-20(14-22)17-27(34(31,32)23-6-2-11-25-15-23)16-19-7-9-21(10-8-19)28-13-3-12-26-28/h1-15H,16-18H2,(H,29,30), please.", "output": "The molecule has a LogP of 4.3255K."}
+{"input": "What is the LogP of the molecule called InChI=1S/C9H8N4O/c10-9(14)13-8-5-11-6-3-1-2-4-7(6)12-8/h1-5H,(H3,10,12,13,14)?", "output": "The molecule has a LogP of 1.3K."}
+{"input": "I would like to know the LogP of the molecule referred to as XSDPZPWLUUGYHH-UHFFFAOYSA-N.", "output": "The molecule has a LogP of 0.4K."}
+{"input": "Could you specify the LogP of the compound with the name 5-[2-(trifluoromethyl)phenyl]-1,3-dihydro-1,4-benzodiazepin-2-one?", "output": "The molecule has a LogP of 2.47K."}
+{"input": "I would like to know the LogP of the molecule referred to as InChI=1S/C25H33ClO5/c1-5-21(30)31-25(20(29)13-26)14(2)10-18-17-7-6-15-11-16(27)8-9-23(15,3)22(17)19(28)12-24(18,25)4/h8-9,11,14,17-19,22,28H,5-7,10,12-13H2,1-4H3.", "output": "The molecule has a LogP of 3.34K."}
+{"input": "Can you provide the LogP for the substance named InChI=1S/C22H33N7O5S/c1-4-34-22(33)15(9-14(2)3)29-18(32)11-24-17(31)10-23-16(30)7-5-6-8-35-21-19-20(26-12-25-19)27-13-28-21/h12-15H,4-11H2,1-3H3,(H,23,30)(H,24,31)(H,29,32)(H,25,26,27,28)?", "output": "The molecule has a LogP of 1.07K."}
+{"input": "I'm interested in knowing the LogP of BYKRNSHANADUFY-UHFFFAOYSA-M. Could you provide that?", "output": "The molecule has a LogP of -1.38K."}
+{"input": "I'm interested in knowing the LogP of InChI=1S/C23H30N6O4/c1-13(2)17(18(31)20-27-28-22(33-20)23(3,4)5)26-16(30)12-29-19(14-9-7-6-8-10-14)25-11-15(24)21(29)32/h6-11,13,17-18,31H,12,24H2,1-5H3,(H,26,30)/t17-,18-/m1/s1. Could you provide that?", "output": "The molecule has a LogP of -1.7837K."}
+{"input": "What is the value of the LogP for the molecule 2-[4-[(E)-2-[5-[(1R)-1-(3,5-dichloropyridin-4-yl)ethoxy]-1H-indazol-3-yl]ethenyl]pyrazol-1-yl]ethanol?", "output": "The molecule has a LogP of 11.0825999999999K."}
+{"input": "Could you specify the LogP of the compound with the name BDXXSFOJPYSYOC-UHFFFAOYSA-N?", "output": "The molecule has a LogP of 4.9217K."}
+{"input": "What is the LogP of the molecule called OFCNXPDARWKPPY-UHFFFAOYSA-N?", "output": "The molecule has a LogP of -0.55K."}
+{"input": "Tell me the LogP of the molecule O=c1[nH]c(=O)n(-c2ccc(Cl)cc2Cl)cc1F, please.", "output": "The molecule has a LogP of 1.96K."}
+{"input": "Given the molecule named InChI=1S/C3H7NO2/c1-3(2)4(5)6/h3H,1-2H3, could you provide its LogS?", "output": "The molecule has a LogS of -0.62K."}
+{"input": "Can you provide the LogS for the substance named propanedioic acid?", "output": "The molecule has a LogS of 0.865K."}
+{"input": "I would like to know the LogS of the molecule referred to as XEGGRYVFLWGFHI-UHFFFAOYSA-N.", "output": "The molecule has a LogS of -3.747K."}
+{"input": "Given the molecule named InChI=1S/C8H6Cl2O3/c1-13-7-5(10)3-2-4(9)6(7)8(11)12/h2-3H,1H3,(H,11,12), could you provide its LogS?", "output": "The molecule has a LogS of -1.691K."}
+{"input": "Given the molecule named WTYGAUXICFETTC-UHFFFAOYSA-N, could you provide its LogS?", "output": "The molecule has a LogS of -2.17K."}
+{"input": "What is the value of the LogS for the molecule 2-chloropropane?", "output": "The molecule has a LogS of -1.404K."}
+{"input": "Please tell me the LogS of the compound named ZFRKQXVRDFCRJG-UHFFFAOYSA-N.", "output": "The molecule has a LogS of -2.42K."}
+{"input": "What is the value of the LogS for the molecule 5-methyl-2-propan-2-ylphenol?", "output": "The molecule has a LogS of -2.222K."}
+{"input": "I would like to know the LogS of the molecule referred to as InChI=1S/C10H14O/c1-7(2)9-5-4-8(3)6-10(9)11/h4-7,11H,1-3H3.", "output": "The molecule has a LogS of -2.22K."}
+{"input": "What is the LogS associated with the molecule KFDVPJUYSDEJTH-UHFFFAOYSA-N?", "output": "The molecule has a LogS of -0.56K."}
+{"input": "Tell me the LogS of the molecule KBEBGUQPQBELIU-UHFFFAOYSA-N, please.", "output": "The molecule has a LogS of -3.0K."}
+{"input": "Tell me the LogS of the molecule 1-methoxy-2-(2-methoxyethoxy)ethane, please.", "output": "The molecule has a LogS of 0.872K."}
+{"input": "Can you share the LogS of the molecule known as CCOCCOCCOCC?", "output": "The molecule has a LogS of 0.79K."}
+{"input": "Would you be able to tell me the LogS of the molecule CCC(C)c1ccccc1?", "output": "The molecule has a LogS of -3.923333333K."}
+{"input": "Could you specify the LogS of the compound with the name InChI=1S/C20H12/c1-2-6-15-12-19-17-10-4-8-13-7-3-9-16(20(13)17)18(19)11-14(15)5-1/h1-12H?", "output": "The molecule has a LogS of -8.499K."}
+{"input": "For the molecule named 2-(3,5-diiodo-4-oxopyridin-1-yl)acetic acid, could you provide its LogS?", "output": "The molecule has a LogS of -0.05K."}
+{"input": "Given the molecule named DNSISZSEWVHGLH-UHFFFAOYSA-N, could you provide its LogS?", "output": "The molecule has a LogS of 0.272K."}
+{"input": "Please tell me the LogS of the compound named 3,5-dimethylpyridine.", "output": "The molecule has a LogS of 0.38K."}
+{"input": "What is the value of the LogS for the molecule VPOMSPZBQMDLTM-UHFFFAOYSA-N?", "output": "The molecule has a LogS of -1.559K."}
+{"input": "For the molecule identified as 4-methylpent-1-ene, what is its LogS?", "output": "The molecule has a LogS of -3.244K."}
+{"input": "What is the LogS associated with the molecule NBYLBWHHTUWMER-UHFFFAOYSA-N?", "output": "The molecule has a LogS of -1.73K."}
+{"input": "Could you specify the LogS of the compound with the name YFBPRJGDJKVWAH-UHFFFAOYSA-N?", "output": "The molecule has a LogS of -4.353K."}
+{"input": "What is the LogS associated with the molecule NOOLISFMXDJSKH-KXUCPTDWSA-N?", "output": "The molecule has a LogS of -2.5K."}
+{"input": "For the molecule named InChI=1S/C14H9ClO3/c15-8-5-6-10-9-3-1-2-4-11(9)14(18,13(16)17)12(10)7-8/h1-7,18H,(H,16,17), could you provide its LogS?", "output": "The molecule has a LogS of -4.161K."}
+{"input": "Tell me the LogS of the molecule VGPYEHKOIGNJKV-UHFFFAOYSA-N, please.", "output": "The molecule has a LogS of -1.66K."}
+{"input": "Can you share the LogS of the molecule known as SJZKULRDWHPHGG-UHFFFAOYSA-N?", "output": "The molecule has a LogS of -1.02K."}
+{"input": "Can you provide the LogS for the substance named RULKYXXCCZZKDZ-UHFFFAOYSA-N?", "output": "The molecule has a LogS of -3.15K."}
+{"input": "Given the molecule named InChI=1S/C3H8N2O/c1-3-5(2)4-6/h3H2,1-2H3, could you provide its LogS?", "output": "The molecule has a LogS of 0.532K."}
+{"input": "Can you provide the LogS for the substance named InChI=1S/C12H7Cl3/c13-9-3-1-2-8(6-9)11-7-10(14)4-5-12(11)15/h1-7H?", "output": "The molecule has a LogS of -6.01K."}
+{"input": "Can you provide the LogS for the substance named 1,2,3-trichloro-4-methoxybenzene?", "output": "The molecule has a LogS of -4.29K."}
+{"input": "What is the value of the LogS for the molecule InChI=1S/C12H5Cl5/c13-7-1-6(2-8(14)3-7)9-4-11(16)12(17)5-10(9)15/h1-5H?", "output": "The molecule has a LogS of -7.47K."}
+{"input": "Can you indicate the LogS for the molecule InChI=1S/C8H16O3/c1-6(2)7(9)10-11-8(3,4)5/h6H,1-5H3?", "output": "The molecule has a LogS of -1.61K."}
+{"input": "Could you specify the LogS of the compound with the name Cc1c(O)cc([N+](=O)[O-])cc1[N+](=O)[O-]?", "output": "The molecule has a LogS of -4.18K."}
+{"input": "I would like to know the LogS of the molecule referred to as CCOC(=O)c1ccc(N=C=S)cc1.", "output": "The molecule has a LogS of -4.05K."}
+{"input": "Please tell me the LogS of the compound named Clc1cc(Cl)c2cc(Cl)cc(Cl)c2c1.", "output": "The molecule has a LogS of -7.823K."}
+{"input": "Could you specify the LogS of the compound with the name methyl 2-ethylhexanoate?", "output": "The molecule has a LogS of -2.99K."}
+{"input": "Given the molecule named 3-acetyl-6-methylpyran-2,4-dione, could you provide its LogS?", "output": "The molecule has a LogS of -1.226K."}
+{"input": "I'm interested in knowing the LogS of ASEJLJNYULOOOK-UHFFFAOYSA-N. Could you provide that?", "output": "The molecule has a LogS of -1.71K."}
+{"input": "I would like to know the LogS of the molecule referred to as XMGQYMWWDOXHJM-SNVBAGLBSA-N.", "output": "The molecule has a LogS of -4.0K."}
+{"input": "Tell me the LogS of the molecule MCHONYMFRSKTLR-UHFFFAOYSA-N, please.", "output": "The molecule has a LogS of -3.6K."}
+{"input": "I'm interested in knowing the LogS of Cc1[nH]c(=O)[nH]c(=O)c1CC(=O)O. Could you provide that?", "output": "The molecule has a LogS of -2.31K."}
+{"input": "Please tell me the LogS of the compound named CCCCCCC(C)O.", "output": "The molecule has a LogS of -2.01K."}
+{"input": "What is the value of the LogS for the molecule (2S,3S,4R,5R)-2,3,4,5-tetrahydroxyhexanedioic acid?", "output": "The molecule has a LogS of -0.32K."}
+{"input": "I'm interested in knowing the LogS of InChI=1S/C11H21N3O4/c1-6(2)4-8(12)11(18)14-7(3)10(17)13-5-9(15)16/h6-8H,4-5,12H2,1-3H3,(H,13,17)(H,14,18)(H,15,16)/t7-,8-/m0/s1. Could you provide that?", "output": "The molecule has a LogS of -0.9K."}
+{"input": "Given the molecule named InChI=1S/C10H16N2O3/c1-4-10(5-6(2)3)7(13)11-9(15)12-8(10)14/h6H,4-5H2,1-3H3,(H2,11,12,13,14,15), could you provide its LogS?", "output": "The molecule has a LogS of -5.14K."}
+{"input": "Would you be able to tell me the LogS of the molecule InChI=1S/C8H18O/c1-4-7(3)6-8(9)5-2/h7-9H,4-6H2,1-3H3/t7-,8+/m0/s1?", "output": "The molecule has a LogS of -1.86K."}
+{"input": "Please tell me the LogS of the compound named ZCINFQNVNLHJOV-UHFFFAOYSA-N.", "output": "The molecule has a LogS of -4.33K."}
+{"input": "Please tell me the LogS of the compound named InChI=1S/C12H5Cl5O/c13-6-1-2-11(8(14)3-6)18-7-4-9(15)12(17)10(16)5-7/h1-5H.", "output": "The molecule has a LogS of -7.89K."}
+{"input": "I would like to know the LogS of the molecule referred to as HBXWAITUZKDDNP-UHFFFAOYSA-N.", "output": "The molecule has a LogS of -2.99K."}
+{"input": "Tell me the LogS of the molecule OVTBMKVBBHTERH-UHFFFAOYSA-N, please.", "output": "The molecule has a LogS of -3.93K."}
+{"input": "Please tell me the KOC of the compound named InChI=1S/C8H11N/c9-7-6-8-4-2-1-3-5-8/h1-5H,6-7,9H2.", "output": "The molecule has a KOC of 2.07918124604762"}
+{"input": "I'm interested in knowing the KOC of InChI=1S/C9H7NO/c11-8-5-1-3-7-4-2-6-10-9(7)8/h1-6,11H. Could you provide that?", "output": "The molecule has a KOC of 3.47712125471966"}
+{"input": "Can you provide the KOC for the substance named CC(C)(c1ccc(OCC2CO2)cc1)c1ccc(OCC2CO2)cc1?", "output": "The molecule has a KOC of 3.25527250510331"}
+{"input": "I would like to know the KOC of the molecule referred to as COc1ccccc1OCC(O)COC(N)=O.", "output": "The molecule has a KOC of 1.70757017609794"}
+{"input": "Would you be able to tell me the KOC of the molecule Cc1noc(NS(=O)(=O)c2ccc(N)cc2)c1C?", "output": "The molecule has a KOC of 1.76342799356294"}
+{"input": "Could you specify the KOC of the compound with the name LXMSZDCAJNLERA-ZHYRCANASA-N?", "output": "The molecule has a KOC of 2.88649072517248"}
+{"input": "Please tell me the KOC of the compound named CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC.", "output": "The molecule has a KOC of 2.75587485567249"}
+{"input": "I'm interested in knowing the KOC of (3-propan-2-ylphenyl) N-methylcarbamate. Could you provide that?", "output": "The molecule has a KOC of 2.80617997398389"}
+{"input": "Please tell me the KOC of the compound named CZDYPVPMEAXLPK-UHFFFAOYSA-N.", "output": "The molecule has a KOC of 1.64345267648619"}
+{"input": "Could you specify the KOC of the compound with the name QZCLKYGREBVARF-UHFFFAOYSA-N?", "output": "The molecule has a KOC of 3.51587384371168"}
+{"input": "Please tell me the KOC of the compound named OJUZRFGUKHQNJX-UHFFFAOYSA-N.", "output": "The molecule has a KOC of 4.25527250510331"}
+{"input": "Can you provide the KOC for the substance named ClC=C(Cl)Cl?", "output": "The molecule has a KOC of 2.00432137378264"}
+{"input": "What is the KOC of the molecule called NIHNNTQXNPWCJQ-UHFFFAOYSA-N?", "output": "The molecule has a KOC of 4.21"}
+{"input": "I'm interested in knowing the KOC of InChI=1S/C3Cl3N3O3/c4-7-1(10)8(5)3(12)9(6)2(7)11. Could you provide that?", "output": "The molecule has a KOC of 1.39794000867204"}
+{"input": "For the molecule named O=[N+]([O-])c1cc([N+](=O)[O-])c(O)c([N+](=O)[O-])c1, could you provide its KOC?", "output": "The molecule has a KOC of 3.35218251811136"}
+{"input": "Tell me the KOC of the molecule XXEPPPIWZFICOJ-UHFFFAOYSA-N, please.", "output": "The molecule has a KOC of 2.83250891270624"}
+{"input": "I'm interested in knowing the KOC of FFNVQNRYTPFDDP-UHFFFAOYSA-N. Could you provide that?", "output": "The molecule has a KOC of 1.6232492903979"}
+{"input": "I would like to know the KOC of the molecule referred to as InChI=1S/C6H7N/c1-6-2-4-7-5-3-6/h2-5H,1H3.", "output": "The molecule has a KOC of 2.06069784035361"}
+{"input": "What is the KOC of the molecule called butane-1,4-diol?", "output": "The molecule has a KOC of 0.0"}
+{"input": "I would like to know the KOC of the molecule referred to as 2-(2-hydroxyethoxy)ethanol.", "output": "The molecule has a KOC of 0.0"}
+{"input": "Please tell me the KOC of the compound named CCCCCCCCCCCO.", "output": "The molecule has a KOC of 3.94448267215017"}
+{"input": "Tell me the KOC of the molecule MZHCENGPTKEIGP-UHFFFAOYSA-N, please.", "output": "The molecule has a KOC of 2.11058971029925"}
+{"input": "Can you share the KOC of the molecule known as InChI=1S/C15H23ClO4S/c1-12(20-21(17)19-10-9-16)11-18-14-7-5-13(6-8-14)15(2,3)4/h5-8,12H,9-11H2,1-4H3?", "output": "The molecule has a KOC of 4.30102999566398"}
+{"input": "Could you specify the KOC of the compound with the name ClCCCCl?", "output": "The molecule has a KOC of 2.46239799789896"}
+{"input": "I'm interested in knowing the KOC of ethoxy-ethyl-sulfanylidene-(2,4,5-trichlorophenoxy)-lambda5-phosphane. Could you provide that?", "output": "The molecule has a KOC of 4.23044892137827"}
+{"input": "Can you share the KOC of the molecule known as (3-chloro-4-nitrophenoxy)-dimethoxy-sulfanylidene-lambda5-phosphane?", "output": "The molecule has a KOC of 3.25527250510331"}
+{"input": "For the molecule identified as InChI=1S/C9H10/c1-3-9-7-5-4-6-8(9)2/h3-7H,1H2,2H3, what is its KOC?", "output": "The molecule has a KOC of 2.86332286012046"}
+{"input": "Tell me the KOC of the molecule AHFMSNDOYCFEPH-UHFFFAOYSA-N, please.", "output": "The molecule has a KOC of 1.60205999132796"}
+{"input": "Given the molecule named heptadecane, could you provide its KOC?", "output": "The molecule has a KOC of 5.39794000867204"}
+{"input": "What is the value of the KOC for the molecule InChI=1S/C22H46O/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23/h23H,2-22H2,1H3?", "output": "The molecule has a KOC of 5.17609125905568"}
+{"input": "Can you indicate the KOC for the molecule InChI=1S/C3H2F6/c4-2(5,6)1-3(7,8)9/h1H2?", "output": "The molecule has a KOC of 2.53147891704225"}
+{"input": "What is the KOC of the molecule called 2-methyloxetane?", "output": "The molecule has a KOC of 0.602059991327962"}
+{"input": "What is the value of the KOC for the molecule GYZLOYUZLJXAJU-UHFFFAOYSA-N?", "output": "The molecule has a KOC of 0.0"}
+{"input": "I'm interested in knowing the KOC of InChI=1S/F6S/c1-7(2,3,4,5)6. Could you provide that?", "output": "The molecule has a KOC of 1.46239799789896"}
+{"input": "Tell me the KOC of the molecule Clc1c(Cl)c(Cl)c2c(c1Cl)Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1O2, please.", "output": "The molecule has a KOC of 7.9"}
+{"input": "Given the molecule named BZGLBXYQOMFXAU-UHFFFAOYSA-N, could you provide its KOC?", "output": "The molecule has a KOC of 4.65321251377534"}
+{"input": "What is the value of the KOC for the molecule 4-(dipropylamino)-3,5-dinitrobenzenesulfonamide?", "output": "The molecule has a KOC of 2.77815125038364"}
+{"input": "Could you specify the KOC of the compound with the name (6R,7R)-3-[(5-methyl-1,3,4-thiadiazol-2-yl)sulfanylmethyl]-8-oxo-7-[[2-(tetrazol-1-yl)acetyl]amino]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid?", "output": "The molecule has a KOC of 1.07918124604762"}
+{"input": "What is the KOC associated with the molecule CCN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)c(N)c1[N+](=O)[O-]?", "output": "The molecule has a KOC of 3.60205999132796"}
+{"input": "I would like to know the KOC of the molecule referred to as DYIZJUDNMOIZQO-UHFFFAOYSA-N.", "output": "The molecule has a KOC of 5.90308998699194"}
+{"input": "What is the KOC of the molecule called ICOAEPDGFWLUTI-UHFFFAOYSA-N?", "output": "The molecule has a KOC of 6.08"}
+{"input": "Can you provide the KOC for the substance named COC(=O)c1cc(Oc2ccc(Cl)cc2Cl)ccc1[N+](=O)[O-]?", "output": "The molecule has a KOC of 3.49234125325497"}
+{"input": "For the molecule identified as O=C(O)COc1nc(Cl)c(Cl)cc1Cl, what is its KOC?", "output": "The molecule has a KOC of 2.12710479836481"}
+{"input": "I'm interested in knowing the KOC of 2-tert-butylimino-5-phenyl-3-propan-2-yl-1,3,5-thiadiazinan-4-one. Could you provide that?", "output": "The molecule has a KOC of 3.54406804435028"}
+{"input": "For the molecule identified as CC#CC1(O)CCC2C3CCC4=CC(=O)CCC4=C3C(c3ccc(N(C)C)cc3)CC21C, what is its KOC?", "output": "The molecule has a KOC of 4.94939000664491"}
+{"input": "I'm interested in knowing the KOC of CCC(=O)N(c1ccccc1)C1(C(=O)OC)CCN(CCC(=O)OC)CC1. Could you provide that?", "output": "The molecule has a KOC of 2.36172783601759"}
+{"input": "Tell me the KOC of the molecule (3S)-N-methyl-3-naphthalen-1-yloxy-3-thiophen-2-ylpropan-1-amine, please.", "output": "The molecule has a KOC of 4.90848501887865"}
+{"input": "Tell me the KOC of the molecule NTKSJAPQYKCFPP-UHFFFAOYSA-N, please.", "output": "The molecule has a KOC of 6.04"}
+{"input": "Given the molecule named ZCNQYNHDVRPZIH-UHFFFAOYSA-N, could you provide its KOC?", "output": "The molecule has a KOC of 3.43136376415899"}
+{"input": "Can you share the KOC of the molecule known as CCC(C)(NC(=O)c1cc(Cl)c(C)c(Cl)c1)C(=O)CCl?", "output": "The molecule has a KOC of 3.15926633109349"}
+{"input": "Would you be able to tell me the Logkow of the molecule O=[N+]([O-])c1ccc(O)c([N+](=O)[O-])c1?", "output": "The molecule has a LogKow of 1.67K."}
+{"input": "Would you be able to tell me the Logkow of the molecule InChI=1S/C2H4N4/c3-2-4-1-5-6-2/h1H,(H3,3,4,5,6)?", "output": "The molecule has a LogKow of -0.86K."}
+{"input": "Can you provide the Logkow for the substance named 8-chloro-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine?", "output": "The molecule has a LogKow of 2.12K."}
+{"input": "Can you indicate the Logkow for the molecule MDKCFLQDBWCQCV-UHFFFAOYSA-N?", "output": "The molecule has a LogKow of 2.83K."}
+{"input": "Can you provide the Logkow for the substance named PTGXAUBQBSGPKF-UHFFFAOYSA-N?", "output": "The molecule has a LogKow of 3.3K."}
+{"input": "Can you indicate the Logkow for the molecule N=C(N)c1ccc(OCCCCCOc2ccc(C(=N)N)cc2)cc1?", "output": "The molecule has a LogKow of 2.79K."}
+{"input": "Please tell me the Logkow of the compound named 5-pentan-2-yl-5-prop-2-enyl-1,3-diazinane-2,4,6-trione.", "output": "The molecule has a LogKow of 1.97K."}
+{"input": "Can you provide the Logkow for the substance named c1ccc2c(c1)ccc1cc3c(ccc4ccccc43)cc12?", "output": "The molecule has a LogKow of 6.75K."}
+{"input": "Can you share the Logkow of the molecule known as CN(C)N=O?", "output": "The molecule has a LogKow of -0.57K."}
+{"input": "For the molecule identified as DENRZWYUOJLTMF-UHFFFAOYSA-N, what is its Logkow?", "output": "The molecule has a LogKow of 1.14K."}
+{"input": "Can you indicate the Logkow for the molecule HEDRZPFGACZZDS-UHFFFAOYSA-N?", "output": "The molecule has a LogKow of 1.97K."}
+{"input": "Tell me the Logkow of the molecule 1-N,4-N-diphenylbenzene-1,4-diamine, please.", "output": "The molecule has a LogKow of 4.75K."}
+{"input": "Could you specify the Logkow of the compound with the name tetrafluoromethane?", "output": "The molecule has a LogKow of 1.18K."}
+{"input": "I would like to know the Logkow of the molecule referred to as 2-amino-2-(hydroxymethyl)propane-1,3-diol.", "output": "The molecule has a LogKow of -1.56K."}
+{"input": "Can you share the Logkow of the molecule known as 3,7-dimethylocta-1,6-dien-3-ol?", "output": "The molecule has a LogKow of 2.97K."}
+{"input": "Can you share the Logkow of the molecule known as InChI=1S/C11H16O/c1-4-11(2,3)9-5-7-10(12)8-6-9/h5-8,12H,4H2,1-3H3?", "output": "The molecule has a LogKow of 4.03K."}
+{"input": "Tell me the Logkow of the molecule UJOBWOGCFQCDNV-UHFFFAOYSA-N, please.", "output": "The molecule has a LogKow of 3.72K."}
+{"input": "Tell me the Logkow of the molecule InChI=1S/C12H11N/c13-12-9-5-4-8-11(12)10-6-2-1-3-7-10/h1-9H,13H2, please.", "output": "The molecule has a LogKow of 2.84K."}
+{"input": "Please tell me the Logkow of the compound named ILERPRJWJPJZDN-UHFFFAOYSA-N.", "output": "The molecule has a LogKow of 1.3K."}
+{"input": "I'm interested in knowing the Logkow of Nc1cc(Cl)ccc1Cl. Could you provide that?", "output": "The molecule has a LogKow of 2.92K."}
+{"input": "Could you specify the Logkow of the compound with the name 2-methyl-4-[(2-methylphenyl)diazenyl]aniline?", "output": "The molecule has a LogKow of 3.92K."}
+{"input": "Tell me the Logkow of the molecule OCCN(CCO)CCO, please.", "output": "The molecule has a LogKow of -1.0K."}
+{"input": "Can you share the Logkow of the molecule known as InChI=1S/C3H7Br/c1-2-3-4/h2-3H2,1H3?", "output": "The molecule has a LogKow of 2.1K."}
+{"input": "I would like to know the Logkow of the molecule referred to as C=CCCl.", "output": "The molecule has a LogKow of 1.93K."}
+{"input": "Can you indicate the Logkow for the molecule InChI=1S/C14H18O6/c1-17-7-9-19-13(15)11-5-3-4-6-12(11)14(16)20-10-8-18-2/h3-6H,7-10H2,1-2H3?", "output": "The molecule has a LogKow of 1.11K."}
+{"input": "I'm interested in knowing the Logkow of 1,3-dichloro-5,5-dimethylimidazolidine-2,4-dione. Could you provide that?", "output": "The molecule has a LogKow of -0.94K."}
+{"input": "Given the molecule named naphthalen-1-amine, could you provide its Logkow?", "output": "The molecule has a LogKow of 2.25K."}
+{"input": "Tell me the Logkow of the molecule ClCCCCl, please.", "output": "The molecule has a LogKow of 2.0K."}
+{"input": "For the molecule identified as InChI=1S/C3H9O4P/c1-5-8(4,6-2)7-3/h1-3H3, what is its Logkow?", "output": "The molecule has a LogKow of -0.65K."}
+{"input": "Tell me the Logkow of the molecule Oc1ccccc1I, please.", "output": "The molecule has a LogKow of 2.65K."}
+{"input": "What is the Logkow of the molecule called SPUWFVKLHHEKGV-UHFFFAOYSA-N?", "output": "The molecule has a LogKow of 4.44K."}
+{"input": "I'm interested in knowing the Logkow of Oc1cc(Cl)cc(Cl)c1. Could you provide that?", "output": "The molecule has a LogKow of 3.62K."}
+{"input": "What is the Logkow of the molecule called 1-ethyl-2-methylbenzene?", "output": "The molecule has a LogKow of 3.55K."}
+{"input": "Please tell me the Logkow of the compound named N-[bis(dimethylamino)phosphoryl]-N-methylmethanamine.", "output": "The molecule has a LogKow of 0.28K."}
+{"input": "What is the Logkow of the molecule called PFEFOYRSMXVNEL-UHFFFAOYSA-N?", "output": "The molecule has a LogKow of 6.06K."}
+{"input": "What is the value of the Logkow for the molecule InChI=1S/C8H6Cl4O2/c1-13-7-5(11)3(9)4(10)6(12)8(7)14-2/h1-2H3?", "output": "The molecule has a LogKow of 4.86K."}
+{"input": "What is the Logkow associated with the molecule C[Sn](C)(C)Cl?", "output": "The molecule has a LogKow of 49.0K."}
+{"input": "For the molecule named CC1(C)OC2CC3C4CC(F)C5=CC(=O)CCC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1, could you provide its Logkow?", "output": "The molecule has a LogKow of 3.0K."}
+{"input": "Can you share the Logkow of the molecule known as S-ethyl azepane-1-carbothioate?", "output": "The molecule has a LogKow of 3.21K."}
+{"input": "What is the Logkow associated with the molecule 2-chloro-1,1,1,2-tetrafluoroethane?", "output": "The molecule has a LogKow of 1.86K."}
+{"input": "Can you provide the Logkow for the substance named 1,3,4,5,7,8,9,10,10-nonachlorotricyclo[5.2.1.02,6]dec-8-ene?", "output": "The molecule has a LogKow of 6.2K."}
+{"input": "Can you share the Logkow of the molecule known as C=C(C)C(=O)OCCN(C(C)C)C(C)C?", "output": "The molecule has a LogKow of 2.79K."}
+{"input": "Please tell me the Logkow of the compound named 1,3,5-trichloro-2-nitrobenzene.", "output": "The molecule has a LogKow of 3.69K."}
+{"input": "I'm interested in knowing the Logkow of (2R,3S,4R,5R,8R,10R,11R,13S,14R)-11-[(2S,3R,4S,6R)-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-2-ethyl-3,4,10-trihydroxy-13-[(2R,4R,5S,6S)-5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl]oxy-3,5,6,8,10,12,14-heptamethyl-1-oxa-6-azacyclopentadecan-15-one. Could you provide that?", "output": "The molecule has a LogKow of 4.02K."}
+{"input": "Would you be able to tell me the Logkow of the molecule 3,8-dimethylimidazo[4,5-f]quinoxalin-2-amine?", "output": "The molecule has a LogKow of 1.01K."}
+{"input": "For the molecule named InChI=1S/C14H15N3/c1-10-9-13(11-7-8-11)17-14(15-10)16-12-5-3-2-4-6-12/h2-6,9,11H,7-8H2,1H3,(H,15,16,17), could you provide its Logkow?", "output": "The molecule has a LogKow of 4.0K."}
+{"input": "Can you share the Logkow of the molecule known as 1-[(2-methylpropan-2-yl)oxy]propan-2-ol?", "output": "The molecule has a LogKow of 0.87K."}
+{"input": "What is the value of the Logkow for the molecule InChI=1S/C18H28N2O3/c1-11(2)16(20-18(22)23-12(3)4)17(21)19-14(6)15-9-7-13(5)8-10-15/h7-12,14,16H,1-6H3,(H,19,21)(H,20,22)?", "output": "The molecule has a LogKow of 3.68K."}
+{"input": "For the molecule identified as Nc1ccc(-c2ccc(N)c(Cl)c2Cl)c(Cl)c1Cl, what is its Logkow?", "output": "The molecule has a LogKow of 4.69K."}
+{"input": "I would like to know the Logkow of the molecule referred to as OYNVHVAEOLJJPV-UHFFFAOYSA-N.", "output": "The molecule has a LogKow of 6.68K."}

@@ -1,0 +1,200 @@
+{"input": "[2-[2-(4-fluorobenzoyl)hydrazinyl]-2-oxoethyl] 5-methylpyrazine-2-carboxylate is the IUPAC name of a molecule. Please give its molecular formula.", "output": "C15H13FN4O4"}
+{"input": "What is the molecular formula of the molecule identified by 1-[4-methyl-2-[(2Z)-2-[(2-nitrophenyl)methylidene]hydrazinyl]-1,3-thiazol-5-yl]ethanone ?", "output": "C13H12N4O3S"}
+{"input": "What is the molecular formula of the molecule N-(3-chlorophenyl)-2-[2-(4-methylphenyl)imino-4-oxo-3-propyl-1,3-thiazolidin-5-yl]acetamide ?", "output": "C21H22ClN3O2S"}
+{"input": "What is the molecular formula of the molecule identified by 5-fluoro-2-hydroxy-N-(1-methylsulfanylbutan-2-yl)benzamide ?", "output": "C12H16FNO2S"}
+{"input": "What is the molecular formula of the compound with this IUPAC name 4-[3-(3-bromophenyl)propanoylamino]-3-methoxybutanoic acid ?", "output": "C14H18BrNO4"}
+{"input": "Convert the IUPAC name of a molecule N-[1-(2-methoxy-5-methylphenyl)ethyl]-2,5-dimethylaniline into molecular formula.", "output": "C18H23NO"}
+{"input": "Under IUPAC nomenclature, a molecule named 1-[1-hydroxy-3-methyl-2-[2-(methylamino)propanoylamino]butyl]-N-(2-phenylphenyl)-2,3-dihydropyrrolo[2,3-b]pyridine-2-carboxamide is given. What is its corresponding molecular formula?", "output": "C29H35N5O3"}
+{"input": "Can you give the molecular formula of the molecule (1R,2S)-cyclopentane-1,2-diamine;(1S,2R)-cyclopentane-1,2-diol;(1S,2R)-1,2-diazidocyclopentane;[(1R,2S)-2-methylsulfonyloxycyclopentyl] methanesulfonate;dihydrochloride ?", "output": "C22H46Cl2N8O8S2"}
+{"input": "What is the molecular formula of the molecule identified by 1-(5-chlorothiophen-3-yl)-N-(2-phenoxyethyl)ethanamine ?", "output": "C14H16ClNOS"}
+{"input": "For the molecule named octacosa-1,3,5-triene by IUPAC nomenclature, provide its molecular formula.", "output": "C28H52"}
+{"input": "Please write the molecular formula of the molecule N-[(E)-1-(3,4-dimethoxyphenyl)ethylideneamino]-2,3-dihydro-1,4-benzodioxine-3-carboxamide .", "output": "C19H20N2O5"}
+{"input": "What is the molecular formula of the molecule 6-furo[3,2-b]pyridin-2-yl-6-[(6-methyl-4-oxo-1H-naphthalen-2-yl)methyl]azepan-2-one ?", "output": "C25H24N2O3"}
+{"input": "For the molecule named N-[(5-methyloxolan-2-yl)methyl]-2-propan-2-yloxyethanamine by IUPAC nomenclature, provide its molecular formula.", "output": "C11H23NO2"}
+{"input": "Please write the molecular formula of the molecule (2S)-2-[[(1S)-1-(4-bromophenyl)ethyl]amino]-1-morpholin-4-ylpropan-1-one .", "output": "C15H21BrN2O2"}
+{"input": "Convert the IUPAC name of a molecule 5-(4-ethoxyphenyl)-4-[hydroxy-(4-methoxyphenyl)methylidene]-1-(6-methoxy-1,3-benzothiazol-2-yl)pyrrolidine-2,3-dione into molecular formula.", "output": "C28H24N2O6S"}
+{"input": "What is the molecular formula of the molecule 1-[5-[1-[3-chloro-6-[1-[2-(dimethylamino)ethyl]pyrazol-4-yl]-1-methylcyclohexa-2,4-dien-1-yl]sulfonylpyrrolo[2,3-b]pyridin-4-yl]-1,3-thiazol-2-yl]cyclobutan-1-ol ?", "output": "C28H31ClN6O3S2"}
+{"input": "What is the molecular formula of the compound with this IUPAC name 2-(4,4-dimethylcyclohexyl)oxycarbonyl-6-methylcyclohexane-1-carboxylic acid ?", "output": "C17H28O4"}
+{"input": "Translate the chemical IUPAC name 3-amino-4,6-dimethyl-N-[(3R)-7-(6-oxa-3,8-diazabicyclo[3.2.2]nonan-8-yl)-3,4-dihydro-2H-chromen-3-yl]thieno[2,3-b]pyridine-2-carboxamide into its molecular formula.", "output": "C25H29N5O3S"}
+{"input": "Under IUPAC nomenclature, a molecule named (3Z,5Z)-9-[3-[3-[4,6-bis(4-phenylphenyl)-1,3,5-triazin-2-yl]phenyl]phenyl]-10-phenyl-8-azabicyclo[5.3.1]undeca-1(11),3,5,7,9-pentaene is given. What is its corresponding molecular formula?", "output": "C55H38N4"}
+{"input": "What is the molecular formula of the molecule N-[(2,4-dichlorophenyl)methyl]-2-methoxy-4-(trifluoromethyl)pyridine-3-carboxamide ?", "output": "C15H11Cl2F3N2O2"}
+{"input": "4-cyclohexyl-N-[2-[2-(4-cyclohexylpentylamino)ethyldisulfanyl]ethyl]pentan-1-amine;dihydrochloride The above is the IUPAC name of a molecule. Write its molecular formula.", "output": "C26H54Cl2N2S2"}
+{"input": "What is the molecular formula of the molecule ethyl 2-(2-ethoxy-2-oxoethyl)-6-methoxypyridine-3-carboxylate ?", "output": "C13H17NO5"}
+{"input": "Translate the chemical IUPAC name 1-oxo-3-phenyl-N-[2-(piperidine-1-carbonyl)phenyl]-3,4-dihydroisochromene-6-carboxamide into its molecular formula.", "output": "C28H26N2O4"}
+{"input": "What is the molecular formula of the molecule 6-phenyl-3-(propylamino)-4H-1,2,4-triazin-5-one ?", "output": "C12H14N4O"}
+{"input": "Provide the molecular formula for the IUPAC named substance (2S,3S)-3-[[2-(2-amino-1,3-thiazol-4-yl)-2-[1-[(2Z)-2-[(3,4-dihydroxyphenyl)methylidene]hydrazinyl]-2-methyl-1-oxopropan-2-yl]oxyiminoacetyl]amino]-2-methyl-4-oxoazetidine-1-sulfonic acid .", "output": "C20H23N7O9S2"}
+{"input": "Name the molecular formula for the molecule established as 2-fluoro-4-[2-(3-fluoro-4-methylphenyl)ethynyl]-1-(2-phenylethynyl)benzene using the IUPAC nomenclature.", "output": "C23H14F2"}
+{"input": "Translate the chemical IUPAC name (19Z,22Z)-N-(1,3-dihydroxyicosan-2-yl)triaconta-19,22-dienamide into its molecular formula.", "output": "C50H97NO3"}
+{"input": "What is the molecular formula of the molecule identified by 4-ethyl-4-methyl-N-[(1-propan-2-ylcyclopropyl)methyl]-1,3-thiazolidin-2-imine ?", "output": "C13H24N2S"}
+{"input": "Name the molecular formula for the molecule established as 2-[4-(ethoxymethoxy)phenyl]ethanimidamide using the IUPAC nomenclature.", "output": "C11H16N2O2"}
+{"input": "What is the molecular formula of the molecule 1-[4-fluoro-3-(trifluoromethyl)phenyl]-2-phenylpropan-1-amine ?", "output": "C16H15F4N"}
+{"input": "Please write the molecular formula of the molecule (E)-5-ethyldec-8-enoic acid .", "output": "C12H22O2"}
+{"input": "Name the molecular formula for the molecule established as 5-[[4-[2-(2-fluorophenyl)-3-hydroxypropoxy]phenyl]methyl]-1,3-thiazolidine-2,4-dione using the IUPAC nomenclature.", "output": "C19H18FNO4S"}
+{"input": "Please write the molecular formula of the molecule N-(2,6-dichlorophenyl)-2-(5,6,7,8-tetrahydro-[1]benzothiolo[2,3-d]pyrimidin-4-ylsulfanyl)acetamide .", "output": "C18H15Cl2N3OS2"}
+{"input": "For the molecule named 4-chloro-N-(N'-pyrrolidin-1-ylcarbamimidoyl)benzamide by IUPAC nomenclature, provide its molecular formula.", "output": "C12H15ClN4O"}
+{"input": "For the molecule named 3H-benzimidazol-5-yl 4-imidazol-1-ylbenzenesulfonate by IUPAC nomenclature, provide its molecular formula.", "output": "C16H12N4O3S"}
+{"input": "What is the molecular formula of the molecule identified by 4-(4-fluoro-2-methylphenyl)-2-methyl-2H-chromene-6-carboxylic acid ?", "output": "C18H15FO3"}
+{"input": "What is the molecular formula of the compound with this IUPAC name (E)-3-[4-(4-fluorophenyl)-6-methoxy-5-(methoxymethyl)-2-propan-2-ylpyridin-3-yl]prop-2-enal ?", "output": "C20H22FNO3"}
+{"input": "Translate the chemical IUPAC name N-(4-carbazol-9-ylphenyl)-N-(9,9-diphenylfluoren-2-yl)naphtho[1,2-b][1]benzofuran-9-amine into its molecular formula.", "output": "C59H38N2O"}
+{"input": "For the molecule named (2S,4S)-2-methyl-N-(thiophen-3-ylmethyl)piperidine-4-carboxamide by IUPAC nomenclature, provide its molecular formula.", "output": "C12H18N2OS"}
+{"input": "Under IUPAC nomenclature, a molecule named 2-(2-methyl-5-nitroimidazol-1-yl)ethanol;chloride is given. What is its corresponding molecular formula?", "output": "C6H9ClN3O3-"}
+{"input": "What is the molecular formula of the molecule 1-[2-[4,6,10,12,16,18,22,24-octamethoxy-8,14,20-tris(2-pyridin-1-ium-1-ylethyl)-2-pentacyclo[19.3.1.13,7.19,13.115,19]octacosa-1(25),3(28),4,6,9(27),10,12,15,17,19(26),21,23-dodecaenyl]ethyl]pyridin-1-ium ?", "output": "C64H72N4O8+4"}
+{"input": "Under IUPAC nomenclature, a molecule named 3-[[4-[(3-acetylphenyl)iminomethyl]-2-methoxyphenoxy]methyl]benzoic acid is given. What is its corresponding molecular formula?", "output": "C24H21NO5"}
+{"input": "What is the molecular formula of the molecule N-[5-(4-pyridin-2-ylpiperazin-1-yl)pyridin-2-yl]methanesulfonamide ?", "output": "C15H19N5O2S"}
+{"input": "Can you give the molecular formula of the molecule N-(3,4-dichlorophenyl)-N-propylpropanamide ?", "output": "C12H15Cl2NO"}
+{"input": "Can you give the molecular formula of the molecule 1-[4-(morpholin-4-ylmethyl)piperidin-1-yl]-3-(5-phenylthiophen-2-yl)prop-2-en-1-one ?", "output": "C23H28N2O2S"}
+{"input": "[(2S)-1-[(2S)-2-[6-[(2S,5S)-5-[2-[(2S)-1-[(2S)-2-(methoxycarbonylamino)-3-methylbutanoyl]pyrrolidin-2-yl]-3H-benzimidazol-5-yl]-1-[4-(trifluoromethyl)phenyl]pyrrolidin-2-yl]-1H-benzimidazol-2-yl]pyrrolidin-1-yl]-3-methyl-1-oxobutan-2-yl]carbamic acid The above is the IUPAC name of a molecule. Write its molecular formula.", "output": "C46H54F3N9O6"}
+{"input": "For the molecule named 4-(6,7-dihydro-5H-cyclopenta[b]pyridin-7-yl)phenol by IUPAC nomenclature, provide its molecular formula.", "output": "C14H13NO"}
+{"input": "Provide the molecular formula for the IUPAC named substance 7-(oxiran-2-ylmethoxy)-2,3-dihydroinden-1-one .", "output": "C12H12O3"}
+{"input": "For the molecule named 3-amino-N-(4-tert-butylphenyl)propane-1-sulfonamide by IUPAC nomenclature, provide its molecular formula.", "output": "C13H22N2O2S"}
+{"input": "Translate the chemical IUPAC name 2-[(5-methyl-1,3-thiazol-2-yl)methyl]-1-(oxolan-2-ylmethyl)guanidine into its molecular formula.", "output": "C11H18N4OS"}
+{"input": "Provide the molecular formula for the IUPAC named substance 1,1,1-trifluoro-2-[4-[(2R)-4-[[1-(hydroxymethyl)cyclopropyl]methyl]-2-methylpiperazin-1-yl]sulfonylphenyl]propan-2-ol .", "output": "C19H27F3N2O4S"}
+{"input": "Under IUPAC nomenclature, a molecule named N-(4-bromophenyl)-3-[4-(2,2-dimethylpropanoyl)piperazin-1-yl]propanamide is given. What is its corresponding molecular formula?", "output": "C18H26BrN3O2"}
+{"input": "Provide the molecular formula for the IUPAC named substance 2-[(1S,4aS,8aS)-4a-hydroxy-1-(3,4,5-trimethoxyphenyl)-2,3,4,5,6,7,8,8a-octahydro-1H-isoquinolin-2-ium-2-yl]acetonitrile .", "output": "C20H29N2O4+"}
+{"input": "What is the molecular formula of the molecule (1aS,6aR)-1-ethoxycarbonyl-1,1a,2,3,4,5,6,6a-octahydrocyclopropa[f]indene-4-carboxylic acid ?", "output": "C14H18O4"}
+{"input": "Convert the IUPAC name of a molecule [3-acetyloxy-6-(4-methoxyphenoxy)-3,6-dihydro-2H-pyran-2-yl]methyl acetate into molecular formula.", "output": "C17H20O7"}
+{"input": "Please write the molecular formula of the molecule 1-(4-bromo-3-ethylphenyl)ethanone .", "output": "C10H11BrO"}
+{"input": "Name the molecular formula for the molecule established as N-(4-dibenzofuran-4-ylphenyl)-N-(4-phenylphenyl)spiro[fluorene-9,7'-fluoreno[2,3-b][1]benzofuran]-1-amine using the IUPAC nomenclature.", "output": "C61H37NO2"}
+{"input": "Under IUPAC nomenclature, a molecule named (8S,9S,10R,13S,14S,17R)-17-[(2S)-3-ethyl-6-methylhept-3-en-2-yl]-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one is given. What is its corresponding molecular formula?", "output": "C29H46O"}
+{"input": "Convert the IUPAC name of a molecule 1-[4-(dimethylamino)-6-methylpyrimidin-2-yl]-3-[(2S)-1-hydroxybutan-2-yl]urea into molecular formula.", "output": "C12H21N5O2"}
+{"input": "Please write the molecular formula of the molecule 3-[(4-methylphenyl)sulfonylamino]propyl methanesulfonate .", "output": "C11H17NO5S2"}
+{"input": "Name the molecular formula for the molecule established as 3-amino-2,4-difluoro-N-[2-(2-methylpropoxy)ethyl]benzenesulfonamide using the IUPAC nomenclature.", "output": "C12H18F2N2O3S"}
+{"input": "Can you give the molecular formula of the molecule 4-(4-acetylpiperazin-1-yl)sulfonyl-N-[3-(1,3-thiazol-2-yl)phenyl]benzamide ?", "output": "C22H22N4O4S2"}
+{"input": "Can you give the molecular formula of the molecule 1-[3-[4-amino-3-(4-phenoxyphenyl)pyrazolo[3,4-d]pyrimidin-1-yl]pyrrolidin-1-yl]-4-[cyclobutyl(ethyl)amino]but-2-en-1-one ?", "output": "C31H35N7O2"}
+{"input": "4-(3-chloro-4-fluorophenyl)-2-methyl-6-N-(2-phenoxyethyl)pyrazolo[3,4-d]pyrimidine-3,6-diamine is the IUPAC name of a molecule. Please give its molecular formula.", "output": "C20H18ClFN6O"}
+{"input": "Name the molecular formula for the molecule established as 2-(1,4-dimethyl-(1,4-15N2)1,4-diazinan-2-yl)-2-methyl-N-[3-((113C)methyl(15N)amino)-3-oxo(313C)propyl]propan(15N)amide;2-[1,4-di((113C)methyl)-(415N)1,4-diazinan-2-yl]-2-methyl-N-[3-((113C)methyl(15N)amino)-3-oxo(313C)propyl]propanamide;2-[1,4-di((113C)methyl)piperazin-2-yl]-2-methyl-N-[3-((113C)methyl(15N)amino)-3-oxo(313C)propyl]propan(15N)amide;(2,5-dioxopyrrolidin-1-yl) acetate;2-methyl-N-[3-((113C)methyl(15N)amino)-3-oxo(313C)propyl]-2-(4-methyl-1-(113C)methyl-(1,4-15N2)1,4-diazinan-2-yl)propanamide;2-methyl-N-[3-((113C)methyl(15N)amino)-3-oxo(313C)propyl]-2-(4-methyl-1-(113C)methyl-(415N)1,4-diazinan-2-yl)propan(15N)amide;2-methyl-N-[3-((113C)methyl(15N)amino)-3-oxo(2,3-13C2)propyl]-2-(4-methyl-1-(113C)methylpiperazin-2-yl)propan(15N)amide using the IUPAC nomenclature.", "output": "C120H210N30O36"}
+{"input": "Name the molecular formula for the molecule established as 6-methyl-2-[3-(5-methyl-1H-pyrazol-3-yl)piperidin-1-yl]pyridine-3-carbonitrile using the IUPAC nomenclature.", "output": "C16H19N5"}
+{"input": "Under IUPAC nomenclature, a molecule named ethyl 6-benzyl-2-[2-[[4-(2-methoxyphenyl)-5-[(2-phenylphenoxy)methyl]-1,2,4-triazol-3-yl]sulfanyl]propanoylamino]-5,7-dihydro-4H-thieno[2,3-c]pyridine-3-carboxylate is given. What is its corresponding molecular formula?", "output": "C42H41N5O5S2"}
+{"input": "Under IUPAC nomenclature, a molecule named 2-[(3-acetylphenoxy)methyl]-6-oxo-1H-pyrimidine-5-carboxylic acid is given. What is its corresponding molecular formula?", "output": "C14H12N2O5"}
+{"input": "(1E)-3-acetyl-1-[(3,4-dimethyl-5-oxo-2H-furan-2-yl)oxymethylidene]-4,8b-dihydro-3aH-indeno[2,1-b]pyrrol-2-one The above is the IUPAC name of a molecule. Write its molecular formula.", "output": "C20H19NO5"}
+{"input": "What is the molecular formula of the compound with this IUPAC name cyclohexyl 2-[(5-pyridin-3-yl-1H-1,2,4-triazol-3-yl)sulfanyl]acetate ?", "output": "C15H18N4O2S"}
+{"input": "Under IUPAC nomenclature, a molecule named 2-methoxy-N-methyl-3-propan-2-yloxypropan-1-amine is given. What is its corresponding molecular formula?", "output": "C8H19NO2"}
+{"input": "Translate the chemical IUPAC name N-[(2,4-dimethyl-1,3-thiazol-5-yl)-(1-propylpyrazol-4-yl)methyl]ethanamine into its molecular formula.", "output": "C14H22N4S"}
+{"input": "Name the molecular formula for the molecule established as 2,3-dihydro-1H-indene;(2S)-1-[(E,4S)-4-[(2-formamidoacetyl)-methylamino]-2,5-dimethylhex-2-enoyl]pyrrolidine-2-carboxylic acid;propane;1-propan-2-ylpiperidine using the IUPAC nomenclature.", "output": "C37H62N4O5"}
+{"input": "(5E)-3-butan-2-yl-5-[[2-(3,5-dimethylpiperidin-1-yl)-4-oxopyrido[1,2-a]pyrimidin-3-yl]methylidene]-2-sulfanylidene-1,3-thiazolidin-4-one is the IUPAC name of a molecule. Please give its molecular formula.", "output": "C23H28N4O2S2"}
+{"input": "Convert the IUPAC name of a molecule N-butan-2-yl-2-[[(3-chlorophenyl)carbamoyl-propan-2-ylamino]methyl]-1,3-thiazole-4-carboxamide into molecular formula.", "output": "C19H25ClN4O2S"}
+{"input": "Translate the chemical IUPAC name 1-(4-fluorophenyl)-1-phenylmethoxybutan-2-amine into its molecular formula.", "output": "C17H20FNO"}
+{"input": "Name the molecular formula for the molecule established as 5,6-dianilino-5-[3-(methylamino)propyl]-4H-isoindole-1,3-dione using the IUPAC nomenclature.", "output": "C24H26N4O2"}
+{"input": "Can you give the molecular formula of the molecule [(4R,4aS,7R,7aR,12bS)-3-(cyclopropylmethyl)-9-hydroxy-7-[2-methylpropyl-[3-[4-(trifluoromethyl)phenyl]prop-2-ynoyl]amino]-1,2,4,5,6,7,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-4a-yl] acetate ?", "output": "C36H39F3N2O5"}
+{"input": "Translate the chemical IUPAC name [4-(7-fluoro-1,3-benzoxazol-2-yl)-4-oxobutyl] N-(3-cyclohexyl-1-oxo-1-pyrrolidin-1-ylpropan-2-yl)carbamate into its molecular formula.", "output": "C25H32FN3O5"}
+{"input": "Can you give the molecular formula of the molecule 2-[(2-tert-butylsulfanylacetyl)amino]-N-cyclopropylbenzamide ?", "output": "C16H22N2O2S"}
+{"input": "Name the molecular formula for the molecule established as 2-[2-ethyl-3-(2-methylpentyl)-1-oxamoylindolizin-8-yl]oxyacetic acid using the IUPAC nomenclature.", "output": "C20H26N2O5"}
+{"input": "Translate the chemical IUPAC name methyl 4-[[4-[(2-chlorophenyl)methylamino]-6-methylpyrimidin-2-yl]amino]benzoate into its molecular formula.", "output": "C20H19ClN4O2"}
+{"input": "What is the molecular formula of the compound with this IUPAC name 3-amino-3-[4-(1,8-diazaspiro[5.5]undecan-8-yl)-1H-pyrrolo[2,3-b]pyridin-3-yl]prop-2-enethial ?", "output": "C19H25N5S"}
+{"input": "What is the molecular formula of the molecule 2-amino-1-[(2-fluorophenyl)methyl]-1-methylguanidine ?", "output": "C9H13FN4"}
+{"input": "Translate the chemical IUPAC name N-(2-amino-1-cyclopropylethyl)-5-bromo-2,3-dihydro-1,4-benzodioxine-7-carboxamide;hydrochloride into its molecular formula.", "output": "C14H18BrClN2O3"}
+{"input": "Can you give the molecular formula of the molecule 2-(3-aminophenoxy)-N-(5-methyl-1,2-oxazol-3-yl)acetamide ?", "output": "C12H13N3O3"}
+{"input": "Convert the IUPAC name of a molecule tert-butyl-[[(2R,5R)-5-[[tert-butyl(dimethyl)silyl]oxymethyl]-1-(pyridin-2-ylmethyl)pyrrolidin-2-yl]methoxy]-dimethylsilane into molecular formula.", "output": "C24H46N2O2Si2"}
+{"input": "Translate the chemical IUPAC name 1-(2-amino-4-chlorophenyl)-2-pyrrolidin-3-ylethanone into its molecular formula.", "output": "C12H15ClN2O"}
+{"input": "Can you give the molecular formula of the molecule N-ethyl-2,4-difluoro-5-propanoylbenzenesulfonamide ?", "output": "C11H13F2NO3S"}
+{"input": "Please write the molecular formula of the molecule 2-bromo-N-methyl-N-(4-oxocyclohexyl)benzenesulfonamide .", "output": "C13H16BrNO3S"}
+{"input": "Please write the molecular formula of the molecule 3-(1-methylimidazol-2-yl)-1-(4-methylphenyl)-N-propylpropan-1-amine .", "output": "C17H25N3"}
+{"input": "What is the molecular formula of the molecule identified by 2-nitro-5-(2,4,6-trichlorophenyl)pyridine ?", "output": "C11H5Cl3N2O2"}
+{"input": "Provide the molecular formula for the IUPAC named substance N-[(1-ethylpyrazol-4-yl)methyl]-1H-indazol-6-amine .", "output": "C13H15N5"}
+{"input": "What is the molecular formula of the molecule [(4R,4aS,12bS)-3-(cyclopropylmethyl)-7-[ethyl(6-phenylhexyl)amino]-4a-hydroxy-1,2,4,5,6,7,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-9-yl] acetate ?", "output": "C36H48N2O4"}
+{"input": "What is the molecular formula of the molecule identified by N-[(3R,4S)-5-cyclopentyl-4-[[6-(3,5-dimethoxyphenyl)-8-methyl-7-oxopyrido[2,3-d]pyrimidin-2-yl]amino]oxolan-3-yl]prop-2-enamide ?", "output": "C28H33N5O5"}
+{"input": "What is the molecular formula of the molecule 1-(2,3,4,4a,5,6,7,7a-octahydrocyclopenta[b]pyridin-1-yl)-2-[(2-methylpropan-2-yl)oxy]ethanone ?", "output": "C14H25NO2"}
+{"input": "N-[[2-[[2-(diethylaminomethyl)phenyl]diselanyl]phenyl]methyl]-N-ethylethanamine The above is the IUPAC name of a molecule. Write its molecular formula.", "output": "C22H32N2Se2"}
+{"input": "Convert the IUPAC name of a molecule (4S)-2,4-dimethyl-2-azabicyclo[2.2.0]hex-5-ene into molecular formula.", "output": "C7H11N"}
+{"input": "What is the molecular formula of the molecule 3-chloro-3-(2,3-dichlorophenyl)-2-methylprop-2-enenitrile ?", "output": "C10H6Cl3N"}
+{"input": "What is the molecular formula of the molecule identified by 4-[(4-methoxycarbonyl-5-methylfuran-2-yl)methylamino]-2,2-dimethylbutanoic acid ?", "output": "C14H21NO5"}
+{"input": "Provide the molecular formula for the IUPAC named substance 2-[(4,5-dimethyl-1,2,4-triazol-3-yl)methyl]-1-(2-methylcyclopropyl)-3-(oxolan-2-ylmethyl)guanidine .", "output": "C15H26N6O"}
+{"input": "Can you give the molecular formula of the molecule [1-(1-methylimidazol-4-yl)-2-(1-pentan-3-ylpyrazol-3-yl)ethyl]hydrazine ?", "output": "C14H24N6"}
+{"input": "What is the molecular formula of the molecule identified by 6-ethyl-7-methyl-2-pentan-2-yl-3H-[1,2,4]triazolo[1,5-a]pyridin-5-one ?", "output": "C14H21N3O"}
+{"input": "Name the molecular formula for the molecule established as 2-methoxy-3,5-dimethyl-6-[1,3,5-trimethyl-6-[(E)-4-methyl-5-oxohept-2-en-2-yl]cyclohexa-2,4-dien-1-yl]oxan-4-one using the IUPAC nomenclature.", "output": "C25H38O4"}
+{"input": "For the molecule named 4-chloro-2,5-dimethyl-N-(pyridin-2-ylmethylideneamino)pyrazole-3-carboxamide by IUPAC nomenclature, provide its molecular formula.", "output": "C12H12ClN5O"}
+{"input": "Can you give the molecular formula of the molecule 4-tert-butyl-N-[4-[5-(hydroxymethyl)furan-2-yl]phenyl]benzamide ?", "output": "C22H23NO3"}
+{"input": "(4E)-4-[2-(3-hydroxyprop-1-ynyl)cyclopent-2-en-1-ylidene]but-2-yn-1-ol The above is the IUPAC name of a molecule. Write its molecular formula.", "output": "C12H12O2"}
+{"input": "Can you give the molecular formula of the molecule trimethylalumane;trifluoride ?", "output": "C3H9AlF3-3"}
+{"input": "What is the molecular formula of the molecule (1S,2S,4S,5R,7S)-2,7-dimethyl-4-phenylmethoxy-7-prop-2-enylbicyclo[3.2.1]octan-6-one ?", "output": "C20H26O2"}
+{"input": "Can you give the molecular formula of the molecule 2-[[(2-methoxyethylamino)-[(1-thiophen-2-ylcyclohexyl)methylamino]methylidene]amino]-N,N-dimethylacetamide;hydroiodide ?", "output": "C19H33IN4O2S"}
+{"input": "Can you give the molecular formula of the molecule 12-(2,6-dimethylphenyl)-8-imino-8-oxo-15-oxa-8lambda6-thia-1,9,11,18,22-pentazatetracyclo[14.4.1.13,7.110,14]tricosa-3(23),4,6,10,12,14(22)-hexaen-2-one ?", "output": "C24H26N6O3S"}
+{"input": "6-[[3-(5-methyl-1,2-oxazol-3-yl)-[1,2,4]triazolo[3,4-a]phthalazin-6-yl]oxymethyl]-N-morpholin-4-ylpyridine-3-carboxamide is the IUPAC name of a molecule. Please give its molecular formula.", "output": "C24H22N8O4"}
+{"input": "Translate the chemical IUPAC name (3S)-9-fluoro-3-[[5-[3-morpholin-4-yl-5-(trifluoromethyl)pyridin-2-yl]-1,3,4-oxadiazol-2-yl]amino]-5-phenyl-1,3-dihydro-1,4-benzodiazepin-2-one into its molecular formula.", "output": "C27H21F4N7O3"}
+{"input": "What is the molecular formula of the molecule identified by N-[6-amino-1-(2-methylpropyl)-2,4-dioxopyrimidin-5-yl]-N-(2-methoxyethyl)-2-(6-oxo-3-phenylpyridazin-1-yl)acetamide ?", "output": "C23H28N6O5"}
+{"input": "Name the molecular formula for the molecule established as 1-[2-methyl-6-(4-methylphenyl)morpholin-4-yl]-2-thiophen-2-ylethanone using the IUPAC nomenclature.", "output": "C18H21NO2S"}
+{"input": "Translate the chemical IUPAC name 3,3-dimethyl-4-pyrrolidin-2-ylbutan-2-one into its molecular formula.", "output": "C10H19NO"}
+{"input": "Please write the molecular formula of the molecule 2-methyl-4-methylidene-6,7-dihydro-5H-furo[2,3-b]pyridine .", "output": "C9H11NO"}
+{"input": "Name the molecular formula for the molecule established as 2-[3-[[3-[3-(5-hydroxypyridin-3-yl)-1H-indazol-5-yl]-2-nitrophenyl]sulfamoyl]propoxy]acetic acid using the IUPAC nomenclature.", "output": "C23H21N5O8S"}
+{"input": "Under IUPAC nomenclature, a molecule named 5-[[5-(2-ethoxyanilino)-1,3,4-thiadiazol-2-yl]sulfanyl]pentanenitrile is given. What is its corresponding molecular formula?", "output": "C15H18N4OS2"}
+{"input": "Can you give the molecular formula of the molecule tert-butyl N-[(2S,11S)-2-[[(2S)-5-amino-1-[3-(4-amino-4-oxobutyl)-2-chlorophenoxy]-5-oxopentan-2-yl]carbamoyl]-12-oxo-1-azatricyclo[6.4.1.04,13]trideca-4,6,8(13)-trien-11-yl]carbamate ?", "output": "C33H42ClN5O7"}
+{"input": "Can you give the molecular formula of the molecule tert-butyl N-[1-oxo-3-phenylmethoxy-1-(4-phenylpiperazin-1-yl)propan-2-yl]carbamate ?", "output": "C25H33N3O4"}
+{"input": "What is the molecular formula of the molecule identified by 2-[[6-[2-[(2S,4R)-1-[2-cyclohexyl-4-(2-nitrophenyl)-4-oxobutanoyl]-4-phenylmethoxypyrrolidin-2-yl]-2-oxoethyl]-4,5-dioxononanoyl]amino]-2-phenylacetic acid ?", "output": "C46H53N3O11"}
+{"input": "What is the molecular formula of the molecule identified by [3-chloro-2-(4-pyridin-2-ylpiperazin-1-yl)pyridin-4-yl]methanamine ?", "output": "C15H18ClN5"}
+{"input": "2-[[4-[5-[(5S)-5-(acetamidomethyl)-4,5-dihydro-1,3-oxazol-3-ium-3-yl]pyridin-2-yl]phenyl]methylcarbamoyl]benzoic acid The above is the IUPAC name of a molecule. Write its molecular formula.", "output": "C26H25N4O5+"}
+{"input": "What is the molecular formula of the molecule (1S,4S,9S,10S,13R,14R)-5,5,9,14-tetramethyltetracyclo[11.2.1.01,10.04,9]hexadecane ?", "output": "C20H34"}
+{"input": "Name the molecular formula for the molecule established as 3-chloro-N-(furan-3-ylmethyl)-N-methyl-4-[(propan-2-ylamino)methyl]aniline using the IUPAC nomenclature.", "output": "C16H21ClN2O"}
+{"input": "What is the molecular formula of the molecule [2-[[(1S)-1-(2,4-difluorophenyl)ethyl]amino]-2-oxoethyl] 3-methyl-4-oxophthalazine-1-carboxylate ?", "output": "C20H17F2N3O4"}
+{"input": "What is the molecular formula of the molecule 4-chloro-N'-(2-nitrophenyl)-3-piperidin-1-ylsulfonylbenzohydrazide ?", "output": "C18H19ClN4O5S"}
+{"input": "What is the molecular formula of the molecule 4-tert-butylphenol;carbonic acid ?", "output": "C21H30O5"}
+{"input": "Convert the IUPAC name of a molecule N'-[(2S,3S)-1-[(2,4-dimethylphenyl)methylamino]-3-hydroxyhexan-2-yl]-N-[3-(methylamino)-5-(trifluoromethyl)phenyl]propanediamide into molecular formula.", "output": "C26H35F3N4O3"}
+{"input": "Please write the molecular formula of the molecule [(1S,4S,7R,9S,10R,11R,12R,15S)-4-acetyloxy-1,11,15-trihydroxy-9,10,12,14,17,17-hexamethyl-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate .", "output": "C31H42O8"}
+{"input": "tert-butyl 2-[(2S)-2-[[(3S,6S,9S,12S)-3-[(2-methoxy-2-oxoethyl)carbamoyl]-5,8,11-trioxo-6,9-di(propan-2-yl)-1,14-dioxa-4,7,10-triazacyclooctadec-12-yl]carbamoyl]pyrrolidine-1-carbonyl]pyrrolidine-1-carboxylate is the IUPAC name of a molecule. Please give its molecular formula.", "output": "C38H63N7O12"}
+{"input": "2-[4-(5-chloro-1,3-dimethylpyrazole-4-carbonyl)piperazin-1-yl]-2-(4-chlorophenyl)acetamide The above is the IUPAC name of a molecule. Write its molecular formula.", "output": "C18H21Cl2N5O2"}
+{"input": "Provide the molecular formula for the IUPAC named substance [2-[(2,2-dimethyl-5H-cyclopenta[f][1,3]benzodioxol-6-yl)sulfonyl]ethoxy-hydroxyphosphoryl]oxy-methylphosphinic acid;[2-(furan-2-ylsulfonyl)ethoxy-hydroxyphosphoryl]oxy-methylphosphinic acid;[2-(furan-3-ylsulfonyl)ethoxy-hydroxyphosphoryl]oxy-methylphosphinic acid;[hydroxy-[2-(1H-inden-2-ylsulfonyl)ethoxy]phosphoryl]oxy-methylphosphinic acid;[hydroxy-[2-(1H-indol-3-ylsulfonyl)ethoxy]phosphoryl]oxy-methylphosphinic acid;[hydroxy-[2-(1-methylpyrrol-2-yl)sulfonylethoxy]phosphoryl]oxy-methylphosphinic acid;[hydroxy-[2-(1-methylpyrrol-3-yl)sulfonylethoxy]phosphoryl]oxy-methylphosphinic acid;[hydroxy-[2-(2-propan-2-ylphenyl)sulfonylethoxy]phosphoryl]oxy-methylphosphinic acid;[hydroxy(2-thiophen-2-ylsulfonylethoxy)phosphoryl]oxy-methylphosphinic acid;[hydroxy(2-thiophen-3-ylsulfonylethoxy)phosphoryl]oxy-methylphosphinic acid .", "output": "C94H149N3O84P20S12"}
+{"input": "Provide the molecular formula for the IUPAC named substance 3'-(4-dibenzofuran-4-ylphenyl)-12'-phenylspiro[fluorene-9,7'-indeno[1,2-a]carbazole] .", "output": "C55H33NO"}
+{"input": "Provide the molecular formula for the IUPAC named substance 1-(5-piperidin-1-ylsulfonylpyridin-2-yl)pyrrolidine-3-carboxamide .", "output": "C15H22N4O3S"}
+{"input": "Can you give the molecular formula of the molecule 1-[(1S,2S,4R)-2-cyano-4-hydroxycyclohexyl]-3-[4-(trifluoromethoxy)anilino]pyrazole-4-carboxamide ?", "output": "C18H18F3N5O3"}
+{"input": "[(2R)-3-heptadecanoyloxy-2-[(5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoyl]oxypropyl] (7Z,10Z,13Z,16Z)-docosa-7,10,13,16-tetraenoate The above is the IUPAC name of a molecule. Write its molecular formula.", "output": "C62H104O6"}
+{"input": "For the molecule named 2-[2-bromo-6-methoxy-4-[(4-nitrophenyl)iminomethyl]phenoxy]-N-phenylacetamide by IUPAC nomenclature, provide its molecular formula.", "output": "C22H18BrN3O5"}
+{"input": "Please write the molecular formula of the molecule tert-butyl 2-(chloromethyl)morpholine-2-carboxylate .", "output": "C10H18ClNO3"}
+{"input": "Can you give the molecular formula of the molecule (5E)-5-[(3-bromo-4-methoxyphenyl)methylidene]-1-(4-fluorophenyl)-1,3-diazinane-2,4,6-trione ?", "output": "C18H12BrFN2O4"}
+{"input": "What is the molecular formula of the molecule [4-[benzyl(ethoxy)phosphoryl]oxyphenyl] octanoate ?", "output": "C23H31O5P"}
+{"input": "What is the molecular formula of the molecule identified by methyl 2-chloropyridine-4-carboximidothioate ?", "output": "C7H7ClN2S"}
+{"input": "For the molecule named tert-butyl N-cyclopropyl-N-[2-(pentylamino)ethyl]carbamate by IUPAC nomenclature, provide its molecular formula.", "output": "C15H30N2O2"}
+{"input": "For the molecule named N-cyclohexyl-6-(3-piperidin-1-ylpropoxy)-3,4-dihydro-1H-isoquinoline-2-carboxamide by IUPAC nomenclature, provide its molecular formula.", "output": "C24H37N3O2"}
+{"input": "What is the molecular formula of the molecule N'-(2-cyanophenyl)-N-[2-(2,4-dichlorophenyl)ethyl]oxamide ?", "output": "C17H13Cl2N3O2"}
+{"input": "Convert the IUPAC name of a molecule N-[4-[6-(4,5-dimethylimidazol-1-yl)pyridazin-3-yl]oxyphenyl]-4-phenoxybenzamide into molecular formula.", "output": "C28H23N5O3"}
+{"input": "For the molecule named N-[3-(methanesulfonamido)propyl]morpholine-2-carboxamide by IUPAC nomenclature, provide its molecular formula.", "output": "C9H19N3O4S"}
+{"input": "What is the molecular formula of the molecule tert-butyl (3S,4R)-3-(aminomethyl)-4-[[(2-methylpropan-2-yl)oxycarbonylamino]methyl]pyrrolidine-1-carboxylate ?", "output": "C16H31N3O4"}
+{"input": "33-tert-butyl-30-(2,6-dicyclohexylcyclohexyl)-N,N,22,36-tetraphenylspiro[16,26-dioxa-22,30,36-triaza-1,9-diboraundecacyclo[29.11.1.19,17.02,29.04,27.06,25.08,23.010,15.035,43.037,42.021,44]tetratetraconta-2,4(27),6(25),7,10,12,14,17,19,21(44),23,28,31,33,35(43),37,39,41-octadecaene-5,9'-fluorene]-19-amine is the IUPAC name of a molecule. Please give its molecular formula.", "output": "C95H84B2N4O2"}
+{"input": "Provide the molecular formula for the IUPAC named substance N-[(4-bromo-5-methylthiophen-2-yl)methyl]-6-chloropyridin-3-amine .", "output": "C11H10BrClN2S"}
+{"input": "What is the molecular formula of the molecule ethyl 2-[[2-[(2E)-2-[(2,3-dichlorophenyl)methylidene]hydrazinyl]-2-oxoacetyl]amino]-5,6,7,8-tetrahydro-4H-cyclohepta[b]thiophene-3-carboxylate ?", "output": "C21H21Cl2N3O4S"}
+{"input": "Convert the IUPAC name of a molecule (8S)-N-(4-carbamimidoylthiophen-2-yl)-7-[2-[(4-phenoxybenzoyl)amino]acetyl]-1,4-dioxa-7-azaspiro[4.4]nonane-8-carboxamide into molecular formula.", "output": "C27H27N5O6S"}
+{"input": "Translate the chemical IUPAC name 11-(12H-imidazo[1,2-f]phenanthridin-12-id-11-yloxy)-2-phenyl-12H-imidazo[1,2-f]phenanthridin-12-ide;palladium(2+) into its molecular formula.", "output": "C36H20N4OPd"}
+{"input": "Can you give the molecular formula of the molecule (9Z)-2-methylidene-11-(4-methylphenyl)-11-azatetracyclo[10.8.0.03,8.015,20]icosa-1(12),3,5,7,9,13,15,17,19-nonaene ?", "output": "C27H21N"}
+{"input": "Please write the molecular formula of the molecule 1-(5-bromo-2-methylphenyl)-2-(6-methoxypyrimidin-4-yl)ethanol .", "output": "C14H15BrN2O2"}
+{"input": "N-[[2-(benzimidazol-1-yl)pyridin-3-yl]methyl]-3,4-dihydro-2H-chromene-3-carboxamide is the IUPAC name of a molecule. Please give its molecular formula.", "output": "C23H20N4O2"}
+{"input": "Name the molecular formula for the molecule established as 2-(8-fluoroimidazo[1,2-a]pyridin-3-yl)-3-methylbutanoic acid using the IUPAC nomenclature.", "output": "C12H13FN2O2"}
+{"input": "What is the molecular formula of the molecule identified by 5-[[5-[(2-chloropyridin-4-yl)methoxy]-1-hydroxyisoindol-2-yl]methyl]-5-(4-fluorophenyl)imidazolidine-2,4-dione ?", "output": "C24H18ClFN4O4"}
+{"input": "What is the molecular formula of the molecule 1-[4-[(1S)-2-hydroxy-1-phenylethoxy]piperidin-1-yl]ethanone ?", "output": "C15H21NO3"}
+{"input": "For the molecule named N-(2-amino-5-pyridin-3-ylphenyl)-4-[4-(4-methylpiperazin-1-yl)butanoyl]benzamide;tert-butyl N-[2-[[4-[4-(4-methylpiperazin-1-yl)butanoyl]benzoyl]amino]-4-pyridin-3-ylphenyl]carbamate by IUPAC nomenclature, provide its molecular formula.", "output": "C59H70N10O6"}
+{"input": "(1,3-dimethylpyrazol-4-yl)-[3-[5-(4-fluorophenyl)-1,2,4-oxadiazol-3-yl]-3-(2-methoxyethyl)piperidin-1-yl]methanone is the IUPAC name of a molecule. Please give its molecular formula.", "output": "C22H26FN5O3"}
+{"input": "What is the molecular formula of the molecule N,N-diethyl-2-[4-(methylaminomethyl)pyrazol-1-yl]ethanamine ?", "output": "C11H22N4"}
+{"input": "Provide the molecular formula for the IUPAC named substance 2-[2-(4-methyl-1,3-thiazol-5-yl)ethoxy]pyridine-3-sulfonamide .", "output": "C11H13N3O3S2"}
+{"input": "What is the molecular formula of the compound with this IUPAC name 5-amino-3-[[4-[(E)-2-[4-[(7-amino-1-hydroxy-3-sulfonaphthalen-2-yl)diazenyl]-2-sulfophenyl]ethenyl]-3-sulfophenyl]diazenyl]-4-hydroxynaphthalene-2,7-disulfonic acid ?", "output": "C34H26N6O17S5"}
+{"input": "ethyl 1-amino-2,5-diethyl-4-sulfamoylpyrrole-3-carboxylate The above is the IUPAC name of a molecule. Write its molecular formula.", "output": "C11H19N3O4S"}
+{"input": "For the molecule named 1-(2-methylphenyl)-3-(3-methylsulfinylphenyl)urea by IUPAC nomenclature, provide its molecular formula.", "output": "C15H16N2O2S"}
+{"input": "Name the molecular formula for the molecule established as 3-[4-fluoro-3-(trifluoromethyl)phenyl]-4-methyl-1H-1,2,4-triazole-5-thione using the IUPAC nomenclature.", "output": "C10H7F4N3S"}
+{"input": "For the molecule named N,N-dimethyl-2-(3-piperidin-3-yl-1,2,4-oxadiazol-5-yl)ethanamine by IUPAC nomenclature, provide its molecular formula.", "output": "C11H20N4O"}
+{"input": "For the molecule named ethyl 2-chloro-4-(2-cyanoanilino)thieno[2,3-d]pyrimidine-5-carboxylate by IUPAC nomenclature, provide its molecular formula.", "output": "C16H11ClN4O2S"}
+{"input": "Name the molecular formula for the molecule established as 8-[2-[3-[(2R)-2-methylpiperazin-1-yl]pyrazin-2-yl]oxyethoxy]quinolin-2-amine using the IUPAC nomenclature.", "output": "C20H24N6O2"}
+{"input": "Translate the chemical IUPAC name N-benzyl-5-[(5-ethyl-1H-1,2,4-triazol-3-yl)sulfanylmethyl]-1,3,4-thiadiazole-2-carboxamide into its molecular formula.", "output": "C15H16N6OS2"}
+{"input": "4-bromo-N-[(4-tert-butylphenyl)methyl]-5-ethyl-2-methylpyrazole-3-carboxamide is the IUPAC name of a molecule. Please give its molecular formula.", "output": "C18H24BrN3O"}
+{"input": "What is the molecular formula of the compound with this IUPAC name 1-(3,4-difluorophenyl)-N-methyl-1-(1,3-thiazol-2-yl)methanamine ?", "output": "C11H10F2N2S"}
+{"input": "Name the molecular formula for the molecule established as bis(2,6-dimethylnon-1-en-3-yn-5-yloxy)-dimethylsilane using the IUPAC nomenclature.", "output": "C24H40O2Si"}
+{"input": "Name the molecular formula for the molecule established as 3-amino-N-[2-[2-methoxyethyl(methyl)amino]ethyl]-2-methylcyclohexane-1-carboxamide using the IUPAC nomenclature.", "output": "C14H29N3O2"}
+{"input": "Can you give the molecular formula of the molecule 2-(5-bromo-2,3-difluorophenoxy)-N-(3-methylbutyl)propanamide ?", "output": "C14H18BrF2NO2"}
+{"input": "What is the molecular formula of the compound with this IUPAC name (2S)-N-[(3S,7S,9S,13S,16S,19S)-9-amino-13,16,17-trimethyl-2,6,12,15,18-pentaoxo-5-oxa-1,11,14,17-tetrazatricyclo[17.3.0.07,11]docosan-3-yl]-2-(3-cyclohexylpropanoylamino)-3-(3,5-difluorophenyl)propanamide ?", "output": "C38H53F2N7O8"}
+{"input": "Provide the molecular formula for the IUPAC named substance 4-(4-acetylphenoxy)-1-[4-(aminomethyl)piperidin-1-yl]butan-1-one .", "output": "C18H26N2O3"}
+{"input": "What is the molecular formula of the compound with this IUPAC name 3-[[(1S)-2-(3-ethoxypropyl)-3-oxo-1H-isoindol-1-yl]amino]-N-(2-methylpropyl)benzamide ?", "output": "C24H31N3O3"}
+{"input": "N-[(1-methylpyrrol-2-yl)methyl]-3-piperidin-4-yloxypropanamide is the IUPAC name of a molecule. Please give its molecular formula.", "output": "C14H23N3O2"}
+{"input": "3-[2-(aminomethyl)phenoxy]-N-propan-2-yl-N-(2,2,2-trifluoroethyl)propan-1-amine The above is the IUPAC name of a molecule. Write its molecular formula.", "output": "C15H23F3N2O"}
+{"input": "Please write the molecular formula of the molecule 2-amino-3-(3-methoxyphenyl)sulfanylpropanamide .", "output": "C10H14N2O2S"}
+{"input": "What is the molecular formula of the molecule identified by N-cyclopropyl-N-ethyl-2-[2-(methylaminomethyl)pyrrolidin-1-yl]acetamide ?", "output": "C13H25N3O"}
+{"input": "What is the molecular formula of the compound with this IUPAC name N-[4-[2,2,6,6-tetramethyl-4-(prop-2-enoylamino)piperidin-1-yl]sulfonylphenyl]furan-2-carboxamide ?", "output": "C23H29N3O5S"}
+{"input": "What is the molecular formula of the compound with this IUPAC name 4-[4-(hydroxymethyl)-N-[4-(hydroxymethyl)phenyl]anilino]benzaldehyde ?", "output": "C21H19NO3"}
+{"input": "For the molecule named 4-chloro-1-cyclopropyl-N-(1H-indazol-3-yl)pyrrole-2-carboxamide by IUPAC nomenclature, provide its molecular formula.", "output": "C15H13ClN4O"}
+{"input": "What is the molecular formula of the molecule identified by 1-(2-chloroprop-2-enyl)-3-methylpiperidine-3-carboxylic acid ?", "output": "C10H16ClNO2"}
+{"input": "Convert the IUPAC name of a molecule N-[3-methyl-1-[3-methyl-4-(4-methylbenzoyl)piperazin-1-yl]-1-oxobutan-2-yl]-3-(trifluoromethyl)benzamide into molecular formula.", "output": "C26H30F3N3O3"}
+{"input": "N-[(5-chloro-2-fluorophenyl)methyl]-3-methoxy-2-methylpropan-1-amine The above is the IUPAC name of a molecule. Write its molecular formula.", "output": "C12H17ClFNO"}
+{"input": "What is the molecular formula of the molecule identified by (3R)-3-[4-(4-methoxyphenyl)triazol-1-yl]-1-azabicyclo[2.2.2]octane ?", "output": "C16H20N4O"}
+{"input": "Provide the molecular formula for the IUPAC named substance (2E)-N-[5-(bromomethyl)pyrazin-2-yl]-2-cyclopentyloxyimino-2-(4-cyclopropylsulfonylphenyl)acetamide .", "output": "C21H23BrN4O4S"}
+{"input": "What is the molecular formula of the molecule methyl 2-amino-2-(3-hydroxy-4-methoxyphenyl)acetate;hydrochloride ?", "output": "C10H14ClNO4"}
+{"input": "Under IUPAC nomenclature, a molecule named 3-amino-5-chloro-2-methyl-N-pent-1-yn-3-ylbenzenesulfonamide is given. What is its corresponding molecular formula?", "output": "C12H15ClN2O2S"}
+{"input": "Translate the chemical IUPAC name 4-(2,2-diphenylhydrazinyl)-1,4-diethylcyclohexa-2,5-dien-1-amine into its molecular formula.", "output": "C22H27N3"}
+{"input": "What is the molecular formula of the molecule 2-[(4-bromophenyl)methylsulfonylamino]-N-(2,4-dimethoxyphenyl)benzamide ?", "output": "C22H21BrN2O5S"}
+{"input": "Convert the IUPAC name of a molecule 3,5-bis(trifluoromethyl)benzenesulfonate;(4-bromophenyl)-bis(4-chlorophenyl)sulfanium;methanesulfonate;trifluoromethanesulfonate;tris(4-chlorophenyl)sulfanium;tris(4-fluorophenyl)sulfanium into molecular formula.", "output": "C83H57BrCl8F12O12S8"}
+{"input": "Under IUPAC nomenclature, a molecule named [4-[(4-fluorophenoxy)methyl]-5-methylfuran-2-yl]methanamine is given. What is its corresponding molecular formula?", "output": "C13H14FNO2"}
+{"input": "3-[[4-methoxy-2-(2-methylpropoxy)benzoyl]amino]propanoic acid is the IUPAC name of a molecule. Please give its molecular formula.", "output": "C15H21NO5"}
+{"input": "Please write the molecular formula of the molecule ethyl 3-nitro-5-(4-pyridin-1-ium-4-ylpiperazine-1-carbonyl)benzoate .", "output": "C19H21N4O5+"}
