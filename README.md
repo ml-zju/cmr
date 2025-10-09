@@ -30,7 +30,7 @@ To our knowledge, this is the **first LLM-based agentic system for chemical safe
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/ml-zju/cmr.git
-cd cmr
+cd cmragent
 ```
 ### 2️⃣ Create the Conda environment
 ```bash
@@ -38,7 +38,7 @@ conda env create -f environment.yml
 ```
 ### 3️⃣ Activate the environment
 ```bash
-conda activate cmr
+conda activate cmragent
 ```
 ### 🚀 Run the Application
 Launch CMRAgent
