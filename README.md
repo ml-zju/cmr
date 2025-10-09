@@ -32,18 +32,21 @@ To our knowledge, this is the **first LLM-based agentic system for chemical safe
 git clone https://github.com/ml-zju/cmr.git
 cd cmr
 
-2️⃣ Create the Conda environment
+### 2️⃣ Create the Conda environment
+```bash
 conda env create -f environment.yml
 
-3️⃣ Activate the environment
+### 3️⃣ Activate the environment
+```bash
 conda activate cmr
 
-🚀 Run the Application
+### 🚀 Run the Application
 Launch CMRAgent
+```bash
 streamlit run app.py
 
-📧 Contact
+### 📧 Contact
 For questions, collaborations, or contributions, please reach out: shulin@zju.edu.cn
 
-🧱 License
+### 🧱 License
 This project is released under the MIT License.
