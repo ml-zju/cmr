@@ -27,6 +27,9 @@ PROPERTY_CATEGORIES = {
         "title": "Environmental Properties",
         "properties": [
             "EnvironmentalBioconcentration", "EnvironmentalBiodegradation", "EnvironmentalFate", "EcotoxicityValues",
+            "EcotoxicityExcerpts", "EnvironmentalAbioticDegradation", "EnvironmentalBioconcentration", "EnvironmentalBiodegradation",
+            "EnvironmentalFateExposureSummary", "EnvironmentalWaterConcentrations", "EPAEcotoxicity", "NaturalPollutionSources",
+            "OtherEnvironmentalConcentrations", "SedimentSoilConcentrations", "SoilAdsorptionMobility", "AtmosphericConcentrations",
         ]
     },
     "cmr": {
@@ -39,12 +42,11 @@ PROPERTY_CATEGORIES = {
         "title": "Health Properties",
         "properties": [
             "ExposureRoutes", "AdverseEffects", "ToxicologicalInformation", "EvidenceForCarcinogenicity",
-            "HealthEffects", "ToxicitySummary", "ToxicityData",
-            "HumanToxicityExcerpts",
+            "HealthEffects", "ToxicitySummary", "ToxicityData", "Hepatotoxicity", "PopulationsAtSpecialRisk", "TargetOrgans",
+            "HumanToxicityExcerpts", "ExposureRoutes", "MinimumRiskLevel", "RAISToxicityValues",
         ]
     }
 }
-
 
 def validate_smiles(smiles: str) -> tuple[bool, str]:
     if not smiles:
@@ -376,7 +378,7 @@ def display_cmr_results_from_dict(info, results):
             in_domain = result.get('in_domain', 'N/A')
             prediction = result.get('prediction', 'Not Available')
 
-            color = get_prediction_color(confidence if isinstance(confidence, (int, float)) else 0)
+            color = get_prediction_color(prediction)
 
             cmr_data.append({
                 "Endpoint": prop,
@@ -395,26 +397,31 @@ def display_cmr_results_from_dict(info, results):
     if cmr_data:
         df_category = pd.DataFrame(cmr_data)
         st.markdown(df_category.to_html(escape=False, index=False), unsafe_allow_html=True)
-        display_prediction_guide()
     else:
         st.warning("No CMR prediction results available.")
 
 
-def get_prediction_color(prob):
+def get_prediction_color(prediction):
     try:
-        if isinstance(prob, str):
-            if prob == 'N/A':
-                return "gray"
-            prob = float(prob)
+        # 处理数值类型
+        if isinstance(prediction, (int, float)):
+            if prediction == 1:
+                return "red"  # positive
+            elif prediction == 0:
+                return "green"  # negative
 
-        if prob >= 0.7:
-            return "red"
-        elif prob >= 0.3:
-            return "orange"
-        else:
-            return "green"
+        # 处理字符串类型
+        elif isinstance(prediction, str):
+            prediction_clean = prediction.strip().lower()
+            if prediction_clean in ['1', 'positive']:
+                return "red"
+            elif prediction_clean in ['0', 'negative']:
+                return "green"
+
     except (ValueError, TypeError):
-        return "gray"
+        pass
+
+    return "gray"
 
 
 def display_other_results(info, results):
@@ -431,16 +438,6 @@ def display_other_results(info, results):
         st.markdown(df_category.to_html(index=False), unsafe_allow_html=True)
     else:
         st.warning("No data available for this category.")
-
-
-def display_prediction_guide():
-    st.markdown("""
-    **Prediction Guide:**
-    - 🔴 **Red**: High risk (Probability ≥ 0.7)
-    - 🟠 **Orange**: Moderate risk (0.3 ≤ Probability < 0.7)
-    - 🟢 **Green**: Low risk (Probability < 0.3)
-    """)
-
 
 def display_critical_analysis(results, category):
     analysis_titles = {
@@ -475,8 +472,6 @@ def display_methodology_section():
         st.markdown("""
         **Analytical Methodology:**
         - Computational predictions based on CMRScreen
-        - Structure-activity relationship analysis
-        - Integration of multiple prediction algorithms
 
         **Data Quality Considerations:**
         - Predictions are based on validated computational models
@@ -494,8 +489,6 @@ def display_report_footer():
     st.markdown("---")
     st.caption(f"""
         Report Generated: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')}  
-        Analysis Protocol Version: 2.0  
-        Computational Assessment Framework: CMRScreen
     """)
 
 
@@ -637,7 +630,6 @@ def generate_report_main(
 
         **Note:** 
         - Some properties might not be available for all compounds
-        - Environmental and health sections show structured summaries instead of raw data
         - CMR predictions include probability scores for risk assessment
         """)
 
